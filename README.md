@@ -126,8 +126,8 @@ predictions as discussed above beforehand.
 You can show individual images from the datasets and visualize ImageNet classes
 in the [show_images.ipynb](src/show_images.ipynb) notebook.
 
-The file [superclasses.txt](artefacts/superclasses.txt) contains our (manual) label
-superclass groupings (produced by the definitions in [superclasses.json](artefacts/superclasses.json)).
+In the `artefacts` folder, the file `superclasses.txt` contains our (manual) label
+superclass groupings (produced by the definitions in `superclasses.json`).
 
 The most common erroneous samples from the ImageNet validation set according to
 our pipeline can be found in the [common_error_samples](common_error_samples) folder.
