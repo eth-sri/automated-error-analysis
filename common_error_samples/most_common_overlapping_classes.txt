@@ -1,0 +1,2590 @@
+1) cnt mistakes = 962, file = n02441942/ILSVRC2012_val_00008636.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+2) cnt mistakes = 962, file = n02441942/ILSVRC2012_val_00044247.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+3) cnt mistakes = 962, file = n04152593/ILSVRC2012_val_00002598.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+4) cnt mistakes = 958, file = n03642806/ILSVRC2012_val_00022093.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+5) cnt mistakes = 958, file = n04008634/ILSVRC2012_val_00036376.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+6) cnt mistakes = 955, file = n03642806/ILSVRC2012_val_00024552.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+7) cnt mistakes = 954, file = n02504013/ILSVRC2012_val_00034981.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+101, n01871265: tusker
+385, n02504013: Indian elephant, Elephas maximus
+pred = 101, n01871265: tusker
+
+8) cnt mistakes = 954, file = n03063599/ILSVRC2012_val_00026762.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+9) cnt mistakes = 951, file = n02441942/ILSVRC2012_val_00037395.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+10) cnt mistakes = 951, file = n02441942/ILSVRC2012_val_00047001.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+11) cnt mistakes = 950, file = n02979186/ILSVRC2012_val_00020400.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+12) cnt mistakes = 950, file = n04008634/ILSVRC2012_val_00009183.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+733, n03976657: pole
+657, n03773504: missile
+744, n04008634: projectile, missile
+557, n03355925: flagpole, flagstaff
+pred = 657, n03773504: missile
+
+13) cnt mistakes = 949, file = n03642806/ILSVRC2012_val_00048258.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+14) cnt mistakes = 948, file = n03710637/ILSVRC2012_val_00048893.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+15) cnt mistakes = 948, file = n03773504/ILSVRC2012_val_00049002.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+16) cnt mistakes = 943, file = n02110185/ILSVRC2012_val_00004967.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+17) cnt mistakes = 943, file = n02441942/ILSVRC2012_val_00044001.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+18) cnt mistakes = 943, file = n02441942/ILSVRC2012_val_00049636.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+19) cnt mistakes = 943, file = n03642806/ILSVRC2012_val_00048251.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+20) cnt mistakes = 943, file = n03832673/ILSVRC2012_val_00003207.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+21) cnt mistakes = 940, file = n02504013/ILSVRC2012_val_00001850.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+101, n01871265: tusker
+385, n02504013: Indian elephant, Elephas maximus
+pred = 101, n01871265: tusker
+
+22) cnt mistakes = 934, file = n02979186/ILSVRC2012_val_00017775.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+754, n04041544: radio, wireless
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+23) cnt mistakes = 932, file = n02979186/ILSVRC2012_val_00002034.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+24) cnt mistakes = 929, file = n03642806/ILSVRC2012_val_00001713.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+25) cnt mistakes = 927, file = n02110185/ILSVRC2012_val_00036248.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+26) cnt mistakes = 922, file = n03782006/ILSVRC2012_val_00018503.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+27) cnt mistakes = 921, file = n03710637/ILSVRC2012_val_00018505.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+28) cnt mistakes = 921, file = n04008634/ILSVRC2012_val_00026599.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+29) cnt mistakes = 919, file = n03710637/ILSVRC2012_val_00013859.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 639, n03710721: maillot, tank suit
+
+30) cnt mistakes = 918, file = n02441942/ILSVRC2012_val_00007760.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+31) cnt mistakes = 911, file = n02979186/ILSVRC2012_val_00018559.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+485, n02988304: CD player
+754, n04041544: radio, wireless
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+32) cnt mistakes = 911, file = n04355933/ILSVRC2012_val_00001719.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+33) cnt mistakes = 910, file = n03710637/ILSVRC2012_val_00010435.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+34) cnt mistakes = 895, file = n03710721/ILSVRC2012_val_00016043.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+35) cnt mistakes = 882, file = n03710721/ILSVRC2012_val_00018600.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+36) cnt mistakes = 865, file = n03773504/ILSVRC2012_val_00033144.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+37) cnt mistakes = 864, file = n02504013/ILSVRC2012_val_00000597.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+101, n01871265: tusker
+385, n02504013: Indian elephant, Elephas maximus
+pred = 101, n01871265: tusker
+
+38) cnt mistakes = 850, file = n03710637/ILSVRC2012_val_00049705.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+39) cnt mistakes = 849, file = n02979186/ILSVRC2012_val_00027735.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+40) cnt mistakes = 843, file = n04008634/ILSVRC2012_val_00009436.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+41) cnt mistakes = 840, file = n02110063/ILSVRC2012_val_00000729.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+42) cnt mistakes = 827, file = n02110185/ILSVRC2012_val_00043643.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+43) cnt mistakes = 823, file = n03642806/ILSVRC2012_val_00003418.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+44) cnt mistakes = 821, file = n03773504/ILSVRC2012_val_00001525.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+45) cnt mistakes = 798, file = n03782006/ILSVRC2012_val_00032019.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+46) cnt mistakes = 777, file = n04355933/ILSVRC2012_val_00015836.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+47) cnt mistakes = 755, file = n02979186/ILSVRC2012_val_00047974.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+754, n04041544: radio, wireless
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+48) cnt mistakes = 738, file = n02443114/ILSVRC2012_val_00016853.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+357, n02442845: mink
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+49) cnt mistakes = 723, file = n02504458/ILSVRC2012_val_00016215.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+50) cnt mistakes = 708, file = n02443114/ILSVRC2012_val_00009881.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+357, n02442845: mink
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+51) cnt mistakes = 700, file = n03710721/ILSVRC2012_val_00019278.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+52) cnt mistakes = 684, file = n02443114/ILSVRC2012_val_00011224.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+53) cnt mistakes = 682, file = n03710637/ILSVRC2012_val_00017519.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+54) cnt mistakes = 677, file = n02504013/ILSVRC2012_val_00014681.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+101, n01871265: tusker
+385, n02504013: Indian elephant, Elephas maximus
+pred = 101, n01871265: tusker
+
+55) cnt mistakes = 667, file = n04355933/ILSVRC2012_val_00014720.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+56) cnt mistakes = 661, file = n04008634/ILSVRC2012_val_00033210.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+57) cnt mistakes = 660, file = n03710721/ILSVRC2012_val_00041966.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+854, n04418357: theater curtain, theatre curtain
+pred = 638, n03710637: maillot
+
+58) cnt mistakes = 653, file = n03710721/ILSVRC2012_val_00020057.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+59) cnt mistakes = 635, file = n03832673/ILSVRC2012_val_00016670.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+60) cnt mistakes = 617, file = n02808440/ILSVRC2012_val_00005080.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 876, n04493381: tub, vat
+
+61) cnt mistakes = 609, file = n02110185/ILSVRC2012_val_00033039.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+62) cnt mistakes = 601, file = n02443484/ILSVRC2012_val_00016721.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+357, n02442845: mink
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+63) cnt mistakes = 601, file = n04008634/ILSVRC2012_val_00032572.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+64) cnt mistakes = 600, file = n04008634/ILSVRC2012_val_00016696.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+65) cnt mistakes = 599, file = n02808440/ILSVRC2012_val_00030242.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+66) cnt mistakes = 597, file = n03642806/ILSVRC2012_val_00026305.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+67) cnt mistakes = 596, file = n04008634/ILSVRC2012_val_00040466.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+68) cnt mistakes = 585, file = n02808440/ILSVRC2012_val_00015979.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+69) cnt mistakes = 580, file = n02504458/ILSVRC2012_val_00022907.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+70) cnt mistakes = 577, file = n03710721/ILSVRC2012_val_00035776.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+71) cnt mistakes = 572, file = n03063599/ILSVRC2012_val_00001588.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+72) cnt mistakes = 567, file = n03832673/ILSVRC2012_val_00025240.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+508, n03085013: computer keyboard, keypad
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+73) cnt mistakes = 566, file = n02504013/ILSVRC2012_val_00040923.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+101, n01871265: tusker
+385, n02504013: Indian elephant, Elephas maximus
+pred = 101, n01871265: tusker
+
+74) cnt mistakes = 561, file = n02110185/ILSVRC2012_val_00049291.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+212, n02100735: English setter
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+75) cnt mistakes = 558, file = n03063599/ILSVRC2012_val_00019645.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+76) cnt mistakes = 554, file = n03642806/ILSVRC2012_val_00024496.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+77) cnt mistakes = 546, file = n02979186/ILSVRC2012_val_00044398.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+754, n04041544: radio, wireless
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+78) cnt mistakes = 531, file = n03773504/ILSVRC2012_val_00033306.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+79) cnt mistakes = 530, file = n04355933/ILSVRC2012_val_00015733.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+80) cnt mistakes = 515, file = n04008634/ILSVRC2012_val_00000621.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+81) cnt mistakes = 514, file = n04355933/ILSVRC2012_val_00028448.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+82) cnt mistakes = 512, file = n02443484/ILSVRC2012_val_00033474.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+357, n02442845: mink
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+83) cnt mistakes = 508, file = n03782006/ILSVRC2012_val_00044208.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+84) cnt mistakes = 507, file = n04008634/ILSVRC2012_val_00008246.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+85) cnt mistakes = 493, file = n02504013/ILSVRC2012_val_00011002.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+385, n02504013: Indian elephant, Elephas maximus
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+86) cnt mistakes = 492, file = n02979186/ILSVRC2012_val_00033657.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+481, n02978881: cassette
+482, n02979186: cassette player
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+87) cnt mistakes = 489, file = n02504013/ILSVRC2012_val_00014219.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+101, n01871265: tusker
+385, n02504013: Indian elephant, Elephas maximus
+pred = 101, n01871265: tusker
+
+88) cnt mistakes = 489, file = n03773504/ILSVRC2012_val_00021466.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+89) cnt mistakes = 478, file = n03710637/ILSVRC2012_val_00004531.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+90) cnt mistakes = 476, file = n03642806/ILSVRC2012_val_00037209.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+508, n03085013: computer keyboard, keypad
+620, n03642806: laptop, laptop computer
+664, n03782006: monitor
+681, n03832673: notebook, notebook computer
+782, n04152593: screen, CRT screen
+pred = 681, n03832673: notebook, notebook computer
+
+91) cnt mistakes = 475, file = n02808440/ILSVRC2012_val_00017804.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+92) cnt mistakes = 475, file = n03063599/ILSVRC2012_val_00040997.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+967, n07920052: espresso
+968, n07930864: cup
+960, n07836838: chocolate sauce, chocolate syrup
+pred = 968, n07930864: cup
+
+93) cnt mistakes = 463, file = n02979186/ILSVRC2012_val_00035160.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+485, n02988304: CD player
+754, n04041544: radio, wireless
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+94) cnt mistakes = 461, file = n03773504/ILSVRC2012_val_00010073.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+95) cnt mistakes = 459, file = n03710637/ILSVRC2012_val_00007053.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+733, n03976657: pole
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 639, n03710721: maillot, tank suit
+
+96) cnt mistakes = 456, file = n03832673/ILSVRC2012_val_00039333.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+97) cnt mistakes = 453, file = n03642806/ILSVRC2012_val_00017736.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+664, n03782006: monitor
+681, n03832673: notebook, notebook computer
+782, n04152593: screen, CRT screen
+851, n04404412: television, television system
+pred = 681, n03832673: notebook, notebook computer
+
+98) cnt mistakes = 453, file = n03832673/ILSVRC2012_val_00027698.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+99) cnt mistakes = 447, file = n03773504/ILSVRC2012_val_00031940.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+895, n04552348: warplane, military plane
+pred = 744, n04008634: projectile, missile
+
+100) cnt mistakes = 442, file = n03710637/ILSVRC2012_val_00029104.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+101) cnt mistakes = 439, file = n02443484/ILSVRC2012_val_00011477.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+357, n02442845: mink
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+102) cnt mistakes = 438, file = n03642806/ILSVRC2012_val_00018221.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+810, n04264628: space bar
+pred = 681, n03832673: notebook, notebook computer
+
+103) cnt mistakes = 438, file = n03710637/ILSVRC2012_val_00012080.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+104) cnt mistakes = 430, file = n02808440/ILSVRC2012_val_00016026.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+105) cnt mistakes = 430, file = n04355933/ILSVRC2012_val_00013601.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+106) cnt mistakes = 429, file = n04356056/ILSVRC2012_val_00048182.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 836, n04355933: sunglass
+
+107) cnt mistakes = 426, file = n02110063/ILSVRC2012_val_00039402.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+108) cnt mistakes = 420, file = n03642806/ILSVRC2012_val_00029674.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+109) cnt mistakes = 419, file = n04152593/ILSVRC2012_val_00001526.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+673, n03793489: mouse, computer mouse
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+110) cnt mistakes = 406, file = n02504458/ILSVRC2012_val_00007292.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+386, n02504458: African elephant, Loxodonta africana
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+111) cnt mistakes = 392, file = n03832673/ILSVRC2012_val_00031166.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+112) cnt mistakes = 386, file = n04355933/ILSVRC2012_val_00039088.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+113) cnt mistakes = 385, file = n02110185/ILSVRC2012_val_00006539.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+248, n02109961: Eskimo dog, husky
+250, n02110185: Siberian husky
+pred = 248, n02109961: Eskimo dog, husky
+
+114) cnt mistakes = 376, file = n04356056/ILSVRC2012_val_00023501.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 836, n04355933: sunglass
+
+115) cnt mistakes = 375, file = n03642806/ILSVRC2012_val_00024869.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+664, n03782006: monitor
+681, n03832673: notebook, notebook computer
+782, n04152593: screen, CRT screen
+pred = 681, n03832673: notebook, notebook computer
+
+116) cnt mistakes = 365, file = n02504013/ILSVRC2012_val_00048547.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+101, n01871265: tusker
+385, n02504013: Indian elephant, Elephas maximus
+pred = 101, n01871265: tusker
+
+117) cnt mistakes = 350, file = n02808440/ILSVRC2012_val_00015996.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+118) cnt mistakes = 341, file = n03832673/ILSVRC2012_val_00006899.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+pred = 620, n03642806: laptop, laptop computer
+
+119) cnt mistakes = 339, file = n03832673/ILSVRC2012_val_00043461.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+120) cnt mistakes = 332, file = n04152593/ILSVRC2012_val_00001571.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+526, n03179701: desk
+664, n03782006: monitor
+673, n03793489: mouse, computer mouse
+681, n03832673: notebook, notebook computer
+782, n04152593: screen, CRT screen
+620, n03642806: laptop, laptop computer
+pred = 664, n03782006: monitor
+
+121) cnt mistakes = 332, file = n04355933/ILSVRC2012_val_00007625.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+977, n09421951: sandbar, sand bar
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+122) cnt mistakes = 326, file = n03710721/ILSVRC2012_val_00042939.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+123) cnt mistakes = 325, file = n03710721/ILSVRC2012_val_00038988.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+124) cnt mistakes = 319, file = n04355933/ILSVRC2012_val_00026693.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+125) cnt mistakes = 315, file = n02504458/ILSVRC2012_val_00032404.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+126) cnt mistakes = 315, file = n04008634/ILSVRC2012_val_00018888.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+127) cnt mistakes = 305, file = n04356056/ILSVRC2012_val_00012545.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 836, n04355933: sunglass
+
+128) cnt mistakes = 302, file = n02808440/ILSVRC2012_val_00003786.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+283, n02123394: Persian cat
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+129) cnt mistakes = 300, file = n03642806/ILSVRC2012_val_00031511.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+478, n02971356: carton
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+692, n03871628: packet
+810, n04264628: space bar
+pred = 681, n03832673: notebook, notebook computer
+
+130) cnt mistakes = 295, file = n03642806/ILSVRC2012_val_00016812.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+508, n03085013: computer keyboard, keypad
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+810, n04264628: space bar
+pred = 681, n03832673: notebook, notebook computer
+
+131) cnt mistakes = 294, file = n03832673/ILSVRC2012_val_00032781.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+132) cnt mistakes = 294, file = n04355933/ILSVRC2012_val_00041874.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+133) cnt mistakes = 292, file = n04152593/ILSVRC2012_val_00008286.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+134) cnt mistakes = 287, file = n03773504/ILSVRC2012_val_00006816.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+135) cnt mistakes = 287, file = n02110185/ILSVRC2012_val_00015251.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+136) cnt mistakes = 284, file = n03832673/ILSVRC2012_val_00022184.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+527, n03180011: desktop computer
+620, n03642806: laptop, laptop computer
+664, n03782006: monitor
+673, n03793489: mouse, computer mouse
+681, n03832673: notebook, notebook computer
+782, n04152593: screen, CRT screen
+pred = 620, n03642806: laptop, laptop computer
+
+137) cnt mistakes = 269, file = n03710637/ILSVRC2012_val_00037605.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+138) cnt mistakes = 267, file = n02110185/ILSVRC2012_val_00026678.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+139) cnt mistakes = 256, file = n03063599/ILSVRC2012_val_00017456.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+310, n02219486: ant, emmet, pismire
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+140) cnt mistakes = 252, file = n03063599/ILSVRC2012_val_00019347.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+141) cnt mistakes = 247, file = n02110185/ILSVRC2012_val_00007512.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+142) cnt mistakes = 246, file = n02443114/ILSVRC2012_val_00013853.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+143) cnt mistakes = 243, file = n02979186/ILSVRC2012_val_00033397.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+481, n02978881: cassette
+482, n02979186: cassette player
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+144) cnt mistakes = 237, file = n02979186/ILSVRC2012_val_00017463.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+145) cnt mistakes = 230, file = n04152593/ILSVRC2012_val_00037523.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+851, n04404412: television, television system
+pred = 664, n03782006: monitor
+
+146) cnt mistakes = 225, file = n03773504/ILSVRC2012_val_00012495.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+147) cnt mistakes = 217, file = n04152593/ILSVRC2012_val_00003507.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+148) cnt mistakes = 213, file = n03063599/ILSVRC2012_val_00048875.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+254, n02110958: pug, pug-dog
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+149) cnt mistakes = 210, file = n03773504/ILSVRC2012_val_00029135.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+150) cnt mistakes = 205, file = n03710637/ILSVRC2012_val_00012094.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+151) cnt mistakes = 204, file = n02808440/ILSVRC2012_val_00012591.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+152) cnt mistakes = 201, file = n04355933/ILSVRC2012_val_00021396.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+153) cnt mistakes = 201, file = n03710721/ILSVRC2012_val_00009951.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+154) cnt mistakes = 200, file = n04355933/ILSVRC2012_val_00039909.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+155) cnt mistakes = 200, file = n04008634/ILSVRC2012_val_00016816.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+156) cnt mistakes = 195, file = n04008634/ILSVRC2012_val_00003596.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+157) cnt mistakes = 194, file = n03773504/ILSVRC2012_val_00020413.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+158) cnt mistakes = 186, file = n02110185/ILSVRC2012_val_00023659.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+159) cnt mistakes = 183, file = n02808440/ILSVRC2012_val_00049673.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+160) cnt mistakes = 174, file = n04152593/ILSVRC2012_val_00024781.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+161) cnt mistakes = 172, file = n03773504/ILSVRC2012_val_00037919.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+162) cnt mistakes = 169, file = n04152593/ILSVRC2012_val_00023853.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+526, n03179701: desk
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+527, n03180011: desktop computer
+pred = 664, n03782006: monitor
+
+163) cnt mistakes = 165, file = n03642806/ILSVRC2012_val_00031537.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+508, n03085013: computer keyboard, keypad
+527, n03180011: desktop computer
+620, n03642806: laptop, laptop computer
+673, n03793489: mouse, computer mouse
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+164) cnt mistakes = 163, file = n03832673/ILSVRC2012_val_00038350.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+664, n03782006: monitor
+681, n03832673: notebook, notebook computer
+782, n04152593: screen, CRT screen
+pred = 620, n03642806: laptop, laptop computer
+
+165) cnt mistakes = 161, file = n02443114/ILSVRC2012_val_00003081.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 356, n02441942: weasel
+
+166) cnt mistakes = 161, file = n03710637/ILSVRC2012_val_00000184.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+167) cnt mistakes = 161, file = n03832673/ILSVRC2012_val_00000677.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+681, n03832673: notebook, notebook computer
+916, n06359193: web site, website, internet site, site
+620, n03642806: laptop, laptop computer
+pred = 620, n03642806: laptop, laptop computer
+
+168) cnt mistakes = 159, file = n03063599/ILSVRC2012_val_00010622.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+967, n07920052: espresso
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+169) cnt mistakes = 157, file = n04355933/ILSVRC2012_val_00045136.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+785, n04162706: seat belt, seatbelt
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+170) cnt mistakes = 148, file = n02110063/ILSVRC2012_val_00031001.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+171) cnt mistakes = 143, file = n03710637/ILSVRC2012_val_00043979.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+172) cnt mistakes = 139, file = n02504013/ILSVRC2012_val_00004882.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+101, n01871265: tusker
+385, n02504013: Indian elephant, Elephas maximus
+pred = 101, n01871265: tusker
+
+173) cnt mistakes = 136, file = n02504013/ILSVRC2012_val_00049390.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+385, n02504013: Indian elephant, Elephas maximus
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+174) cnt mistakes = 136, file = n02110185/ILSVRC2012_val_00004192.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+175) cnt mistakes = 134, file = n02808440/ILSVRC2012_val_00036803.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+861, n04447861: toilet seat
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+176) cnt mistakes = 131, file = n02504458/ILSVRC2012_val_00023463.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+177) cnt mistakes = 126, file = n04356056/ILSVRC2012_val_00046814.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+774, n04133789: sandal
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 836, n04355933: sunglass
+
+178) cnt mistakes = 126, file = n03773504/ILSVRC2012_val_00016766.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+179) cnt mistakes = 124, file = n04356056/ILSVRC2012_val_00029273.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 836, n04355933: sunglass
+
+180) cnt mistakes = 124, file = n02443484/ILSVRC2012_val_00033362.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+181) cnt mistakes = 121, file = n03832673/ILSVRC2012_val_00025009.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+608, n03594734: jean, blue jean, denim
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+182) cnt mistakes = 120, file = n03710721/ILSVRC2012_val_00024687.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+433, n02807133: bathing cap, swimming cap
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+183) cnt mistakes = 118, file = n03710721/ILSVRC2012_val_00044100.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+879, n04507155: umbrella
+pred = 638, n03710637: maillot
+
+184) cnt mistakes = 117, file = n02808440/ILSVRC2012_val_00002638.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+185) cnt mistakes = 115, file = n02808440/ILSVRC2012_val_00048839.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+186) cnt mistakes = 114, file = n03773504/ILSVRC2012_val_00024028.JPEG
+target = 657, n03773504: missile
+multi_labels:
+517, n03126707: crane
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+187) cnt mistakes = 114, file = n04356056/ILSVRC2012_val_00047783.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+970, n09193705: alp
+525, n03160309: dam, dike, dyke
+pred = 836, n04355933: sunglass
+
+188) cnt mistakes = 114, file = n04008634/ILSVRC2012_val_00009494.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+189) cnt mistakes = 112, file = n03782006/ILSVRC2012_val_00035743.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+190) cnt mistakes = 112, file = n04152593/ILSVRC2012_val_00034850.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+191) cnt mistakes = 110, file = n02110185/ILSVRC2012_val_00024669.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+192) cnt mistakes = 108, file = n02504458/ILSVRC2012_val_00010619.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+193) cnt mistakes = 108, file = n04356056/ILSVRC2012_val_00023754.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+970, n09193705: alp
+pred = 836, n04355933: sunglass
+
+194) cnt mistakes = 108, file = n04008634/ILSVRC2012_val_00009588.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+195) cnt mistakes = 102, file = n02979186/ILSVRC2012_val_00024874.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+485, n02988304: CD player
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+196) cnt mistakes = 100, file = n04355933/ILSVRC2012_val_00007179.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+197) cnt mistakes = 97, file = n04356056/ILSVRC2012_val_00020477.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 836, n04355933: sunglass
+
+198) cnt mistakes = 88, file = n03063599/ILSVRC2012_val_00002430.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+199) cnt mistakes = 88, file = n04008634/ILSVRC2012_val_00010746.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+655, n03770439: miniskirt, mini
+657, n03773504: missile
+733, n03976657: pole
+744, n04008634: projectile, missile
+pred = 657, n03773504: missile
+
+200) cnt mistakes = 87, file = n03782006/ILSVRC2012_val_00015161.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+673, n03793489: mouse, computer mouse
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+201) cnt mistakes = 85, file = n02808440/ILSVRC2012_val_00006993.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+202) cnt mistakes = 84, file = n02443484/ILSVRC2012_val_00036439.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+203) cnt mistakes = 77, file = n02979186/ILSVRC2012_val_00034563.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+485, n02988304: CD player
+632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+204) cnt mistakes = 76, file = n03782006/ILSVRC2012_val_00028687.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+205) cnt mistakes = 75, file = n02110185/ILSVRC2012_val_00039812.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+206) cnt mistakes = 73, file = n02443484/ILSVRC2012_val_00001909.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 356, n02441942: weasel
+
+207) cnt mistakes = 73, file = n04356056/ILSVRC2012_val_00024708.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 836, n04355933: sunglass
+
+208) cnt mistakes = 71, file = n04356056/ILSVRC2012_val_00008306.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+885, n04525038: velvet
+pred = 836, n04355933: sunglass
+
+209) cnt mistakes = 71, file = n03782006/ILSVRC2012_val_00012397.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+210) cnt mistakes = 67, file = n04152593/ILSVRC2012_val_00042871.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+211) cnt mistakes = 67, file = n03782006/ILSVRC2012_val_00037964.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+673, n03793489: mouse, computer mouse
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+212) cnt mistakes = 66, file = n03710637/ILSVRC2012_val_00028738.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 639, n03710721: maillot, tank suit
+
+213) cnt mistakes = 64, file = n03063599/ILSVRC2012_val_00024445.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+214) cnt mistakes = 62, file = n03782006/ILSVRC2012_val_00040801.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+851, n04404412: television, television system
+pred = 782, n04152593: screen, CRT screen
+
+215) cnt mistakes = 62, file = n04356056/ILSVRC2012_val_00034982.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 836, n04355933: sunglass
+
+216) cnt mistakes = 62, file = n02504013/ILSVRC2012_val_00009280.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+385, n02504013: Indian elephant, Elephas maximus
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+217) cnt mistakes = 61, file = n02504458/ILSVRC2012_val_00018201.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+218) cnt mistakes = 60, file = n02443114/ILSVRC2012_val_00011710.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 356, n02441942: weasel
+
+219) cnt mistakes = 58, file = n03710721/ILSVRC2012_val_00015356.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+220) cnt mistakes = 55, file = n02442845/ILSVRC2012_val_00012258.JPEG
+target = 357, n02442845: mink
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 356, n02441942: weasel
+
+221) cnt mistakes = 55, file = n04152593/ILSVRC2012_val_00028962.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+673, n03793489: mouse, computer mouse
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+222) cnt mistakes = 54, file = n04152593/ILSVRC2012_val_00002810.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+224) cnt mistakes = 51, file = n02504458/ILSVRC2012_val_00033235.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+225) cnt mistakes = 50, file = n03710721/ILSVRC2012_val_00031620.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+226) cnt mistakes = 46, file = n02504013/ILSVRC2012_val_00005704.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+385, n02504013: Indian elephant, Elephas maximus
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+227) cnt mistakes = 45, file = n04356056/ILSVRC2012_val_00046998.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 836, n04355933: sunglass
+
+228) cnt mistakes = 44, file = n02441942/ILSVRC2012_val_00036861.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 357, n02442845: mink
+
+229) cnt mistakes = 44, file = n04355933/ILSVRC2012_val_00000413.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+608, n03594734: jean, blue jean, denim
+421, n02788148: bannister, banister, balustrade, balusters, handrail
+733, n03976657: pole
+464, n02910353: buckle
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+230) cnt mistakes = 44, file = n02443484/ILSVRC2012_val_00027016.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+231) cnt mistakes = 42, file = n02443484/ILSVRC2012_val_00040904.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+357, n02442845: mink
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+232) cnt mistakes = 41, file = n04355933/ILSVRC2012_val_00027775.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+906, n04591157: Windsor tie
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+234) cnt mistakes = 39, file = n02504458/ILSVRC2012_val_00033861.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+235) cnt mistakes = 38, file = n03782006/ILSVRC2012_val_00016317.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+236) cnt mistakes = 36, file = n02443114/ILSVRC2012_val_00033926.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+237) cnt mistakes = 36, file = n04356056/ILSVRC2012_val_00042996.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 836, n04355933: sunglass
+
+238) cnt mistakes = 35, file = n02442845/ILSVRC2012_val_00022124.JPEG
+target = 357, n02442845: mink
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 356, n02441942: weasel
+
+239) cnt mistakes = 34, file = n02504013/ILSVRC2012_val_00022872.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+385, n02504013: Indian elephant, Elephas maximus
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+240) cnt mistakes = 32, file = n02443484/ILSVRC2012_val_00013240.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 356, n02441942: weasel
+
+241) cnt mistakes = 32, file = n02442845/ILSVRC2012_val_00035243.JPEG
+target = 357, n02442845: mink
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 356, n02441942: weasel
+
+242) cnt mistakes = 30, file = n04008634/ILSVRC2012_val_00014543.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+471, n02950826: cannon
+744, n04008634: projectile, missile
+657, n03773504: missile
+pred = 657, n03773504: missile
+
+243) cnt mistakes = 29, file = n02808440/ILSVRC2012_val_00006019.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+245) cnt mistakes = 28, file = n02443114/ILSVRC2012_val_00037122.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+357, n02442845: mink
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+246) cnt mistakes = 27, file = n02443484/ILSVRC2012_val_00014852.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+740, n03995372: power drill
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+pred = 356, n02441942: weasel
+
+247) cnt mistakes = 27, file = n04356056/ILSVRC2012_val_00023605.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 836, n04355933: sunglass
+
+248) cnt mistakes = 26, file = n03832673/ILSVRC2012_val_00041094.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+681, n03832673: notebook, notebook computer
+620, n03642806: laptop, laptop computer
+608, n03594734: jean, blue jean, denim
+pred = 620, n03642806: laptop, laptop computer
+
+249) cnt mistakes = 26, file = n03773504/ILSVRC2012_val_00011773.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+250) cnt mistakes = 26, file = n02504458/ILSVRC2012_val_00034562.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+251) cnt mistakes = 25, file = n03782006/ILSVRC2012_val_00011136.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+851, n04404412: television, television system
+pred = 782, n04152593: screen, CRT screen
+
+252) cnt mistakes = 25, file = n02443114/ILSVRC2012_val_00049220.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+357, n02442845: mink
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+253) cnt mistakes = 25, file = n03773504/ILSVRC2012_val_00022433.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+254) cnt mistakes = 24, file = n02442845/ILSVRC2012_val_00049545.JPEG
+target = 357, n02442845: mink
+multi_labels:
+357, n02442845: mink
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 356, n02441942: weasel
+
+255) cnt mistakes = 22, file = n02504458/ILSVRC2012_val_00021807.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+257) cnt mistakes = 19, file = n03642806/ILSVRC2012_val_00048620.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+259) cnt mistakes = 19, file = n03773504/ILSVRC2012_val_00031707.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+260) cnt mistakes = 19, file = n03710721/ILSVRC2012_val_00044626.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+639, n03710721: maillot, tank suit
+638, n03710637: maillot
+pred = 638, n03710637: maillot
+
+261) cnt mistakes = 19, file = n04152593/ILSVRC2012_val_00027099.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+782, n04152593: screen, CRT screen
+664, n03782006: monitor
+pred = 664, n03782006: monitor
+
+262) cnt mistakes = 19, file = n02979186/ILSVRC2012_val_00034395.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+754, n04041544: radio, wireless
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+263) cnt mistakes = 18, file = n02110185/ILSVRC2012_val_00016669.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+265) cnt mistakes = 17, file = n03832673/ILSVRC2012_val_00019611.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+508, n03085013: computer keyboard, keypad
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+266) cnt mistakes = 17, file = n03782006/ILSVRC2012_val_00046624.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+267) cnt mistakes = 16, file = n02110185/ILSVRC2012_val_00042601.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+268) cnt mistakes = 16, file = n02443484/ILSVRC2012_val_00042850.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+356, n02441942: weasel
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+pred = 356, n02441942: weasel
+
+269) cnt mistakes = 15, file = n02443114/ILSVRC2012_val_00029184.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+356, n02441942: weasel
+357, n02442845: mink
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+270) cnt mistakes = 15, file = n02442845/ILSVRC2012_val_00031891.JPEG
+target = 357, n02442845: mink
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 356, n02441942: weasel
+
+271) cnt mistakes = 15, file = n04356056/ILSVRC2012_val_00005437.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 836, n04355933: sunglass
+
+272) cnt mistakes = 14, file = n02442845/ILSVRC2012_val_00049513.JPEG
+target = 357, n02442845: mink
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 356, n02441942: weasel
+
+274) cnt mistakes = 13, file = n03782006/ILSVRC2012_val_00009529.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+620, n03642806: laptop, laptop computer
+664, n03782006: monitor
+681, n03832673: notebook, notebook computer
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+276) cnt mistakes = 13, file = n03782006/ILSVRC2012_val_00047803.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+485, n02988304: CD player
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+277) cnt mistakes = 13, file = n03642806/ILSVRC2012_val_00000660.JPEG
+target = 620, n03642806: laptop, laptop computer
+multi_labels:
+526, n03179701: desk
+620, n03642806: laptop, laptop computer
+673, n03793489: mouse, computer mouse
+681, n03832673: notebook, notebook computer
+pred = 681, n03832673: notebook, notebook computer
+
+278) cnt mistakes = 12, file = n04152593/ILSVRC2012_val_00039362.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+280) cnt mistakes = 12, file = n03773504/ILSVRC2012_val_00045982.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+282) cnt mistakes = 11, file = n04152593/ILSVRC2012_val_00011928.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+526, n03179701: desk
+782, n04152593: screen, CRT screen
+664, n03782006: monitor
+pred = 664, n03782006: monitor
+
+283) cnt mistakes = 11, file = n03063599/ILSVRC2012_val_00023189.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+831, n04344873: studio couch, day bed
+846, n04380533: table lamp
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+285) cnt mistakes = 10, file = n02504458/ILSVRC2012_val_00010078.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+
+286) cnt mistakes = 10, file = n02443484/ILSVRC2012_val_00001791.JPEG
+target = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 356, n02441942: weasel
+
+287) cnt mistakes = 10, file = n03063599/ILSVRC2012_val_00043571.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+289) cnt mistakes = 9, file = n03710721/ILSVRC2012_val_00034525.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 638, n03710637: maillot
+
+290) cnt mistakes = 9, file = n02808440/ILSVRC2012_val_00043361.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+291) cnt mistakes = 9, file = n03063599/ILSVRC2012_val_00003131.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+292) cnt mistakes = 9, file = n02110185/ILSVRC2012_val_00023437.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+293) cnt mistakes = 8, file = n03832673/ILSVRC2012_val_00037479.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+620, n03642806: laptop, laptop computer
+681, n03832673: notebook, notebook computer
+pred = 620, n03642806: laptop, laptop computer
+
+294) cnt mistakes = 8, file = n02808440/ILSVRC2012_val_00028638.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 876, n04493381: tub, vat
+
+295) cnt mistakes = 8, file = n02504458/ILSVRC2012_val_00004013.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+386, n02504458: African elephant, Loxodonta africana
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+296) cnt mistakes = 7, file = n02443114/ILSVRC2012_val_00008891.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+356, n02441942: weasel
+357, n02442845: mink
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+297) cnt mistakes = 7, file = n02110185/ILSVRC2012_val_00021736.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+298) cnt mistakes = 7, file = n04356056/ILSVRC2012_val_00044858.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+970, n09193705: alp
+pred = 836, n04355933: sunglass
+
+299) cnt mistakes = 7, file = n02110063/ILSVRC2012_val_00021051.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+300) cnt mistakes = 7, file = n02442845/ILSVRC2012_val_00005294.JPEG
+target = 357, n02442845: mink
+multi_labels:
+357, n02442845: mink
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 356, n02441942: weasel
+
+303) cnt mistakes = 6, file = n02110063/ILSVRC2012_val_00010500.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+304) cnt mistakes = 5, file = n02504013/ILSVRC2012_val_00011247.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+385, n02504013: Indian elephant, Elephas maximus
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+305) cnt mistakes = 5, file = n04355933/ILSVRC2012_val_00013274.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+306) cnt mistakes = 5, file = n02441942/ILSVRC2012_val_00045854.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 357, n02442845: mink
+
+307) cnt mistakes = 5, file = n04355933/ILSVRC2012_val_00044566.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+629, n03676483: lipstick, lip rouge
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+308) cnt mistakes = 5, file = n04008634/ILSVRC2012_val_00018756.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+744, n04008634: projectile, missile
+657, n03773504: missile
+pred = 657, n03773504: missile
+
+311) cnt mistakes = 4, file = n02443114/ILSVRC2012_val_00002339.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+357, n02442845: mink
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+312) cnt mistakes = 4, file = n02110063/ILSVRC2012_val_00034036.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+313) cnt mistakes = 4, file = n04356056/ILSVRC2012_val_00034012.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 836, n04355933: sunglass
+
+314) cnt mistakes = 4, file = n04355933/ILSVRC2012_val_00043833.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+457, n02883205: bow tie, bow-tie, bowtie
+pred = 837, n04356056: sunglasses, dark glasses, shades
+
+315) cnt mistakes = 4, file = n04356056/ILSVRC2012_val_00019584.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+837, n04356056: sunglasses, dark glasses, shades
+898, n04557648: water bottle
+836, n04355933: sunglass
+pred = 836, n04355933: sunglass
+
+316) cnt mistakes = 4, file = n02110063/ILSVRC2012_val_00008270.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+248, n02109961: Eskimo dog, husky
+249, n02110063: malamute, malemute, Alaskan malamute
+250, n02110185: Siberian husky
+pred = 248, n02109961: Eskimo dog, husky
+
+318) cnt mistakes = 4, file = n02979186/ILSVRC2012_val_00031964.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+485, n02988304: CD player
+848, n04392985: tape player
+pred = 848, n04392985: tape player
+
+319) cnt mistakes = 4, file = n02441942/ILSVRC2012_val_00001386.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+320) cnt mistakes = 3, file = n04152593/ILSVRC2012_val_00019442.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+508, n03085013: computer keyboard, keypad
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+673, n03793489: mouse, computer mouse
+782, n04152593: screen, CRT screen
+pred = 664, n03782006: monitor
+
+321) cnt mistakes = 3, file = n02442845/ILSVRC2012_val_00025532.JPEG
+target = 357, n02442845: mink
+multi_labels:
+357, n02442845: mink
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+322) cnt mistakes = 3, file = n04356056/ILSVRC2012_val_00025907.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 836, n04355933: sunglass
+
+323) cnt mistakes = 3, file = n02504458/ILSVRC2012_val_00037659.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+386, n02504458: African elephant, Loxodonta africana
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+326) cnt mistakes = 3, file = n03063599/ILSVRC2012_val_00021374.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+329) cnt mistakes = 3, file = n02442845/ILSVRC2012_val_00029498.JPEG
+target = 357, n02442845: mink
+multi_labels:
+357, n02442845: mink
+356, n02441942: weasel
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+330) cnt mistakes = 3, file = n02110063/ILSVRC2012_val_00038751.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+331) cnt mistakes = 2, file = n02110063/ILSVRC2012_val_00007216.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+332) cnt mistakes = 2, file = n02110063/ILSVRC2012_val_00042409.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+333) cnt mistakes = 2, file = n02504013/ILSVRC2012_val_00049425.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+101, n01871265: tusker
+385, n02504013: Indian elephant, Elephas maximus
+pred = 101, n01871265: tusker
+
+335) cnt mistakes = 2, file = n02110063/ILSVRC2012_val_00017722.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+336) cnt mistakes = 2, file = n03063599/ILSVRC2012_val_00023112.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+337) cnt mistakes = 2, file = n02443114/ILSVRC2012_val_00039421.JPEG
+target = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+multi_labels:
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+356, n02441942: weasel
+357, n02442845: mink
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 359, n02443484: black-footed ferret, ferret, Mustela nigripes
+
+339) cnt mistakes = 2, file = n03782006/ILSVRC2012_val_00049172.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+526, n03179701: desk
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+340) cnt mistakes = 2, file = n03063599/ILSVRC2012_val_00025548.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+342) cnt mistakes = 1, file = n03832673/ILSVRC2012_val_00021380.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+681, n03832673: notebook, notebook computer
+620, n03642806: laptop, laptop computer
+pred = 620, n03642806: laptop, laptop computer
+
+343) cnt mistakes = 1, file = n04152593/ILSVRC2012_val_00031893.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+526, n03179701: desk
+782, n04152593: screen, CRT screen
+905, n04590129: window shade
+664, n03782006: monitor
+pred = 664, n03782006: monitor
+
+344) cnt mistakes = 1, file = n04152593/ILSVRC2012_val_00036252.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+782, n04152593: screen, CRT screen
+851, n04404412: television, television system
+664, n03782006: monitor
+pred = 664, n03782006: monitor
+
+345) cnt mistakes = 1, file = n02441942/ILSVRC2012_val_00022151.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+
+348) cnt mistakes = 1, file = n02110185/ILSVRC2012_val_00044573.JPEG
+target = 250, n02110185: Siberian husky
+multi_labels:
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+349) cnt mistakes = 1, file = n02441942/ILSVRC2012_val_00024239.JPEG
+target = 356, n02441942: weasel
+multi_labels:
+356, n02441942: weasel
+357, n02442845: mink
+358, n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+359, n02443484: black-footed ferret, ferret, Mustela nigripes
+pred = 357, n02442845: mink
+
+351) cnt mistakes = 1, file = n03832673/ILSVRC2012_val_00045232.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+508, n03085013: computer keyboard, keypad
+681, n03832673: notebook, notebook computer
+620, n03642806: laptop, laptop computer
+pred = 620, n03642806: laptop, laptop computer
+
+355) cnt mistakes = 1, file = n03773504/ILSVRC2012_val_00024286.JPEG
+target = 657, n03773504: missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 744, n04008634: projectile, missile
+
+357) cnt mistakes = 1, file = n03832673/ILSVRC2012_val_00042612.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+681, n03832673: notebook, notebook computer
+761, n04074963: remote control, remote
+620, n03642806: laptop, laptop computer
+pred = 620, n03642806: laptop, laptop computer
+
+358) cnt mistakes = 1, file = n03710721/ILSVRC2012_val_00030322.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+433, n02807133: bathing cap, swimming cap
+639, n03710721: maillot, tank suit
+638, n03710637: maillot
+pred = 638, n03710637: maillot
+
+359) cnt mistakes = 1, file = n03782006/ILSVRC2012_val_00036107.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+361) cnt mistakes = 1, file = n03063599/ILSVRC2012_val_00027194.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 968, n07930864: cup
+
+362) cnt mistakes = 1, file = n03710721/ILSVRC2012_val_00012207.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+639, n03710721: maillot, tank suit
+638, n03710637: maillot
+pred = 638, n03710637: maillot
+
+363) cnt mistakes = 1, file = n02110063/ILSVRC2012_val_00027875.JPEG
+target = 249, n02110063: malamute, malemute, Alaskan malamute
+multi_labels:
+249, n02110063: malamute, malemute, Alaskan malamute
+248, n02109961: Eskimo dog, husky
+pred = 248, n02109961: Eskimo dog, husky
+
+366) cnt mistakes = 1, file = n03782006/ILSVRC2012_val_00022971.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+526, n03179701: desk
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+620, n03642806: laptop, laptop computer
+508, n03085013: computer keyboard, keypad
+pred = 782, n04152593: screen, CRT screen
+
+368) cnt mistakes = 1, file = n02504013/ILSVRC2012_val_00020120.JPEG
+target = 385, n02504013: Indian elephant, Elephas maximus
+multi_labels:
+385, n02504013: Indian elephant, Elephas maximus
+101, n01871265: tusker
+pred = 101, n01871265: tusker
+
+369) cnt mistakes = 1, file = n04008634/ILSVRC2012_val_00043780.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+744, n04008634: projectile, missile
+657, n03773504: missile
+pred = 657, n03773504: missile
+
+371) cnt mistakes = 1, file = n03782006/ILSVRC2012_val_00049772.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+742, n04004767: printer
+782, n04152593: screen, CRT screen
+pred = 782, n04152593: screen, CRT screen
+
+372) cnt mistakes = 1, file = n02504458/ILSVRC2012_val_00005109.JPEG
+target = 386, n02504458: African elephant, Loxodonta africana
+multi_labels:
+101, n01871265: tusker
+386, n02504458: African elephant, Loxodonta africana
+pred = 101, n01871265: tusker
+

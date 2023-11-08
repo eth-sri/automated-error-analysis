@@ -1,0 +1,212 @@
+1) cnt mistakes = 676, file = n04239074/ILSVRC2012_val_00045789.JPEG
+target = 799, n04239074: sliding door
+multi_labels:
+799, n04239074: sliding door
+pred = 757, n04065272: recreational vehicle, RV, R.V.
+
+2) cnt mistakes = 625, file = n03476684/ILSVRC2012_val_00032145.JPEG
+target = 584, n03476684: hair slide
+multi_labels:
+584, n03476684: hair slide
+pred = 723, n03944341: pinwheel
+
+3) cnt mistakes = 553, file = n02089973/ILSVRC2012_val_00037826.JPEG
+target = 167, n02089973: English foxhound
+multi_labels:
+167, n02089973: English foxhound
+pred = 180, n02093428: American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier
+
+4) cnt mistakes = 552, file = n03908618/ILSVRC2012_val_00049972.JPEG
+target = 709, n03908618: pencil box, pencil case
+multi_labels:
+709, n03908618: pencil box, pencil case
+748, n04026417: purse
+pred = 721, n03938244: pillow
+
+5) cnt mistakes = 525, file = n03271574/ILSVRC2012_val_00029507.JPEG
+target = 545, n03271574: electric fan, blower
+multi_labels:
+545, n03271574: electric fan, blower
+616, n03627232: knot
+pred = 632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+
+6) cnt mistakes = 524, file = n04579432/ILSVRC2012_val_00021758.JPEG
+target = 902, n04579432: whistle
+multi_labels:
+902, n04579432: whistle
+pred = 711, n03916031: perfume, essence
+
+7) cnt mistakes = 507, file = n04330267/ILSVRC2012_val_00019610.JPEG
+target = 827, n04330267: stove
+multi_labels:
+827, n04330267: stove
+pred = 588, n03482405: hamper
+
+8) cnt mistakes = 445, file = n02115641/ILSVRC2012_val_00033743.JPEG
+target = 273, n02115641: dingo, warrigal, warragal, Canis dingo
+multi_labels:
+273, n02115641: dingo, warrigal, warragal, Canis dingo
+pred = 253, n02110806: basenji
+
+9) cnt mistakes = 379, file = n03874599/ILSVRC2012_val_00024366.JPEG
+target = 695, n03874599: padlock
+multi_labels:
+695, n03874599: padlock
+pred = 787, n04192698: shield, buckler
+
+10) cnt mistakes = 180, file = n02895154/ILSVRC2012_val_00021641.JPEG
+target = 461, n02895154: breastplate, aegis, egis
+multi_labels:
+461, n02895154: breastplate, aegis, egis
+pred = 899, n04560804: water jug
+
+11) cnt mistakes = 179, file = n07614500/ILSVRC2012_val_00020294.JPEG
+target = 928, n07614500: ice cream, icecream
+multi_labels:
+928, n07614500: ice cream, icecream
+pred = 935, n07711569: mashed potato
+
+12) cnt mistakes = 144, file = n03372029/ILSVRC2012_val_00029188.JPEG
+target = 558, n03372029: flute, transverse flute
+multi_labels:
+558, n03372029: flute, transverse flute
+pred = 731, n03970156: plunger, plumber's helper
+
+13) cnt mistakes = 133, file = n02490219/ILSVRC2012_val_00011913.JPEG
+target = 377, n02490219: marmoset
+multi_labels:
+377, n02490219: marmoset
+pred = 76, n01774750: tarantula
+
+24) cnt mistakes = 69, file = n03014705/ILSVRC2012_val_00018061.JPEG
+target = 492, n03014705: chest
+multi_labels:
+492, n03014705: chest
+pred = 771, n04125021: safe
+
+25) cnt mistakes = 69, file = n01641577/ILSVRC2012_val_00006409.JPEG
+target = 30, n01641577: bullfrog, Rana catesbeiana
+multi_labels:
+30, n01641577: bullfrog, Rana catesbeiana
+pred = 39, n01677366: common iguana, iguana, Iguana iguana
+
+28) cnt mistakes = 60, file = n02099267/ILSVRC2012_val_00035881.JPEG
+target = 205, n02099267: flat-coated retriever
+multi_labels:
+205, n02099267: flat-coated retriever
+pred = 244, n02108551: Tibetan mastiff
+
+31) cnt mistakes = 54, file = n03825788/ILSVRC2012_val_00011962.JPEG
+target = 680, n03825788: nipple
+multi_labels:
+680, n03825788: nipple
+pred = 470, n02948072: candle, taper, wax light
+
+44) cnt mistakes = 38, file = n03014705/ILSVRC2012_val_00034615.JPEG
+target = 492, n03014705: chest
+multi_labels:
+492, n03014705: chest
+679, n03814906: necklace
+pred = 754, n04041544: radio, wireless
+
+54) cnt mistakes = 25, file = n02447366/ILSVRC2012_val_00037899.JPEG
+target = 362, n02447366: badger
+multi_labels:
+362, n02447366: badger
+pred = 106, n01883070: wombat
+
+65) cnt mistakes = 18, file = n04560804/ILSVRC2012_val_00005897.JPEG
+target = 899, n04560804: water jug
+multi_labels:
+899, n04560804: water jug
+pred = 550, n03297495: espresso maker
+
+67) cnt mistakes = 17, file = n02690373/ILSVRC2012_val_00043242.JPEG
+target = 404, n02690373: airliner
+multi_labels:
+404, n02690373: airliner
+pred = 913, n04606251: wreck
+
+78) cnt mistakes = 15, file = n03676483/ILSVRC2012_val_00040982.JPEG
+target = 629, n03676483: lipstick, lip rouge
+multi_labels:
+629, n03676483: lipstick, lip rouge
+pred = 438, n02815834: beaker
+
+86) cnt mistakes = 13, file = n02869837/ILSVRC2012_val_00049649.JPEG
+target = 452, n02869837: bonnet, poke bonnet
+multi_labels:
+629, n03676483: lipstick, lip rouge
+452, n02869837: bonnet, poke bonnet
+773, n04131690: saltshaker, salt shaker
+pred = 463, n02909870: bucket, pail
+
+104) cnt mistakes = 9, file = n02106166/ILSVRC2012_val_00049998.JPEG
+target = 232, n02106166: Border collie
+multi_labels:
+232, n02106166: Border collie
+pred = 361, n02445715: skunk, polecat, wood pussy
+
+125) cnt mistakes = 6, file = n01693334/ILSVRC2012_val_00004102.JPEG
+target = 46, n01693334: green lizard, Lacerta viridis
+multi_labels:
+46, n01693334: green lizard, Lacerta viridis
+pred = 990, n12768682: buckeye, horse chestnut, conker
+
+164) cnt mistakes = 3, file = n03796401/ILSVRC2012_val_00042157.JPEG
+target = 675, n03796401: moving van
+multi_labels:
+675, n03796401: moving van
+pred = 660, n03776460: mobile home, manufactured home
+
+210) cnt mistakes = 2, file = n02104029/ILSVRC2012_val_00045545.JPEG
+target = 222, n02104029: kuvasz
+multi_labels:
+222, n02104029: kuvasz
+pred = 249, n02110063: malamute, malemute, Alaskan malamute
+
+218) cnt mistakes = 2, file = n01630670/ILSVRC2012_val_00003189.JPEG
+target = 26, n01630670: common newt, Triturus vulgaris
+multi_labels:
+26, n01630670: common newt, Triturus vulgaris
+pred = 32, n01644900: tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+
+259) cnt mistakes = 1, file = n03590841/ILSVRC2012_val_00038039.JPEG
+target = 607, n03590841: jack-o'-lantern
+multi_labels:
+607, n03590841: jack-o'-lantern
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+292) cnt mistakes = 1, file = n03481172/ILSVRC2012_val_00027296.JPEG
+target = 587, n03481172: hammer
+multi_labels:
+587, n03481172: hammer
+600, n03532672: hook, claw
+pred = 618, n03633091: ladle
+
+302) cnt mistakes = 1, file = n02113023/ILSVRC2012_val_00045747.JPEG
+target = 263, n02113023: Pembroke, Pembroke Welsh corgi
+multi_labels:
+263, n02113023: Pembroke, Pembroke Welsh corgi
+pred = 249, n02110063: malamute, malemute, Alaskan malamute
+
+310) cnt mistakes = 1, file = n07930864/ILSVRC2012_val_00032629.JPEG
+target = 968, n07930864: cup
+multi_labels:
+968, n07930864: cup
+495, n03018349: china cabinet, china closet
+pred = 406, n02699494: altar
+
+325) cnt mistakes = 1, file = n02979186/ILSVRC2012_val_00005866.JPEG
+target = 482, n02979186: cassette player
+multi_labels:
+482, n02979186: cassette player
+848, n04392985: tape player
+pred = 882, n04517823: vacuum, vacuum cleaner
+
+384) cnt mistakes = 1, file = n02119022/ILSVRC2012_val_00004643.JPEG
+target = 277, n02119022: red fox, Vulpes vulpes
+multi_labels:
+277, n02119022: red fox, Vulpes vulpes
+pred = 188, n02095314: wire-haired fox terrier
+

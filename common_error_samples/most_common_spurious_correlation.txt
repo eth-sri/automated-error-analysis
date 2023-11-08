@@ -1,0 +1,5540 @@
+1) cnt mistakes = 962, file = n03459775/ILSVRC2012_val_00039343.JPEG
+target = 581, n03459775: grille, radiator grille
+multi_labels:
+581, n03459775: grille, radiator grille
+pred = 734, n03977966: police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+
+2) cnt mistakes = 959, file = n02091635/ILSVRC2012_val_00022982.JPEG
+target = 175, n02091635: otterhound, otter hound
+multi_labels:
+175, n02091635: otterhound, otter hound
+pred = 226, n02105251: briard
+
+3) cnt mistakes = 915, file = n04229816/ILSVRC2012_val_00014358.JPEG
+target = 796, n04229816: ski mask
+multi_labels:
+796, n04229816: ski mask
+970, n09193705: alp
+pred = 795, n04228054: ski
+
+4) cnt mistakes = 892, file = n04532106/ILSVRC2012_val_00018024.JPEG
+target = 887, n04532106: vestment
+multi_labels:
+887, n04532106: vestment
+pred = 406, n02699494: altar
+
+5) cnt mistakes = 849, file = n02870880/ILSVRC2012_val_00020066.JPEG
+target = 453, n02870880: bookcase
+multi_labels:
+453, n02870880: bookcase
+pred = 454, n02871525: bookshop, bookstore, bookstall
+
+6) cnt mistakes = 832, file = n04553703/ILSVRC2012_val_00013534.JPEG
+target = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+multi_labels:
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 648, n03742115: medicine chest, medicine cabinet
+
+7) cnt mistakes = 828, file = n04371430/ILSVRC2012_val_00027225.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+pred = 445, n02837789: bikini, two-piece
+
+8) cnt mistakes = 828, file = n07745940/ILSVRC2012_val_00012652.JPEG
+target = 949, n07745940: strawberry
+multi_labels:
+949, n07745940: strawberry
+pred = 927, n07613480: trifle
+
+9) cnt mistakes = 801, file = n03961711/ILSVRC2012_val_00044071.JPEG
+target = 729, n03961711: plate rack
+multi_labels:
+729, n03961711: plate rack
+pred = 534, n03207941: dishwasher, dish washer, dishwashing machine
+
+10) cnt mistakes = 788, file = n03710721/ILSVRC2012_val_00031620.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 433, n02807133: bathing cap, swimming cap
+
+11) cnt mistakes = 750, file = n02999410/ILSVRC2012_val_00023467.JPEG
+target = 488, n02999410: chain
+multi_labels:
+488, n02999410: chain
+pred = 600, n03532672: hook, claw
+
+12) cnt mistakes = 748, file = n03991062/ILSVRC2012_val_00042420.JPEG
+target = 738, n03991062: pot, flowerpot
+multi_labels:
+738, n03991062: pot, flowerpot
+pred = 580, n03457902: greenhouse, nursery, glasshouse
+
+13) cnt mistakes = 743, file = n04599235/ILSVRC2012_val_00001417.JPEG
+target = 911, n04599235: wool, woolen, woollen
+multi_labels:
+911, n04599235: wool, woolen, woollen
+pred = 452, n02869837: bonnet, poke bonnet
+
+14) cnt mistakes = 733, file = n02999410/ILSVRC2012_val_00034338.JPEG
+target = 488, n02999410: chain
+multi_labels:
+488, n02999410: chain
+839, n04366367: suspension bridge
+pred = 843, n04371774: swing
+
+15) cnt mistakes = 721, file = n06874185/ILSVRC2012_val_00003209.JPEG
+target = 920, n06874185: traffic light, traffic signal, stoplight
+multi_labels:
+518, n03127747: crash helmet
+920, n06874185: traffic light, traffic signal, stoplight
+pred = 444, n02835271: bicycle-built-for-two, tandem bicycle, tandem
+
+16) cnt mistakes = 714, file = n02104029/ILSVRC2012_val_00045545.JPEG
+target = 222, n02104029: kuvasz
+multi_labels:
+222, n02104029: kuvasz
+pred = 258, n02111889: Samoyed, Samoyede
+
+17) cnt mistakes = 711, file = n04370456/ILSVRC2012_val_00025992.JPEG
+target = 841, n04370456: sweatshirt
+multi_labels:
+841, n04370456: sweatshirt
+pred = 501, n03045698: cloak
+
+18) cnt mistakes = 695, file = n02999410/ILSVRC2012_val_00017085.JPEG
+target = 488, n02999410: chain
+multi_labels:
+488, n02999410: chain
+pred = 600, n03532672: hook, claw
+
+19) cnt mistakes = 692, file = n04560804/ILSVRC2012_val_00022214.JPEG
+target = 899, n04560804: water jug
+multi_labels:
+899, n04560804: water jug
+pred = 898, n04557648: water bottle
+
+20) cnt mistakes = 679, file = n02916936/ILSVRC2012_val_00028143.JPEG
+target = 465, n02916936: bulletproof vest
+multi_labels:
+465, n02916936: bulletproof vest
+734, n03977966: police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+pred = 652, n03763968: military uniform
+
+21) cnt mistakes = 671, file = n02974003/ILSVRC2012_val_00003218.JPEG
+target = 479, n02974003: car wheel
+multi_labels:
+479, n02974003: car wheel
+581, n03459775: grille, radiator grille
+pred = 436, n02814533: beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+
+22) cnt mistakes = 659, file = n04552348/ILSVRC2012_val_00019254.JPEG
+target = 895, n04552348: warplane, military plane
+multi_labels:
+895, n04552348: warplane, military plane
+733, n03976657: pole
+488, n02999410: chain
+pred = 403, n02687172: aircraft carrier, carrier, flattop, attack aircraft carrier
+
+23) cnt mistakes = 647, file = n04141327/ILSVRC2012_val_00011950.JPEG
+target = 777, n04141327: scabbard
+multi_labels:
+777, n04141327: scabbard
+pred = 597, n03527444: holster
+
+24) cnt mistakes = 642, file = n04532106/ILSVRC2012_val_00019983.JPEG
+target = 887, n04532106: vestment
+multi_labels:
+887, n04532106: vestment
+pred = 406, n02699494: altar
+
+25) cnt mistakes = 632, file = n04591157/ILSVRC2012_val_00006138.JPEG
+target = 906, n04591157: Windsor tie
+multi_labels:
+906, n04591157: Windsor tie
+pred = 650, n03759954: microphone, mike
+
+26) cnt mistakes = 610, file = n03976657/ILSVRC2012_val_00007408.JPEG
+target = 733, n03976657: pole
+multi_labels:
+733, n03976657: pole
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+27) cnt mistakes = 608, file = n04591157/ILSVRC2012_val_00023814.JPEG
+target = 906, n04591157: Windsor tie
+multi_labels:
+906, n04591157: Windsor tie
+pred = 834, n04350905: suit, suit of clothes
+
+28) cnt mistakes = 590, file = n04557648/ILSVRC2012_val_00019201.JPEG
+target = 898, n04557648: water bottle
+multi_labels:
+898, n04557648: water bottle
+pred = 899, n04560804: water jug
+
+29) cnt mistakes = 589, file = n04443257/ILSVRC2012_val_00018548.JPEG
+target = 860, n04443257: tobacco shop, tobacconist shop, tobacconist
+multi_labels:
+860, n04443257: tobacco shop, tobacconist shop, tobacconist
+pred = 919, n06794110: street sign
+
+30) cnt mistakes = 589, file = n04409515/ILSVRC2012_val_00017369.JPEG
+target = 852, n04409515: tennis ball
+multi_labels:
+852, n04409515: tennis ball
+pred = 752, n04039381: racket, racquet
+
+31) cnt mistakes = 575, file = n03388549/ILSVRC2012_val_00009375.JPEG
+target = 564, n03388549: four-poster
+multi_labels:
+520, n03131574: crib, cot
+564, n03388549: four-poster
+pred = 669, n03788365: mosquito net
+
+32) cnt mistakes = 571, file = n09421951/ILSVRC2012_val_00030353.JPEG
+target = 977, n09421951: sandbar, sand bar
+multi_labels:
+977, n09421951: sandbar, sand bar
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+33) cnt mistakes = 560, file = n02231487/ILSVRC2012_val_00047952.JPEG
+target = 313, n02231487: walking stick, walkingstick, stick insect
+multi_labels:
+313, n02231487: walking stick, walkingstick, stick insect
+464, n02910353: buckle
+pred = 597, n03527444: holster
+
+34) cnt mistakes = 560, file = n03124170/ILSVRC2012_val_00003256.JPEG
+target = 515, n03124170: cowboy hat, ten-gallon hat
+multi_labels:
+514, n03124043: cowboy boot
+515, n03124170: cowboy hat, ten-gallon hat
+pred = 655, n03770439: miniskirt, mini
+
+35) cnt mistakes = 547, file = n04370456/ILSVRC2012_val_00008911.JPEG
+target = 841, n04370456: sweatshirt
+multi_labels:
+825, n04326547: stone wall
+841, n04370456: sweatshirt
+pred = 649, n03743016: megalith, megalithic structure
+
+36) cnt mistakes = 546, file = n04443257/ILSVRC2012_val_00030711.JPEG
+target = 860, n04443257: tobacco shop, tobacconist shop, tobacconist
+multi_labels:
+860, n04443257: tobacco shop, tobacconist shop, tobacconist
+pred = 919, n06794110: street sign
+
+37) cnt mistakes = 541, file = n03933933/ILSVRC2012_val_00000121.JPEG
+target = 718, n03933933: pier
+multi_labels:
+718, n03933933: pier
+pred = 449, n02859443: boathouse
+
+38) cnt mistakes = 534, file = n04532106/ILSVRC2012_val_00019133.JPEG
+target = 887, n04532106: vestment
+multi_labels:
+887, n04532106: vestment
+pred = 689, n03866082: overskirt
+
+39) cnt mistakes = 520, file = n04350905/ILSVRC2012_val_00030307.JPEG
+target = 834, n04350905: suit, suit of clothes
+multi_labels:
+834, n04350905: suit, suit of clothes
+pred = 869, n04479046: trench coat
+
+40) cnt mistakes = 519, file = n03602883/ILSVRC2012_val_00003233.JPEG
+target = 613, n03602883: joystick
+multi_labels:
+613, n03602883: joystick
+pred = 673, n03793489: mouse, computer mouse
+
+41) cnt mistakes = 514, file = n04286575/ILSVRC2012_val_00044096.JPEG
+target = 818, n04286575: spotlight, spot
+multi_labels:
+753, n04040759: radiator
+818, n04286575: spotlight, spot
+905, n04590129: window shade
+pred = 831, n04344873: studio couch, day bed
+
+42) cnt mistakes = 509, file = n02099267/ILSVRC2012_val_00035881.JPEG
+target = 205, n02099267: flat-coated retriever
+multi_labels:
+205, n02099267: flat-coated retriever
+pred = 197, n02097130: giant schnauzer
+
+43) cnt mistakes = 501, file = n04592741/ILSVRC2012_val_00011343.JPEG
+target = 908, n04592741: wing
+multi_labels:
+908, n04592741: wing
+pred = 404, n02690373: airliner
+
+44) cnt mistakes = 498, file = n04152593/ILSVRC2012_val_00036252.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+782, n04152593: screen, CRT screen
+851, n04404412: television, television system
+664, n03782006: monitor
+pred = 598, n03529860: home theater, home theatre
+
+45) cnt mistakes = 496, file = n02105251/ILSVRC2012_val_00006419.JPEG
+target = 226, n02105251: briard
+multi_labels:
+226, n02105251: briard
+pred = 197, n02097130: giant schnauzer
+
+46) cnt mistakes = 485, file = n06874185/ILSVRC2012_val_00044492.JPEG
+target = 920, n06874185: traffic light, traffic signal, stoplight
+multi_labels:
+920, n06874185: traffic light, traffic signal, stoplight
+pred = 919, n06794110: street sign
+
+47) cnt mistakes = 482, file = n03127747/ILSVRC2012_val_00036211.JPEG
+target = 518, n03127747: crash helmet
+multi_labels:
+518, n03127747: crash helmet
+pred = 671, n03792782: mountain bike, all-terrain bike, off-roader
+
+48) cnt mistakes = 482, file = n04532106/ILSVRC2012_val_00020638.JPEG
+target = 887, n04532106: vestment
+multi_labels:
+887, n04532106: vestment
+pred = 406, n02699494: altar
+
+49) cnt mistakes = 479, file = n09246464/ILSVRC2012_val_00040558.JPEG
+target = 972, n09246464: cliff, drop, drop-off
+multi_labels:
+972, n09246464: cliff, drop, drop-off
+pred = 500, n03042490: cliff dwelling
+
+50) cnt mistakes = 473, file = n02769748/ILSVRC2012_val_00023651.JPEG
+target = 414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+multi_labels:
+774, n04133789: sandal
+414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+464, n02910353: buckle
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 842, n04371430: swimming trunks, bathing trunks
+
+51) cnt mistakes = 461, file = n04266014/ILSVRC2012_val_00020130.JPEG
+target = 812, n04266014: space shuttle
+multi_labels:
+812, n04266014: space shuttle
+pred = 895, n04552348: warplane, military plane
+
+52) cnt mistakes = 457, file = n04479046/ILSVRC2012_val_00019995.JPEG
+target = 869, n04479046: trench coat
+multi_labels:
+869, n04479046: trench coat
+pred = 834, n04350905: suit, suit of clothes
+
+53) cnt mistakes = 456, file = n04350905/ILSVRC2012_val_00029159.JPEG
+target = 834, n04350905: suit, suit of clothes
+multi_labels:
+548, n03290653: entertainment center
+834, n04350905: suit, suit of clothes
+851, n04404412: television, television system
+pred = 869, n04479046: trench coat
+
+54) cnt mistakes = 445, file = n09399592/ILSVRC2012_val_00004405.JPEG
+target = 976, n09399592: promontory, headland, head, foreland
+multi_labels:
+976, n09399592: promontory, headland, head, foreland
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+55) cnt mistakes = 434, file = n04447861/ILSVRC2012_val_00041760.JPEG
+target = 861, n04447861: toilet seat
+multi_labels:
+861, n04447861: toilet seat
+pred = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+
+56) cnt mistakes = 432, file = n03063599/ILSVRC2012_val_00023189.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+831, n04344873: studio couch, day bed
+846, n04380533: table lamp
+968, n07930864: cup
+pred = 750, n04033995: quilt, comforter, comfort, puff
+
+57) cnt mistakes = 430, file = n03759954/ILSVRC2012_val_00010804.JPEG
+target = 650, n03759954: microphone, mike
+multi_labels:
+650, n03759954: microphone, mike
+pred = 558, n03372029: flute, transverse flute
+
+58) cnt mistakes = 428, file = n15075141/ILSVRC2012_val_00006671.JPEG
+target = 999, n15075141: toilet tissue, toilet paper, bathroom tissue
+multi_labels:
+738, n03991062: pot, flowerpot
+999, n15075141: toilet tissue, toilet paper, bathroom tissue
+905, n04590129: window shade
+pred = 846, n04380533: table lamp
+
+59) cnt mistakes = 416, file = n07742313/ILSVRC2012_val_00036797.JPEG
+target = 948, n07742313: Granny Smith
+multi_labels:
+692, n03871628: packet
+948, n07742313: Granny Smith
+951, n07749582: lemon
+pred = 582, n03461385: grocery store, grocery, food market, market
+
+60) cnt mistakes = 404, file = n02699494/ILSVRC2012_val_00002803.JPEG
+target = 406, n02699494: altar
+multi_labels:
+406, n02699494: altar
+pred = 857, n04429376: throne
+
+61) cnt mistakes = 400, file = n04553703/ILSVRC2012_val_00001741.JPEG
+target = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+multi_labels:
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 804, n04254120: soap dispenser
+
+62) cnt mistakes = 393, file = n02669723/ILSVRC2012_val_00015594.JPEG
+target = 400, n02669723: academic gown, academic robe, judge's robe
+multi_labels:
+400, n02669723: academic gown, academic robe, judge's robe
+pred = 667, n03787032: mortarboard
+
+63) cnt mistakes = 390, file = n03063689/ILSVRC2012_val_00008365.JPEG
+target = 505, n03063689: coffeepot
+multi_labels:
+505, n03063689: coffeepot
+pred = 550, n03297495: espresso maker
+
+64) cnt mistakes = 389, file = n03016953/ILSVRC2012_val_00048726.JPEG
+target = 493, n03016953: chiffonier, commode
+multi_labels:
+493, n03016953: chiffonier, commode
+pred = 492, n03014705: chest
+
+65) cnt mistakes = 388, file = n04522168/ILSVRC2012_val_00012147.JPEG
+target = 883, n04522168: vase
+multi_labels:
+883, n04522168: vase
+pred = 738, n03991062: pot, flowerpot
+
+66) cnt mistakes = 388, file = n03201208/ILSVRC2012_val_00021951.JPEG
+target = 532, n03201208: dining table, board
+multi_labels:
+532, n03201208: dining table, board
+922, n07565083: menu
+923, n07579787: plate
+pred = 762, n04081281: restaurant, eating house, eating place, eatery
+
+67) cnt mistakes = 387, file = n04081281/ILSVRC2012_val_00027988.JPEG
+target = 762, n04081281: restaurant, eating house, eating place, eatery
+multi_labels:
+762, n04081281: restaurant, eating house, eating place, eatery
+923, n07579787: plate
+572, n03443371: goblet
+pred = 928, n07614500: ice cream, icecream
+
+68) cnt mistakes = 384, file = n04133789/ILSVRC2012_val_00019572.JPEG
+target = 774, n04133789: sandal
+multi_labels:
+774, n04133789: sandal
+pred = 608, n03594734: jean, blue jean, denim
+
+69) cnt mistakes = 381, file = n02403003/ILSVRC2012_val_00016415.JPEG
+target = 345, n02403003: ox
+multi_labels:
+345, n02403003: ox
+pred = 690, n03868242: oxcart
+
+70) cnt mistakes = 379, file = n07920052/ILSVRC2012_val_00013375.JPEG
+target = 967, n07920052: espresso
+multi_labels:
+762, n04081281: restaurant, eating house, eating place, eatery
+967, n07920052: espresso
+968, n07930864: cup
+pred = 809, n04263257: soup bowl
+
+71) cnt mistakes = 378, file = n03777754/ILSVRC2012_val_00026631.JPEG
+target = 662, n03777754: modem
+multi_labels:
+662, n03777754: modem
+pred = 620, n03642806: laptop, laptop computer
+
+72) cnt mistakes = 375, file = n06596364/ILSVRC2012_val_00001613.JPEG
+target = 917, n06596364: comic book
+multi_labels:
+917, n06596364: comic book
+pred = 454, n02871525: bookshop, bookstore, bookstall
+
+73) cnt mistakes = 374, file = n02814533/ILSVRC2012_val_00041979.JPEG
+target = 436, n02814533: beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+multi_labels:
+436, n02814533: beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+479, n02974003: car wheel
+pred = 581, n03459775: grille, radiator grille
+
+74) cnt mistakes = 374, file = n03961711/ILSVRC2012_val_00040142.JPEG
+target = 729, n03961711: plate rack
+multi_labels:
+647, n03733805: measuring cup
+659, n03775546: mixing bowl
+729, n03961711: plate rack
+828, n04332243: strainer
+968, n07930864: cup
+899, n04560804: water jug
+pred = 534, n03207941: dishwasher, dish washer, dishwashing machine
+
+75) cnt mistakes = 372, file = n03787032/ILSVRC2012_val_00010504.JPEG
+target = 667, n03787032: mortarboard
+multi_labels:
+667, n03787032: mortarboard
+pred = 400, n02669723: academic gown, academic robe, judge's robe
+
+76) cnt mistakes = 370, file = n03763968/ILSVRC2012_val_00026233.JPEG
+target = 652, n03763968: military uniform
+multi_labels:
+652, n03763968: military uniform
+pred = 715, n03929855: pickelhaube
+
+77) cnt mistakes = 369, file = n03763968/ILSVRC2012_val_00008107.JPEG
+target = 652, n03763968: military uniform
+multi_labels:
+652, n03763968: military uniform
+464, n02910353: buckle
+869, n04479046: trench coat
+pred = 715, n03929855: pickelhaube
+
+78) cnt mistakes = 369, file = n07831146/ILSVRC2012_val_00004837.JPEG
+target = 959, n07831146: carbonara
+multi_labels:
+959, n07831146: carbonara
+pred = 909, n04596742: wok
+
+79) cnt mistakes = 361, file = n03887697/ILSVRC2012_val_00049213.JPEG
+target = 700, n03887697: paper towel
+multi_labels:
+700, n03887697: paper towel
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 534, n03207941: dishwasher, dish washer, dishwashing machine
+
+81) cnt mistakes = 342, file = n04133789/ILSVRC2012_val_00013852.JPEG
+target = 774, n04133789: sandal
+multi_labels:
+774, n04133789: sandal
+pred = 655, n03770439: miniskirt, mini
+
+82) cnt mistakes = 334, file = n02791124/ILSVRC2012_val_00013838.JPEG
+target = 423, n02791124: barber chair
+multi_labels:
+423, n02791124: barber chair
+424, n02791270: barbershop
+851, n04404412: television, television system
+pred = 526, n03179701: desk
+
+83) cnt mistakes = 333, file = n02097130/ILSVRC2012_val_00042201.JPEG
+target = 197, n02097130: giant schnauzer
+multi_labels:
+197, n02097130: giant schnauzer
+pred = 233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+
+84) cnt mistakes = 329, file = n02105251/ILSVRC2012_val_00009530.JPEG
+target = 226, n02105251: briard
+multi_labels:
+226, n02105251: briard
+pred = 197, n02097130: giant schnauzer
+
+85) cnt mistakes = 317, file = n02971356/ILSVRC2012_val_00039126.JPEG
+target = 478, n02971356: carton
+multi_labels:
+478, n02971356: carton
+519, n03127925: crate
+pred = 692, n03871628: packet
+
+86) cnt mistakes = 317, file = n02669723/ILSVRC2012_val_00037014.JPEG
+target = 400, n02669723: academic gown, academic robe, judge's robe
+multi_labels:
+400, n02669723: academic gown, academic robe, judge's robe
+501, n03045698: cloak
+pred = 667, n03787032: mortarboard
+
+87) cnt mistakes = 316, file = n04606251/ILSVRC2012_val_00017562.JPEG
+target = 913, n04606251: wreck
+multi_labels:
+913, n04606251: wreck
+975, n09332890: lakeside, lakeshore
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+88) cnt mistakes = 314, file = n03710637/ILSVRC2012_val_00029104.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 655, n03770439: miniskirt, mini
+
+89) cnt mistakes = 309, file = n02916936/ILSVRC2012_val_00040143.JPEG
+target = 465, n02916936: bulletproof vest
+multi_labels:
+413, n02749479: assault rifle, assault gun
+465, n02916936: bulletproof vest
+764, n04090263: rifle
+pred = 652, n03763968: military uniform
+
+90) cnt mistakes = 307, file = n04371430/ILSVRC2012_val_00022478.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+pred = 639, n03710721: maillot, tank suit
+
+91) cnt mistakes = 306, file = n09399592/ILSVRC2012_val_00038599.JPEG
+target = 976, n09399592: promontory, headland, head, foreland
+multi_labels:
+976, n09399592: promontory, headland, head, foreland
+978, n09428293: seashore, coast, seacoast, sea-coast
+975, n09332890: lakeside, lakeshore
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+92) cnt mistakes = 303, file = n04355933/ILSVRC2012_val_00013274.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 650, n03759954: microphone, mike
+
+93) cnt mistakes = 302, file = n04152593/ILSVRC2012_val_00027099.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+782, n04152593: screen, CRT screen
+664, n03782006: monitor
+pred = 742, n04004767: printer
+
+94) cnt mistakes = 295, file = n07932039/ILSVRC2012_val_00048392.JPEG
+target = 969, n07932039: eggnog
+multi_labels:
+478, n02971356: carton
+969, n07932039: eggnog
+pred = 692, n03871628: packet
+
+95) cnt mistakes = 292, file = n02837789/ILSVRC2012_val_00030869.JPEG
+target = 445, n02837789: bikini, two-piece
+multi_labels:
+445, n02837789: bikini, two-piece
+842, n04371430: swimming trunks, bathing trunks
+pred = 433, n02807133: bathing cap, swimming cap
+
+96) cnt mistakes = 284, file = n07614500/ILSVRC2012_val_00020294.JPEG
+target = 928, n07614500: ice cream, icecream
+multi_labels:
+928, n07614500: ice cream, icecream
+pred = 954, n07753592: banana
+
+97) cnt mistakes = 279, file = n04557648/ILSVRC2012_val_00041370.JPEG
+target = 898, n04557648: water bottle
+multi_labels:
+898, n04557648: water bottle
+pred = 899, n04560804: water jug
+
+98) cnt mistakes = 273, file = n03063689/ILSVRC2012_val_00032771.JPEG
+target = 505, n03063689: coffeepot
+multi_labels:
+505, n03063689: coffeepot
+pred = 550, n03297495: espresso maker
+
+99) cnt mistakes = 273, file = n03899768/ILSVRC2012_val_00019438.JPEG
+target = 706, n03899768: patio, terrace
+multi_labels:
+706, n03899768: patio, terrace
+774, n04133789: sandal
+pred = 655, n03770439: miniskirt, mini
+
+100) cnt mistakes = 271, file = n04370456/ILSVRC2012_val_00044267.JPEG
+target = 841, n04370456: sweatshirt
+multi_labels:
+841, n04370456: sweatshirt
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+101) cnt mistakes = 270, file = n03126707/ILSVRC2012_val_00031137.JPEG
+target = 517, n03126707: crane
+multi_labels:
+517, n03126707: crane
+pred = 536, n03216828: dock, dockage, docking facility
+
+102) cnt mistakes = 267, file = n02108089/ILSVRC2012_val_00049040.JPEG
+target = 242, n02108089: boxer
+multi_labels:
+242, n02108089: boxer
+pred = 159, n02087394: Rhodesian ridgeback
+
+103) cnt mistakes = 266, file = n02978881/ILSVRC2012_val_00019144.JPEG
+target = 481, n02978881: cassette
+multi_labels:
+481, n02978881: cassette
+pred = 453, n02870880: bookcase
+
+104) cnt mistakes = 264, file = n02870880/ILSVRC2012_val_00006458.JPEG
+target = 453, n02870880: bookcase
+multi_labels:
+453, n02870880: bookcase
+pred = 921, n07248320: book jacket, dust cover, dust jacket, dust wrapper
+
+105) cnt mistakes = 264, file = n03017168/ILSVRC2012_val_00001761.JPEG
+target = 494, n03017168: chime, bell, gong
+multi_labels:
+494, n03017168: chime, bell, gong
+pred = 442, n02825657: bell cote, bell cot
+
+107) cnt mistakes = 260, file = n03763968/ILSVRC2012_val_00031265.JPEG
+target = 652, n03763968: military uniform
+multi_labels:
+652, n03763968: military uniform
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 869, n04479046: trench coat
+
+108) cnt mistakes = 258, file = n03196217/ILSVRC2012_val_00025173.JPEG
+target = 530, n03196217: digital clock
+multi_labels:
+485, n02988304: CD player
+530, n03196217: digital clock
+754, n04041544: radio, wireless
+pred = 685, n03841143: odometer, hodometer, mileometer, milometer
+
+109) cnt mistakes = 256, file = n02910353/ILSVRC2012_val_00026657.JPEG
+target = 464, n02910353: buckle
+multi_labels:
+445, n02837789: bikini, two-piece
+464, n02910353: buckle
+pred = 842, n04371430: swimming trunks, bathing trunks
+
+110) cnt mistakes = 243, file = n07590611/ILSVRC2012_val_00018486.JPEG
+target = 926, n07590611: hot pot, hotpot
+multi_labels:
+925, n07584110: consomme
+926, n07590611: hot pot, hotpot
+pred = 521, n03133878: Crock Pot
+
+111) cnt mistakes = 240, file = n02105251/ILSVRC2012_val_00021946.JPEG
+target = 226, n02105251: briard
+multi_labels:
+226, n02105251: briard
+pred = 175, n02091635: otterhound, otter hound
+
+112) cnt mistakes = 238, file = n03595614/ILSVRC2012_val_00007961.JPEG
+target = 610, n03595614: jersey, T-shirt, tee shirt
+multi_labels:
+610, n03595614: jersey, T-shirt, tee shirt
+pred = 841, n04370456: sweatshirt
+
+113) cnt mistakes = 233, file = n02837789/ILSVRC2012_val_00032052.JPEG
+target = 445, n02837789: bikini, two-piece
+multi_labels:
+445, n02837789: bikini, two-piece
+433, n02807133: bathing cap, swimming cap
+pred = 801, n04251144: snorkel
+
+114) cnt mistakes = 227, file = n03991062/ILSVRC2012_val_00012647.JPEG
+target = 738, n03991062: pot, flowerpot
+multi_labels:
+738, n03991062: pot, flowerpot
+pred = 580, n03457902: greenhouse, nursery, glasshouse
+
+115) cnt mistakes = 226, file = n02105251/ILSVRC2012_val_00040386.JPEG
+target = 226, n02105251: briard
+multi_labels:
+226, n02105251: briard
+pred = 175, n02091635: otterhound, otter hound
+
+116) cnt mistakes = 220, file = n07579787/ILSVRC2012_val_00023009.JPEG
+target = 923, n07579787: plate
+multi_labels:
+923, n07579787: plate
+pred = 928, n07614500: ice cream, icecream
+
+118) cnt mistakes = 211, file = n02403003/ILSVRC2012_val_00006439.JPEG
+target = 345, n02403003: ox
+multi_labels:
+345, n02403003: ox
+pred = 690, n03868242: oxcart
+
+119) cnt mistakes = 205, file = n04136333/ILSVRC2012_val_00049844.JPEG
+target = 775, n04136333: sarong
+multi_labels:
+775, n04136333: sarong
+pred = 842, n04371430: swimming trunks, bathing trunks
+
+120) cnt mistakes = 204, file = n04590129/ILSVRC2012_val_00041948.JPEG
+target = 905, n04590129: window shade
+multi_labels:
+905, n04590129: window shade
+pred = 846, n04380533: table lamp
+
+121) cnt mistakes = 203, file = n02791270/ILSVRC2012_val_00043032.JPEG
+target = 424, n02791270: barbershop
+multi_labels:
+424, n02791270: barbershop
+pred = 589, n03483316: hand blower, blow dryer, blow drier, hair dryer, hair drier
+
+122) cnt mistakes = 202, file = n03980874/ILSVRC2012_val_00048173.JPEG
+target = 735, n03980874: poncho
+multi_labels:
+735, n03980874: poncho
+911, n04599235: wool, woolen, woollen
+824, n04325704: stole
+501, n03045698: cloak
+pred = 885, n04525038: velvet
+
+123) cnt mistakes = 201, file = n02776631/ILSVRC2012_val_00023736.JPEG
+target = 415, n02776631: bakery, bakeshop, bakehouse
+multi_labels:
+415, n02776631: bakery, bakeshop, bakehouse
+pred = 868, n04476259: tray
+
+125) cnt mistakes = 198, file = n03690938/ILSVRC2012_val_00003848.JPEG
+target = 631, n03690938: lotion
+multi_labels:
+631, n03690938: lotion
+pred = 804, n04254120: soap dispenser
+
+126) cnt mistakes = 197, file = n04557648/ILSVRC2012_val_00003340.JPEG
+target = 898, n04557648: water bottle
+multi_labels:
+898, n04557648: water bottle
+pred = 899, n04560804: water jug
+
+127) cnt mistakes = 196, file = n02783161/ILSVRC2012_val_00034540.JPEG
+target = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+multi_labels:
+418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+pred = 767, n04116512: rubber eraser, rubber, pencil eraser
+
+128) cnt mistakes = 194, file = n04081281/ILSVRC2012_val_00015051.JPEG
+target = 762, n04081281: restaurant, eating house, eating place, eatery
+multi_labels:
+659, n03775546: mixing bowl
+762, n04081281: restaurant, eating house, eating place, eatery
+809, n04263257: soup bowl
+923, n07579787: plate
+925, n07584110: consomme
+pred = 969, n07932039: eggnog
+
+129) cnt mistakes = 194, file = n07590611/ILSVRC2012_val_00022369.JPEG
+target = 926, n07590611: hot pot, hotpot
+multi_labels:
+926, n07590611: hot pot, hotpot
+pred = 909, n04596742: wok
+
+130) cnt mistakes = 194, file = n03759954/ILSVRC2012_val_00007409.JPEG
+target = 650, n03759954: microphone, mike
+multi_labels:
+541, n03249569: drum, membranophone, tympan
+650, n03759954: microphone, mike
+pred = 513, n03110669: cornet, horn, trumpet, trump
+
+131) cnt mistakes = 193, file = n03841143/ILSVRC2012_val_00039911.JPEG
+target = 685, n03841143: odometer, hodometer, mileometer, milometer
+multi_labels:
+685, n03841143: odometer, hodometer, mileometer, milometer
+pred = 485, n02988304: CD player
+
+132) cnt mistakes = 193, file = n04152593/ILSVRC2012_val_00003507.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 916, n06359193: web site, website, internet site, site
+
+133) cnt mistakes = 191, file = n03691459/ILSVRC2012_val_00020742.JPEG
+target = 632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+multi_labels:
+632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+pred = 754, n04041544: radio, wireless
+
+134) cnt mistakes = 189, file = n04296562/ILSVRC2012_val_00025553.JPEG
+target = 819, n04296562: stage
+multi_labels:
+818, n04286575: spotlight, spot
+819, n04296562: stage
+854, n04418357: theater curtain, theatre curtain
+pred = 745, n04009552: projector
+
+135) cnt mistakes = 189, file = n04525305/ILSVRC2012_val_00045040.JPEG
+target = 886, n04525305: vending machine
+multi_labels:
+886, n04525305: vending machine
+pred = 737, n03983396: pop bottle, soda bottle
+
+136) cnt mistakes = 188, file = n03478589/ILSVRC2012_val_00011534.JPEG
+target = 586, n03478589: half track
+multi_labels:
+586, n03478589: half track
+pred = 652, n03763968: military uniform
+
+137) cnt mistakes = 186, file = n03983396/ILSVRC2012_val_00008437.JPEG
+target = 737, n03983396: pop bottle, soda bottle
+multi_labels:
+737, n03983396: pop bottle, soda bottle
+898, n04557648: water bottle
+pred = 899, n04560804: water jug
+
+138) cnt mistakes = 184, file = n04229816/ILSVRC2012_val_00033073.JPEG
+target = 796, n04229816: ski mask
+multi_labels:
+796, n04229816: ski mask
+911, n04599235: wool, woolen, woollen
+pred = 806, n04254777: sock
+
+139) cnt mistakes = 181, file = n03782006/ILSVRC2012_val_00028687.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 742, n04004767: printer
+
+140) cnt mistakes = 181, file = n03657121/ILSVRC2012_val_00007448.JPEG
+target = 622, n03657121: lens cap, lens cover
+multi_labels:
+622, n03657121: lens cap, lens cover
+806, n04254777: sock
+854, n04418357: theater curtain, theatre curtain
+782, n04152593: screen, CRT screen
+664, n03782006: monitor
+pred = 613, n03602883: joystick
+
+141) cnt mistakes = 180, file = n04116512/ILSVRC2012_val_00018576.JPEG
+target = 767, n04116512: rubber eraser, rubber, pencil eraser
+multi_labels:
+767, n04116512: rubber eraser, rubber, pencil eraser
+769, n04118776: rule, ruler
+pred = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+
+142) cnt mistakes = 180, file = n02099267/ILSVRC2012_val_00035675.JPEG
+target = 205, n02099267: flat-coated retriever
+multi_labels:
+750, n04033995: quilt, comforter, comfort, puff
+205, n02099267: flat-coated retriever
+pred = 197, n02097130: giant schnauzer
+
+143) cnt mistakes = 179, file = n02837789/ILSVRC2012_val_00016500.JPEG
+target = 445, n02837789: bikini, two-piece
+multi_labels:
+445, n02837789: bikini, two-piece
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+543, n03255030: dumbbell
+pred = 842, n04371430: swimming trunks, bathing trunks
+
+144) cnt mistakes = 175, file = n04522168/ILSVRC2012_val_00010407.JPEG
+target = 883, n04522168: vase
+multi_labels:
+883, n04522168: vase
+pred = 532, n03201208: dining table, board
+
+145) cnt mistakes = 175, file = n04285008/ILSVRC2012_val_00012327.JPEG
+target = 817, n04285008: sports car, sport car
+multi_labels:
+511, n03100240: convertible
+817, n04285008: sports car, sport car
+pred = 581, n03459775: grille, radiator grille
+
+146) cnt mistakes = 175, file = n03187595/ILSVRC2012_val_00000137.JPEG
+target = 528, n03187595: dial telephone, dial phone
+multi_labels:
+526, n03179701: desk
+528, n03187595: dial telephone, dial phone
+784, n04154565: screwdriver
+pred = 786, n04179913: sewing machine
+
+147) cnt mistakes = 174, file = n02909870/ILSVRC2012_val_00029235.JPEG
+target = 463, n02909870: bucket, pail
+multi_labels:
+463, n02909870: bucket, pail
+pred = 840, n04367480: swab, swob, mop
+
+148) cnt mistakes = 174, file = n04592741/ILSVRC2012_val_00003428.JPEG
+target = 908, n04592741: wing
+multi_labels:
+908, n04592741: wing
+pred = 895, n04552348: warplane, military plane
+
+149) cnt mistakes = 174, file = n02106382/ILSVRC2012_val_00032564.JPEG
+target = 233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+multi_labels:
+233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+pred = 256, n02111277: Newfoundland, Newfoundland dog
+
+151) cnt mistakes = 170, file = n03196217/ILSVRC2012_val_00020490.JPEG
+target = 530, n03196217: digital clock
+multi_labels:
+530, n03196217: digital clock
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 916, n06359193: web site, website, internet site, site
+
+152) cnt mistakes = 169, file = n04296562/ILSVRC2012_val_00003652.JPEG
+target = 819, n04296562: stage
+multi_labels:
+819, n04296562: stage
+650, n03759954: microphone, mike
+pred = 776, n04141076: sax, saxophone
+
+153) cnt mistakes = 165, file = n04404412/ILSVRC2012_val_00005851.JPEG
+target = 851, n04404412: television, television system
+multi_labels:
+851, n04404412: television, television system
+pred = 548, n03290653: entertainment center
+
+154) cnt mistakes = 165, file = n03929855/ILSVRC2012_val_00030707.JPEG
+target = 715, n03929855: pickelhaube
+multi_labels:
+652, n03763968: military uniform
+715, n03929855: pickelhaube
+764, n04090263: rifle
+pred = 830, n04336792: stretcher
+
+155) cnt mistakes = 164, file = n03527444/ILSVRC2012_val_00028910.JPEG
+target = 597, n03527444: holster
+multi_labels:
+464, n02910353: buckle
+597, n03527444: holster
+pred = 777, n04141327: scabbard
+
+156) cnt mistakes = 164, file = n04409515/ILSVRC2012_val_00020170.JPEG
+target = 852, n04409515: tennis ball
+multi_labels:
+852, n04409515: tennis ball
+pred = 752, n04039381: racket, racquet
+
+157) cnt mistakes = 163, file = n04482393/ILSVRC2012_val_00049583.JPEG
+target = 870, n04482393: tricycle, trike, velocipede
+multi_labels:
+870, n04482393: tricycle, trike, velocipede
+pred = 612, n03599486: jinrikisha, ricksha, rickshaw
+
+158) cnt mistakes = 163, file = n04141975/ILSVRC2012_val_00013893.JPEG
+target = 778, n04141975: scale, weighing machine
+multi_labels:
+463, n02909870: bucket, pail
+488, n02999410: chain
+778, n04141975: scale, weighing machine
+pred = 695, n03874599: padlock
+
+159) cnt mistakes = 162, file = n03787032/ILSVRC2012_val_00031632.JPEG
+target = 667, n03787032: mortarboard
+multi_labels:
+667, n03787032: mortarboard
+pred = 400, n02669723: academic gown, academic robe, judge's robe
+
+160) cnt mistakes = 162, file = n02916936/ILSVRC2012_val_00019479.JPEG
+target = 465, n02916936: bulletproof vest
+multi_labels:
+465, n02916936: bulletproof vest
+pred = 652, n03763968: military uniform
+
+161) cnt mistakes = 161, file = n03814906/ILSVRC2012_val_00027342.JPEG
+target = 679, n03814906: necklace
+multi_labels:
+679, n03814906: necklace
+pred = 455, n02877765: bottlecap
+
+162) cnt mistakes = 161, file = n03804744/ILSVRC2012_val_00009414.JPEG
+target = 677, n03804744: nail
+multi_labels:
+677, n03804744: nail
+pred = 784, n04154565: screwdriver
+
+163) cnt mistakes = 161, file = n04465501/ILSVRC2012_val_00003326.JPEG
+target = 866, n04465501: tractor
+multi_labels:
+866, n04465501: tractor
+pred = 575, n03445924: golfcart, golf cart
+
+164) cnt mistakes = 161, file = n03394916/ILSVRC2012_val_00024837.JPEG
+target = 566, n03394916: French horn, horn
+multi_labels:
+875, n04487394: trombone
+566, n03394916: French horn, horn
+513, n03110669: cornet, horn, trumpet, trump
+pred = 432, n02804610: bassoon
+
+165) cnt mistakes = 159, file = n03126707/ILSVRC2012_val_00044885.JPEG
+target = 517, n03126707: crane
+multi_labels:
+517, n03126707: crane
+pred = 733, n03976657: pole
+
+166) cnt mistakes = 159, file = n04592741/ILSVRC2012_val_00016728.JPEG
+target = 908, n04592741: wing
+multi_labels:
+908, n04592741: wing
+pred = 404, n02690373: airliner
+
+167) cnt mistakes = 158, file = n04590129/ILSVRC2012_val_00007485.JPEG
+target = 905, n04590129: window shade
+multi_labels:
+905, n04590129: window shade
+pred = 799, n04239074: sliding door
+
+168) cnt mistakes = 158, file = n10565667/ILSVRC2012_val_00011208.JPEG
+target = 983, n10565667: scuba diver
+multi_labels:
+983, n10565667: scuba diver
+pred = 570, n03424325: gasmask, respirator, gas helmet
+
+169) cnt mistakes = 157, file = n04116512/ILSVRC2012_val_00047135.JPEG
+target = 767, n04116512: rubber eraser, rubber, pencil eraser
+multi_labels:
+767, n04116512: rubber eraser, rubber, pencil eraser
+pred = 709, n03908618: pencil box, pencil case
+
+170) cnt mistakes = 157, file = n02106382/ILSVRC2012_val_00044869.JPEG
+target = 233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+multi_labels:
+233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+pred = 197, n02097130: giant schnauzer
+
+171) cnt mistakes = 156, file = n02950826/ILSVRC2012_val_00009648.JPEG
+target = 471, n02950826: cannon
+multi_labels:
+471, n02950826: cannon
+733, n03976657: pole
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+172) cnt mistakes = 154, file = n09332890/ILSVRC2012_val_00032715.JPEG
+target = 975, n09332890: lakeside, lakeshore
+multi_labels:
+705, n03895866: passenger car, coach, carriage
+975, n09332890: lakeside, lakeshore
+pred = 525, n03160309: dam, dike, dyke
+
+173) cnt mistakes = 152, file = n07930864/ILSVRC2012_val_00033139.JPEG
+target = 968, n07930864: cup
+multi_labels:
+849, n04398044: teapot
+968, n07930864: cup
+505, n03063689: coffeepot
+pred = 618, n03633091: ladle
+
+174) cnt mistakes = 152, file = n02104029/ILSVRC2012_val_00027529.JPEG
+target = 222, n02104029: kuvasz
+multi_labels:
+222, n02104029: kuvasz
+pred = 258, n02111889: Samoyed, Samoyede
+
+175) cnt mistakes = 152, file = n03372029/ILSVRC2012_val_00018133.JPEG
+target = 558, n03372029: flute, transverse flute
+multi_labels:
+558, n03372029: flute, transverse flute
+650, n03759954: microphone, mike
+819, n04296562: stage
+854, n04418357: theater curtain, theatre curtain
+889, n04536866: violin, fiddle
+pred = 593, n03494278: harmonica, mouth organ, harp, mouth harp
+
+176) cnt mistakes = 152, file = n03594945/ILSVRC2012_val_00003945.JPEG
+target = 609, n03594945: jeep, landrover
+multi_labels:
+609, n03594945: jeep, landrover
+pred = 586, n03478589: half track
+
+177) cnt mistakes = 152, file = n03710721/ILSVRC2012_val_00015356.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 602, n03535780: horizontal bar, high bar
+
+178) cnt mistakes = 152, file = n02808440/ILSVRC2012_val_00012591.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 794, n04209239: shower curtain
+
+179) cnt mistakes = 151, file = n04479046/ILSVRC2012_val_00020672.JPEG
+target = 869, n04479046: trench coat
+multi_labels:
+869, n04479046: trench coat
+pred = 608, n03594734: jean, blue jean, denim
+
+180) cnt mistakes = 151, file = n03045698/ILSVRC2012_val_00049579.JPEG
+target = 501, n03045698: cloak
+multi_labels:
+413, n02749479: assault rifle, assault gun
+501, n03045698: cloak
+764, n04090263: rifle
+pred = 518, n03127747: crash helmet
+
+181) cnt mistakes = 149, file = n04372370/ILSVRC2012_val_00018122.JPEG
+target = 844, n04372370: switch, electric switch, electrical switch
+multi_labels:
+844, n04372370: switch, electric switch, electrical switch
+961, n07860988: dough
+931, n07693725: bagel, beigel
+pred = 415, n02776631: bakery, bakeshop, bakehouse
+
+182) cnt mistakes = 148, file = n03476991/ILSVRC2012_val_00035016.JPEG
+target = 585, n03476991: hair spray
+multi_labels:
+585, n03476991: hair spray
+834, n04350905: suit, suit of clothes
+982, n10148035: groom, bridegroom
+pred = 457, n02883205: bow tie, bow-tie, bowtie
+
+183) cnt mistakes = 146, file = n03724870/ILSVRC2012_val_00003148.JPEG
+target = 643, n03724870: mask
+multi_labels:
+643, n03724870: mask
+819, n04296562: stage
+pred = 513, n03110669: cornet, horn, trumpet, trump
+
+184) cnt mistakes = 145, file = n03976657/ILSVRC2012_val_00039309.JPEG
+target = 733, n03976657: pole
+multi_labels:
+733, n03976657: pole
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+185) cnt mistakes = 145, file = n02089078/ILSVRC2012_val_00041810.JPEG
+target = 165, n02089078: black-and-tan coonhound
+multi_labels:
+165, n02089078: black-and-tan coonhound
+pred = 234, n02106550: Rottweiler
+
+186) cnt mistakes = 144, file = n04548362/ILSVRC2012_val_00006492.JPEG
+target = 893, n04548362: wallet, billfold, notecase, pocketbook
+multi_labels:
+893, n04548362: wallet, billfold, notecase, pocketbook
+pred = 446, n02840245: binder, ring-binder
+
+187) cnt mistakes = 144, file = n02807133/ILSVRC2012_val_00028550.JPEG
+target = 433, n02807133: bathing cap, swimming cap
+multi_labels:
+433, n02807133: bathing cap, swimming cap
+pred = 639, n03710721: maillot, tank suit
+
+189) cnt mistakes = 143, file = n03680355/ILSVRC2012_val_00018671.JPEG
+target = 630, n03680355: Loafer
+multi_labels:
+630, n03680355: Loafer
+806, n04254777: sock
+pred = 655, n03770439: miniskirt, mini
+
+190) cnt mistakes = 143, file = n04590129/ILSVRC2012_val_00012574.JPEG
+target = 905, n04590129: window shade
+multi_labels:
+905, n04590129: window shade
+753, n04040759: radiator
+pred = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+
+191) cnt mistakes = 142, file = n04479046/ILSVRC2012_val_00026753.JPEG
+target = 869, n04479046: trench coat
+multi_labels:
+869, n04479046: trench coat
+pred = 879, n04507155: umbrella
+
+192) cnt mistakes = 142, file = n03063689/ILSVRC2012_val_00028811.JPEG
+target = 505, n03063689: coffeepot
+multi_labels:
+505, n03063689: coffeepot
+pred = 550, n03297495: espresso maker
+
+193) cnt mistakes = 141, file = n04239074/ILSVRC2012_val_00002553.JPEG
+target = 799, n04239074: sliding door
+multi_labels:
+706, n03899768: patio, terrace
+799, n04239074: sliding door
+831, n04344873: studio couch, day bed
+pred = 765, n04099969: rocking chair, rocker
+
+194) cnt mistakes = 141, file = n03250847/ILSVRC2012_val_00008946.JPEG
+target = 542, n03250847: drumstick
+multi_labels:
+542, n03250847: drumstick
+pred = 541, n03249569: drum, membranophone, tympan
+
+195) cnt mistakes = 141, file = n07615774/ILSVRC2012_val_00048151.JPEG
+target = 929, n07615774: ice lolly, lolly, lollipop, popsicle
+multi_labels:
+526, n03179701: desk
+929, n07615774: ice lolly, lolly, lollipop, popsicle
+pred = 673, n03793489: mouse, computer mouse
+
+196) cnt mistakes = 141, file = n02099601/ILSVRC2012_val_00028617.JPEG
+target = 207, n02099601: golden retriever
+multi_labels:
+207, n02099601: golden retriever
+pred = 213, n02100877: Irish setter, red setter
+
+197) cnt mistakes = 141, file = n03255030/ILSVRC2012_val_00026185.JPEG
+target = 543, n03255030: dumbbell
+multi_labels:
+543, n03255030: dumbbell
+643, n03724870: mask
+pred = 570, n03424325: gasmask, respirator, gas helmet
+
+198) cnt mistakes = 140, file = n02948072/ILSVRC2012_val_00047415.JPEG
+target = 470, n02948072: candle, taper, wax light
+multi_labels:
+470, n02948072: candle, taper, wax light
+pred = 532, n03201208: dining table, board
+
+199) cnt mistakes = 140, file = n02708093/ILSVRC2012_val_00004871.JPEG
+target = 409, n02708093: analog clock
+multi_labels:
+409, n02708093: analog clock
+pred = 530, n03196217: digital clock
+
+200) cnt mistakes = 140, file = n09835506/ILSVRC2012_val_00020051.JPEG
+target = 981, n09835506: ballplayer, baseball player
+multi_labels:
+981, n09835506: ballplayer, baseball player
+pred = 560, n03379051: football helmet
+
+201) cnt mistakes = 139, file = n03761084/ILSVRC2012_val_00039480.JPEG
+target = 651, n03761084: microwave, microwave oven
+multi_labels:
+651, n03761084: microwave, microwave oven
+pred = 521, n03133878: Crock Pot
+
+202) cnt mistakes = 137, file = n07614500/ILSVRC2012_val_00047647.JPEG
+target = 928, n07614500: ice cream, icecream
+multi_labels:
+928, n07614500: ice cream, icecream
+pred = 659, n03775546: mixing bowl
+
+204) cnt mistakes = 135, file = n03337140/ILSVRC2012_val_00036889.JPEG
+target = 553, n03337140: file, file cabinet, filing cabinet
+multi_labels:
+553, n03337140: file, file cabinet, filing cabinet
+621, n03649909: lawn mower, mower
+pred = 526, n03179701: desk
+
+206) cnt mistakes = 132, file = n02948072/ILSVRC2012_val_00012453.JPEG
+target = 470, n02948072: candle, taper, wax light
+multi_labels:
+470, n02948072: candle, taper, wax light
+923, n07579787: plate
+pred = 930, n07684084: French loaf
+
+208) cnt mistakes = 131, file = n02699494/ILSVRC2012_val_00044658.JPEG
+target = 406, n02699494: altar
+multi_labels:
+406, n02699494: altar
+497, n03028079: church, church building
+pred = 857, n04429376: throne
+
+211) cnt mistakes = 130, file = n03063599/ILSVRC2012_val_00032778.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+508, n03085013: computer keyboard, keypad
+527, n03180011: desktop computer
+664, n03782006: monitor
+968, n07930864: cup
+782, n04152593: screen, CRT screen
+pred = 673, n03793489: mouse, computer mouse
+
+212) cnt mistakes = 129, file = n02927161/ILSVRC2012_val_00011432.JPEG
+target = 467, n02927161: butcher shop, meat market
+multi_labels:
+8, n01514859: hen
+467, n02927161: butcher shop, meat market
+pred = 766, n04111531: rotisserie
+
+213) cnt mistakes = 128, file = n07590611/ILSVRC2012_val_00016617.JPEG
+target = 926, n07590611: hot pot, hotpot
+multi_labels:
+762, n04081281: restaurant, eating house, eating place, eatery
+926, n07590611: hot pot, hotpot
+pred = 909, n04596742: wok
+
+214) cnt mistakes = 128, file = n03372029/ILSVRC2012_val_00029188.JPEG
+target = 558, n03372029: flute, transverse flute
+multi_labels:
+558, n03372029: flute, transverse flute
+pred = 699, n03884397: panpipe, pandean pipe, syrinx
+
+215) cnt mistakes = 127, file = n04116512/ILSVRC2012_val_00007939.JPEG
+target = 767, n04116512: rubber eraser, rubber, pencil eraser
+multi_labels:
+767, n04116512: rubber eraser, rubber, pencil eraser
+pred = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+
+217) cnt mistakes = 127, file = n02749479/ILSVRC2012_val_00043236.JPEG
+target = 413, n02749479: assault rifle, assault gun
+multi_labels:
+413, n02749479: assault rifle, assault gun
+465, n02916936: bulletproof vest
+764, n04090263: rifle
+pred = 652, n03763968: military uniform
+
+218) cnt mistakes = 125, file = n04479046/ILSVRC2012_val_00012561.JPEG
+target = 869, n04479046: trench coat
+multi_labels:
+869, n04479046: trench coat
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 834, n04350905: suit, suit of clothes
+
+220) cnt mistakes = 124, file = n03814906/ILSVRC2012_val_00018854.JPEG
+target = 679, n03814906: necklace
+multi_labels:
+679, n03814906: necklace
+pred = 488, n02999410: chain
+
+221) cnt mistakes = 124, file = n07836838/ILSVRC2012_val_00046664.JPEG
+target = 960, n07836838: chocolate sauce, chocolate syrup
+multi_labels:
+923, n07579787: plate
+960, n07836838: chocolate sauce, chocolate syrup
+pred = 415, n02776631: bakery, bakeshop, bakehouse
+
+222) cnt mistakes = 124, file = n03724870/ILSVRC2012_val_00017958.JPEG
+target = 643, n03724870: mask
+multi_labels:
+643, n03724870: mask
+pred = 903, n04584207: wig
+
+224) cnt mistakes = 123, file = n07717556/ILSVRC2012_val_00037725.JPEG
+target = 942, n07717556: butternut squash
+multi_labels:
+950, n07747607: orange
+679, n03814906: necklace
+942, n07717556: butternut squash
+659, n03775546: mixing bowl
+pred = 618, n03633091: ladle
+
+225) cnt mistakes = 123, file = n07875152/ILSVRC2012_val_00030875.JPEG
+target = 964, n07875152: potpie
+multi_labels:
+961, n07860988: dough
+964, n07875152: potpie
+pred = 567, n03400231: frying pan, frypan, skillet
+
+226) cnt mistakes = 123, file = n04525038/ILSVRC2012_val_00047874.JPEG
+target = 885, n04525038: velvet
+multi_labels:
+885, n04525038: velvet
+721, n03938244: pillow
+pred = 636, n03709823: mailbag, postbag
+
+227) cnt mistakes = 123, file = n07590611/ILSVRC2012_val_00049685.JPEG
+target = 926, n07590611: hot pot, hotpot
+multi_labels:
+926, n07590611: hot pot, hotpot
+pred = 909, n04596742: wok
+
+228) cnt mistakes = 123, file = n04116512/ILSVRC2012_val_00034963.JPEG
+target = 767, n04116512: rubber eraser, rubber, pencil eraser
+multi_labels:
+767, n04116512: rubber eraser, rubber, pencil eraser
+pred = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+
+229) cnt mistakes = 121, file = n03933933/ILSVRC2012_val_00034480.JPEG
+target = 718, n03933933: pier
+multi_labels:
+460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+718, n03933933: pier
+975, n09332890: lakeside, lakeshore
+977, n09421951: sandbar, sand bar
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 775, n04136333: sarong
+
+230) cnt mistakes = 119, file = n02804414/ILSVRC2012_val_00042748.JPEG
+target = 431, n02804414: bassinet
+multi_labels:
+431, n02804414: bassinet
+516, n03125729: cradle
+520, n03131574: crib, cot
+pred = 529, n03188531: diaper, nappy, napkin
+
+232) cnt mistakes = 118, file = n04552348/ILSVRC2012_val_00031559.JPEG
+target = 895, n04552348: warplane, military plane
+multi_labels:
+895, n04552348: warplane, military plane
+908, n04592741: wing
+pred = 403, n02687172: aircraft carrier, carrier, flattop, attack aircraft carrier
+
+233) cnt mistakes = 116, file = n03763968/ILSVRC2012_val_00033402.JPEG
+target = 652, n03763968: military uniform
+multi_labels:
+652, n03763968: military uniform
+pred = 715, n03929855: pickelhaube
+
+234) cnt mistakes = 115, file = n07697313/ILSVRC2012_val_00049457.JPEG
+target = 933, n07697313: cheeseburger
+multi_labels:
+933, n07697313: cheeseburger
+pred = 931, n07693725: bagel, beigel
+
+235) cnt mistakes = 115, file = n02916936/ILSVRC2012_val_00027663.JPEG
+target = 465, n02916936: bulletproof vest
+multi_labels:
+413, n02749479: assault rifle, assault gun
+465, n02916936: bulletproof vest
+734, n03977966: police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+764, n04090263: rifle
+pred = 652, n03763968: military uniform
+
+236) cnt mistakes = 114, file = n04328186/ILSVRC2012_val_00041340.JPEG
+target = 826, n04328186: stopwatch, stop watch
+multi_labels:
+826, n04328186: stopwatch, stop watch
+488, n02999410: chain
+409, n02708093: analog clock
+pred = 679, n03814906: necklace
+
+237) cnt mistakes = 114, file = n03459775/ILSVRC2012_val_00025724.JPEG
+target = 581, n03459775: grille, radiator grille
+multi_labels:
+581, n03459775: grille, radiator grille
+pred = 818, n04286575: spotlight, spot
+
+238) cnt mistakes = 114, file = n03976657/ILSVRC2012_val_00019140.JPEG
+target = 733, n03976657: pole
+multi_labels:
+733, n03976657: pole
+818, n04286575: spotlight, spot
+pred = 919, n06794110: street sign
+
+239) cnt mistakes = 113, file = n07860988/ILSVRC2012_val_00035441.JPEG
+target = 961, n07860988: dough
+multi_labels:
+923, n07579787: plate
+961, n07860988: dough
+pred = 499, n03041632: cleaver, meat cleaver, chopper
+
+242) cnt mistakes = 112, file = n02085620/ILSVRC2012_val_00002921.JPEG
+target = 151, n02085620: Chihuahua
+multi_labels:
+151, n02085620: Chihuahua
+pred = 253, n02110806: basenji
+
+244) cnt mistakes = 111, file = n04557648/ILSVRC2012_val_00037544.JPEG
+target = 898, n04557648: water bottle
+multi_labels:
+898, n04557648: water bottle
+pred = 680, n03825788: nipple
+
+245) cnt mistakes = 110, file = n03065424/ILSVRC2012_val_00018150.JPEG
+target = 506, n03065424: coil, spiral, volute, whorl, helix
+multi_labels:
+506, n03065424: coil, spiral, volute, whorl, helix
+471, n02950826: cannon
+pred = 117, n01968897: chambered nautilus, pearly nautilus, nautilus
+
+246) cnt mistakes = 109, file = n04081281/ILSVRC2012_val_00017583.JPEG
+target = 762, n04081281: restaurant, eating house, eating place, eatery
+multi_labels:
+762, n04081281: restaurant, eating house, eating place, eatery
+923, n07579787: plate
+pred = 937, n07714990: broccoli
+
+247) cnt mistakes = 108, file = n04557648/ILSVRC2012_val_00000745.JPEG
+target = 898, n04557648: water bottle
+multi_labels:
+898, n04557648: water bottle
+pred = 455, n02877765: bottlecap
+
+248) cnt mistakes = 108, file = n04229816/ILSVRC2012_val_00020818.JPEG
+target = 796, n04229816: ski mask
+multi_labels:
+628, n03673027: liner, ocean liner
+796, n04229816: ski mask
+625, n03662601: lifeboat
+pred = 540, n03240683: drilling platform, offshore rig
+
+249) cnt mistakes = 107, file = n03976657/ILSVRC2012_val_00021371.JPEG
+target = 733, n03976657: pole
+multi_labels:
+675, n03796401: moving van
+733, n03976657: pole
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+250) cnt mistakes = 106, file = n10565667/ILSVRC2012_val_00021407.JPEG
+target = 983, n10565667: scuba diver
+multi_labels:
+983, n10565667: scuba diver
+pred = 973, n09256479: coral reef
+
+251) cnt mistakes = 106, file = n03657121/ILSVRC2012_val_00005509.JPEG
+target = 622, n03657121: lens cap, lens cover
+multi_labels:
+414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+622, n03657121: lens cap, lens cover
+759, n04069434: reflex camera
+pred = 872, n04485082: tripod
+
+253) cnt mistakes = 105, file = n09246464/ILSVRC2012_val_00045805.JPEG
+target = 972, n09246464: cliff, drop, drop-off
+multi_labels:
+972, n09246464: cliff, drop, drop-off
+pred = 500, n03042490: cliff dwelling
+
+254) cnt mistakes = 105, file = n02974003/ILSVRC2012_val_00007176.JPEG
+target = 479, n02974003: car wheel
+multi_labels:
+479, n02974003: car wheel
+pred = 581, n03459775: grille, radiator grille
+
+255) cnt mistakes = 104, file = n03372029/ILSVRC2012_val_00037468.JPEG
+target = 558, n03372029: flute, transverse flute
+multi_labels:
+558, n03372029: flute, transverse flute
+pred = 541, n03249569: drum, membranophone, tympan
+
+256) cnt mistakes = 104, file = n02087046/ILSVRC2012_val_00017869.JPEG
+target = 158, n02087046: toy terrier
+multi_labels:
+158, n02087046: toy terrier
+pred = 253, n02110806: basenji
+
+257) cnt mistakes = 103, file = n02769748/ILSVRC2012_val_00011933.JPEG
+target = 414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+multi_labels:
+414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 897, n04554684: washer, automatic washer, washing machine
+
+258) cnt mistakes = 102, file = n03840681/ILSVRC2012_val_00029902.JPEG
+target = 684, n03840681: ocarina, sweet potato
+multi_labels:
+650, n03759954: microphone, mike
+684, n03840681: ocarina, sweet potato
+pred = 593, n03494278: harmonica, mouth organ, harp, mouth harp
+
+259) cnt mistakes = 102, file = n02834397/ILSVRC2012_val_00001252.JPEG
+target = 443, n02834397: bib
+multi_labels:
+443, n02834397: bib
+pred = 411, n02730930: apron
+
+260) cnt mistakes = 101, file = n07875152/ILSVRC2012_val_00033124.JPEG
+target = 964, n07875152: potpie
+multi_labels:
+961, n07860988: dough
+964, n07875152: potpie
+pred = 567, n03400231: frying pan, frypan, skillet
+
+261) cnt mistakes = 100, file = n02089078/ILSVRC2012_val_00033531.JPEG
+target = 165, n02089078: black-and-tan coonhound
+multi_labels:
+165, n02089078: black-and-tan coonhound
+pred = 234, n02106550: Rottweiler
+
+262) cnt mistakes = 100, file = n04074963/ILSVRC2012_val_00031846.JPEG
+target = 761, n04074963: remote control, remote
+multi_labels:
+761, n04074963: remote control, remote
+831, n04344873: studio couch, day bed
+pred = 750, n04033995: quilt, comforter, comfort, puff
+
+263) cnt mistakes = 99, file = n03976657/ILSVRC2012_val_00006976.JPEG
+target = 733, n03976657: pole
+multi_labels:
+733, n03976657: pole
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+264) cnt mistakes = 99, file = n02114548/ILSVRC2012_val_00044679.JPEG
+target = 270, n02114548: white wolf, Arctic wolf, Canis lupus tundrarum
+multi_labels:
+270, n02114548: white wolf, Arctic wolf, Canis lupus tundrarum
+pred = 258, n02111889: Samoyed, Samoyede
+
+265) cnt mistakes = 98, file = n01914609/ILSVRC2012_val_00031644.JPEG
+target = 108, n01914609: sea anemone, anemone
+multi_labels:
+108, n01914609: sea anemone, anemone
+pred = 393, n02607072: anemone fish
+
+266) cnt mistakes = 98, file = n04479046/ILSVRC2012_val_00021687.JPEG
+target = 869, n04479046: trench coat
+multi_labels:
+869, n04479046: trench coat
+pred = 834, n04350905: suit, suit of clothes
+
+267) cnt mistakes = 98, file = n04443257/ILSVRC2012_val_00026257.JPEG
+target = 860, n04443257: tobacco shop, tobacconist shop, tobacconist
+multi_labels:
+860, n04443257: tobacco shop, tobacconist shop, tobacconist
+pred = 919, n06794110: street sign
+
+268) cnt mistakes = 97, file = n02699494/ILSVRC2012_val_00039693.JPEG
+target = 406, n02699494: altar
+multi_labels:
+406, n02699494: altar
+497, n03028079: church, church building
+pred = 857, n04429376: throne
+
+269) cnt mistakes = 97, file = n02814860/ILSVRC2012_val_00009417.JPEG
+target = 437, n02814860: beacon, lighthouse, beacon light, pharos
+multi_labels:
+437, n02814860: beacon, lighthouse, beacon light, pharos
+818, n04286575: spotlight, spot
+pred = 975, n09332890: lakeside, lakeshore
+
+270) cnt mistakes = 97, file = n03529860/ILSVRC2012_val_00023540.JPEG
+target = 598, n03529860: home theater, home theatre
+multi_labels:
+548, n03290653: entertainment center
+598, n03529860: home theater, home theatre
+851, n04404412: television, television system
+pred = 526, n03179701: desk
+
+271) cnt mistakes = 97, file = n04479046/ILSVRC2012_val_00043734.JPEG
+target = 869, n04479046: trench coat
+multi_labels:
+869, n04479046: trench coat
+pred = 879, n04507155: umbrella
+
+273) cnt mistakes = 96, file = n02916936/ILSVRC2012_val_00026746.JPEG
+target = 465, n02916936: bulletproof vest
+multi_labels:
+413, n02749479: assault rifle, assault gun
+465, n02916936: bulletproof vest
+518, n03127747: crash helmet
+630, n03680355: Loafer
+764, n04090263: rifle
+pred = 414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+
+274) cnt mistakes = 96, file = n04476259/ILSVRC2012_val_00040391.JPEG
+target = 868, n04476259: tray
+multi_labels:
+868, n04476259: tray
+pred = 809, n04263257: soup bowl
+
+275) cnt mistakes = 95, file = n03961711/ILSVRC2012_val_00028126.JPEG
+target = 729, n03961711: plate rack
+multi_labels:
+729, n03961711: plate rack
+pred = 534, n03207941: dishwasher, dish washer, dishwashing machine
+
+276) cnt mistakes = 95, file = n04447861/ILSVRC2012_val_00024534.JPEG
+target = 861, n04447861: toilet seat
+multi_labels:
+861, n04447861: toilet seat
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 731, n03970156: plunger, plumber's helper
+
+277) cnt mistakes = 94, file = n04192698/ILSVRC2012_val_00032683.JPEG
+target = 787, n04192698: shield, buckler
+multi_labels:
+787, n04192698: shield, buckler
+pred = 777, n04141327: scabbard
+
+278) cnt mistakes = 94, file = n04065272/ILSVRC2012_val_00044785.JPEG
+target = 757, n04065272: recreational vehicle, RV, R.V.
+multi_labels:
+757, n04065272: recreational vehicle, RV, R.V.
+pred = 660, n03776460: mobile home, manufactured home
+
+279) cnt mistakes = 93, file = n01955084/ILSVRC2012_val_00031321.JPEG
+target = 116, n01955084: chiton, coat-of-mail shell, sea cradle, polyplacophore
+multi_labels:
+116, n01955084: chiton, coat-of-mail shell, sea cradle, polyplacophore
+113, n01944390: snail
+pred = 125, n01986214: hermit crab
+
+280) cnt mistakes = 93, file = n04371430/ILSVRC2012_val_00015591.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+pred = 433, n02807133: bathing cap, swimming cap
+
+281) cnt mistakes = 92, file = n09246464/ILSVRC2012_val_00034504.JPEG
+target = 972, n09246464: cliff, drop, drop-off
+multi_labels:
+972, n09246464: cliff, drop, drop-off
+pred = 500, n03042490: cliff dwelling
+
+282) cnt mistakes = 92, file = n04209239/ILSVRC2012_val_00013948.JPEG
+target = 794, n04209239: shower curtain
+multi_labels:
+794, n04209239: shower curtain
+905, n04590129: window shade
+pred = 854, n04418357: theater curtain, theatre curtain
+
+284) cnt mistakes = 91, file = n03085013/ILSVRC2012_val_00021913.JPEG
+target = 508, n03085013: computer keyboard, keypad
+multi_labels:
+508, n03085013: computer keyboard, keypad
+810, n04264628: space bar
+pred = 487, n02992529: cellular telephone, cellular phone, cellphone, cell, mobile phone
+
+285) cnt mistakes = 89, file = n04270147/ILSVRC2012_val_00015649.JPEG
+target = 813, n04270147: spatula
+multi_labels:
+813, n04270147: spatula
+961, n07860988: dough
+pred = 415, n02776631: bakery, bakeshop, bakehouse
+
+286) cnt mistakes = 88, file = n04392985/ILSVRC2012_val_00021674.JPEG
+target = 848, n04392985: tape player
+multi_labels:
+848, n04392985: tape player
+pred = 481, n02978881: cassette
+
+287) cnt mistakes = 87, file = n02869837/ILSVRC2012_val_00016535.JPEG
+target = 452, n02869837: bonnet, poke bonnet
+multi_labels:
+452, n02869837: bonnet, poke bonnet
+502, n03047690: clog, geta, patten, sabot
+911, n04599235: wool, woolen, woollen
+pred = 806, n04254777: sock
+
+288) cnt mistakes = 86, file = n07614500/ILSVRC2012_val_00008264.JPEG
+target = 928, n07614500: ice cream, icecream
+multi_labels:
+928, n07614500: ice cream, icecream
+pred = 923, n07579787: plate
+
+289) cnt mistakes = 86, file = n03207743/ILSVRC2012_val_00009079.JPEG
+target = 533, n03207743: dishrag, dishcloth
+multi_labels:
+533, n03207743: dishrag, dishcloth
+911, n04599235: wool, woolen, woollen
+pred = 452, n02869837: bonnet, poke bonnet
+
+290) cnt mistakes = 86, file = n02883205/ILSVRC2012_val_00012387.JPEG
+target = 457, n02883205: bow tie, bow-tie, bowtie
+multi_labels:
+457, n02883205: bow tie, bow-tie, bowtie
+834, n04350905: suit, suit of clothes
+pred = 982, n10148035: groom, bridegroom
+
+291) cnt mistakes = 86, file = n03781244/ILSVRC2012_val_00048495.JPEG
+target = 663, n03781244: monastery
+multi_labels:
+663, n03781244: monastery
+972, n09246464: cliff, drop, drop-off
+pred = 500, n03042490: cliff dwelling
+
+292) cnt mistakes = 86, file = n07693725/ILSVRC2012_val_00044905.JPEG
+target = 931, n07693725: bagel, beigel
+multi_labels:
+868, n04476259: tray
+923, n07579787: plate
+931, n07693725: bagel, beigel
+pred = 941, n07717410: acorn squash
+
+293) cnt mistakes = 85, file = n02106382/ILSVRC2012_val_00030086.JPEG
+target = 233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+multi_labels:
+233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+250, n02110185: Siberian husky
+248, n02109961: Eskimo dog, husky
+pred = 197, n02097130: giant schnauzer
+
+294) cnt mistakes = 85, file = n03814639/ILSVRC2012_val_00010868.JPEG
+target = 678, n03814639: neck brace
+multi_labels:
+678, n03814639: neck brace
+pred = 487, n02992529: cellular telephone, cellular phone, cellphone, cell, mobile phone
+
+295) cnt mistakes = 84, file = n04033995/ILSVRC2012_val_00011051.JPEG
+target = 750, n04033995: quilt, comforter, comfort, puff
+multi_labels:
+750, n04033995: quilt, comforter, comfort, puff
+905, n04590129: window shade
+672, n03792972: mountain tent
+pred = 564, n03388549: four-poster
+
+297) cnt mistakes = 84, file = n04522168/ILSVRC2012_val_00006280.JPEG
+target = 883, n04522168: vase
+multi_labels:
+883, n04522168: vase
+pred = 738, n03991062: pot, flowerpot
+
+299) cnt mistakes = 84, file = n04532106/ILSVRC2012_val_00048541.JPEG
+target = 887, n04532106: vestment
+multi_labels:
+887, n04532106: vestment
+541, n03249569: drum, membranophone, tympan
+pred = 699, n03884397: panpipe, pandean pipe, syrinx
+
+300) cnt mistakes = 84, file = n02894605/ILSVRC2012_val_00037982.JPEG
+target = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+multi_labels:
+460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+pred = 977, n09421951: sandbar, sand bar
+
+301) cnt mistakes = 84, file = n04209239/ILSVRC2012_val_00007505.JPEG
+target = 794, n04209239: shower curtain
+multi_labels:
+794, n04209239: shower curtain
+pred = 905, n04590129: window shade
+
+302) cnt mistakes = 84, file = n03259280/ILSVRC2012_val_00044281.JPEG
+target = 544, n03259280: Dutch oven
+multi_labels:
+532, n03201208: dining table, board
+544, n03259280: Dutch oven
+883, n04522168: vase
+pred = 738, n03991062: pot, flowerpot
+
+303) cnt mistakes = 83, file = n03197337/ILSVRC2012_val_00048942.JPEG
+target = 531, n03197337: digital watch
+multi_labels:
+464, n02910353: buckle
+531, n03197337: digital watch
+608, n03594734: jean, blue jean, denim
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+304) cnt mistakes = 82, file = n04254777/ILSVRC2012_val_00013608.JPEG
+target = 806, n04254777: sock
+multi_labels:
+806, n04254777: sock
+pred = 655, n03770439: miniskirt, mini
+
+305) cnt mistakes = 82, file = n02837789/ILSVRC2012_val_00036936.JPEG
+target = 445, n02837789: bikini, two-piece
+multi_labels:
+445, n02837789: bikini, two-piece
+775, n04136333: sarong
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 801, n04251144: snorkel
+
+306) cnt mistakes = 81, file = n02966687/ILSVRC2012_val_00043450.JPEG
+target = 477, n02966687: carpenter's kit, tool kit
+multi_labels:
+477, n02966687: carpenter's kit, tool kit
+597, n03527444: holster
+pred = 464, n02910353: buckle
+
+307) cnt mistakes = 81, file = n03594734/ILSVRC2012_val_00014493.JPEG
+target = 608, n03594734: jean, blue jean, denim
+multi_labels:
+608, n03594734: jean, blue jean, denim
+806, n04254777: sock
+pred = 911, n04599235: wool, woolen, woollen
+
+308) cnt mistakes = 80, file = n04344873/ILSVRC2012_val_00030983.JPEG
+target = 831, n04344873: studio couch, day bed
+multi_labels:
+831, n04344873: studio couch, day bed
+pred = 851, n04404412: television, television system
+
+309) cnt mistakes = 80, file = n02099601/ILSVRC2012_val_00013611.JPEG
+target = 207, n02099601: golden retriever
+multi_labels:
+207, n02099601: golden retriever
+pred = 213, n02100877: Irish setter, red setter
+
+311) cnt mistakes = 80, file = n04553703/ILSVRC2012_val_00011665.JPEG
+target = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+multi_labels:
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 897, n04554684: washer, automatic washer, washing machine
+
+312) cnt mistakes = 80, file = n03961711/ILSVRC2012_val_00039193.JPEG
+target = 729, n03961711: plate rack
+multi_labels:
+729, n03961711: plate rack
+pred = 495, n03018349: china cabinet, china closet
+
+313) cnt mistakes = 80, file = n02992211/ILSVRC2012_val_00003715.JPEG
+target = 486, n02992211: cello, violoncello
+multi_labels:
+486, n02992211: cello, violoncello
+683, n03838899: oboe, hautboy, hautbois
+776, n04141076: sax, saxophone
+pred = 819, n04296562: stage
+
+314) cnt mistakes = 79, file = n02783161/ILSVRC2012_val_00019844.JPEG
+target = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+multi_labels:
+418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+pred = 767, n04116512: rubber eraser, rubber, pencil eraser
+
+315) cnt mistakes = 79, file = n03042490/ILSVRC2012_val_00046100.JPEG
+target = 500, n03042490: cliff dwelling
+multi_labels:
+500, n03042490: cliff dwelling
+972, n09246464: cliff, drop, drop-off
+pred = 825, n04326547: stone wall
+
+316) cnt mistakes = 79, file = n04270147/ILSVRC2012_val_00038806.JPEG
+target = 813, n04270147: spatula
+multi_labels:
+813, n04270147: spatula
+659, n03775546: mixing bowl
+pred = 960, n07836838: chocolate sauce, chocolate syrup
+
+317) cnt mistakes = 78, file = n07920052/ILSVRC2012_val_00006067.JPEG
+target = 967, n07920052: espresso
+multi_labels:
+762, n04081281: restaurant, eating house, eating place, eatery
+967, n07920052: espresso
+pred = 550, n03297495: espresso maker
+
+318) cnt mistakes = 78, file = n04326547/ILSVRC2012_val_00005354.JPEG
+target = 825, n04326547: stone wall
+multi_labels:
+825, n04326547: stone wall
+421, n02788148: bannister, banister, balustrade, balusters, handrail
+pred = 972, n09246464: cliff, drop, drop-off
+
+319) cnt mistakes = 78, file = n03450230/ILSVRC2012_val_00007147.JPEG
+target = 578, n03450230: gown
+multi_labels:
+578, n03450230: gown
+pred = 982, n10148035: groom, bridegroom
+
+320) cnt mistakes = 78, file = n04136333/ILSVRC2012_val_00030084.JPEG
+target = 775, n04136333: sarong
+multi_labels:
+706, n03899768: patio, terrace
+775, n04136333: sarong
+808, n04259630: sombrero
+pred = 842, n04371430: swimming trunks, bathing trunks
+
+321) cnt mistakes = 77, file = n03630383/ILSVRC2012_val_00042984.JPEG
+target = 617, n03630383: lab coat, laboratory coat
+multi_labels:
+617, n03630383: lab coat, laboratory coat
+601, n03534580: hoopskirt, crinoline
+pred = 823, n04317175: stethoscope
+
+322) cnt mistakes = 77, file = n04370456/ILSVRC2012_val_00025062.JPEG
+target = 841, n04370456: sweatshirt
+multi_labels:
+841, n04370456: sweatshirt
+pred = 636, n03709823: mailbag, postbag
+
+323) cnt mistakes = 77, file = n04332243/ILSVRC2012_val_00040530.JPEG
+target = 828, n04332243: strainer
+multi_labels:
+828, n04332243: strainer
+pred = 968, n07930864: cup
+
+324) cnt mistakes = 76, file = n02776631/ILSVRC2012_val_00014946.JPEG
+target = 415, n02776631: bakery, bakeshop, bakehouse
+multi_labels:
+415, n02776631: bakery, bakeshop, bakehouse
+pred = 960, n07836838: chocolate sauce, chocolate syrup
+
+325) cnt mistakes = 76, file = n04336792/ILSVRC2012_val_00022231.JPEG
+target = 830, n04336792: stretcher
+multi_labels:
+762, n04081281: restaurant, eating house, eating place, eatery
+830, n04336792: stretcher
+pred = 652, n03763968: military uniform
+
+326) cnt mistakes = 76, file = n04251144/ILSVRC2012_val_00012547.JPEG
+target = 801, n04251144: snorkel
+multi_labels:
+801, n04251144: snorkel
+pred = 983, n10565667: scuba diver
+
+327) cnt mistakes = 75, file = n04493381/ILSVRC2012_val_00025239.JPEG
+target = 876, n04493381: tub, vat
+multi_labels:
+876, n04493381: tub, vat
+435, n02808440: bathtub, bathing tub, bath, tub
+pred = 794, n04209239: shower curtain
+
+330) cnt mistakes = 74, file = n03933933/ILSVRC2012_val_00004802.JPEG
+target = 718, n03933933: pier
+multi_labels:
+718, n03933933: pier
+888, n04532670: viaduct
+pred = 449, n02859443: boathouse
+
+331) cnt mistakes = 74, file = n03372029/ILSVRC2012_val_00009395.JPEG
+target = 558, n03372029: flute, transverse flute
+multi_labels:
+558, n03372029: flute, transverse flute
+650, n03759954: microphone, mike
+pred = 819, n04296562: stage
+
+332) cnt mistakes = 74, file = n01990800/ILSVRC2012_val_00042752.JPEG
+target = 126, n01990800: isopod
+multi_labels:
+126, n01990800: isopod
+pred = 124, n01985128: crayfish, crawfish, crawdad, crawdaddy
+
+333) cnt mistakes = 73, file = n04286575/ILSVRC2012_val_00044324.JPEG
+target = 818, n04286575: spotlight, spot
+multi_labels:
+818, n04286575: spotlight, spot
+pred = 745, n04009552: projector
+
+334) cnt mistakes = 72, file = n04116512/ILSVRC2012_val_00004247.JPEG
+target = 767, n04116512: rubber eraser, rubber, pencil eraser
+multi_labels:
+767, n04116512: rubber eraser, rubber, pencil eraser
+pred = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+
+335) cnt mistakes = 72, file = n02916936/ILSVRC2012_val_00046560.JPEG
+target = 465, n02916936: bulletproof vest
+multi_labels:
+465, n02916936: bulletproof vest
+652, n03763968: military uniform
+pred = 413, n02749479: assault rifle, assault gun
+
+337) cnt mistakes = 71, file = n04350905/ILSVRC2012_val_00011479.JPEG
+target = 834, n04350905: suit, suit of clothes
+multi_labels:
+834, n04350905: suit, suit of clothes
+pred = 630, n03680355: Loafer
+
+338) cnt mistakes = 71, file = n02676566/ILSVRC2012_val_00013648.JPEG
+target = 402, n02676566: acoustic guitar
+multi_labels:
+402, n02676566: acoustic guitar
+pred = 650, n03759954: microphone, mike
+
+339) cnt mistakes = 71, file = n04476259/ILSVRC2012_val_00000513.JPEG
+target = 868, n04476259: tray
+multi_labels:
+868, n04476259: tray
+967, n07920052: espresso
+pred = 659, n03775546: mixing bowl
+
+340) cnt mistakes = 70, file = n07860988/ILSVRC2012_val_00026243.JPEG
+target = 961, n07860988: dough
+multi_labels:
+932, n07695742: pretzel
+961, n07860988: dough
+pred = 415, n02776631: bakery, bakeshop, bakehouse
+
+341) cnt mistakes = 70, file = n04141327/ILSVRC2012_val_00016635.JPEG
+target = 777, n04141327: scabbard
+multi_labels:
+777, n04141327: scabbard
+pred = 597, n03527444: holster
+
+342) cnt mistakes = 69, file = n03498962/ILSVRC2012_val_00009028.JPEG
+target = 596, n03498962: hatchet
+multi_labels:
+596, n03498962: hatchet
+597, n03527444: holster
+763, n04086273: revolver, six-gun, six-shooter
+pred = 587, n03481172: hammer
+
+343) cnt mistakes = 68, file = n04330267/ILSVRC2012_val_00014916.JPEG
+target = 827, n04330267: stove
+multi_labels:
+827, n04330267: stove
+pred = 909, n04596742: wok
+
+344) cnt mistakes = 68, file = n07932039/ILSVRC2012_val_00006310.JPEG
+target = 969, n07932039: eggnog
+multi_labels:
+618, n03633091: ladle
+969, n07932039: eggnog
+pred = 828, n04332243: strainer
+
+345) cnt mistakes = 68, file = n04350905/ILSVRC2012_val_00007191.JPEG
+target = 834, n04350905: suit, suit of clothes
+multi_labels:
+834, n04350905: suit, suit of clothes
+pred = 982, n10148035: groom, bridegroom
+
+346) cnt mistakes = 67, file = n03873416/ILSVRC2012_val_00038050.JPEG
+target = 693, n03873416: paddle, boat paddle
+multi_labels:
+693, n03873416: paddle, boat paddle
+pred = 472, n02951358: canoe
+
+347) cnt mistakes = 67, file = n03742115/ILSVRC2012_val_00006806.JPEG
+target = 648, n03742115: medicine chest, medicine cabinet
+multi_labels:
+648, n03742115: medicine chest, medicine cabinet
+pred = 804, n04254120: soap dispenser
+
+348) cnt mistakes = 67, file = n04136333/ILSVRC2012_val_00046146.JPEG
+target = 775, n04136333: sarong
+multi_labels:
+775, n04136333: sarong
+pred = 842, n04371430: swimming trunks, bathing trunks
+
+349) cnt mistakes = 67, file = n03871628/ILSVRC2012_val_00042417.JPEG
+target = 692, n03871628: packet
+multi_labels:
+692, n03871628: packet
+728, n03958227: plastic bag
+911, n04599235: wool, woolen, woollen
+pred = 529, n03188531: diaper, nappy, napkin
+
+350) cnt mistakes = 67, file = n03782006/ILSVRC2012_val_00047803.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+485, n02988304: CD player
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 598, n03529860: home theater, home theatre
+
+351) cnt mistakes = 67, file = n02840245/ILSVRC2012_val_00030455.JPEG
+target = 446, n02840245: binder, ring-binder
+multi_labels:
+446, n02840245: binder, ring-binder
+pred = 893, n04548362: wallet, billfold, notecase, pocketbook
+
+353) cnt mistakes = 66, file = n03998194/ILSVRC2012_val_00028039.JPEG
+target = 741, n03998194: prayer rug, prayer mat
+multi_labels:
+741, n03998194: prayer rug, prayer mat
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+354) cnt mistakes = 66, file = n04127249/ILSVRC2012_val_00041888.JPEG
+target = 772, n04127249: safety pin
+multi_labels:
+409, n02708093: analog clock
+772, n04127249: safety pin
+488, n02999410: chain
+pred = 695, n03874599: padlock
+
+355) cnt mistakes = 66, file = n02454379/ILSVRC2012_val_00025171.JPEG
+target = 363, n02454379: armadillo
+multi_labels:
+363, n02454379: armadillo
+975, n09332890: lakeside, lakeshore
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+356) cnt mistakes = 65, file = n02104029/ILSVRC2012_val_00004100.JPEG
+target = 222, n02104029: kuvasz
+multi_labels:
+222, n02104029: kuvasz
+pred = 258, n02111889: Samoyed, Samoyede
+
+357) cnt mistakes = 65, file = n04133789/ILSVRC2012_val_00029095.JPEG
+target = 774, n04133789: sandal
+multi_labels:
+620, n03642806: laptop, laptop computer
+750, n04033995: quilt, comforter, comfort, puff
+774, n04133789: sandal
+681, n03832673: notebook, notebook computer
+pred = 655, n03770439: miniskirt, mini
+
+358) cnt mistakes = 65, file = n04263257/ILSVRC2012_val_00011619.JPEG
+target = 809, n04263257: soup bowl
+multi_labels:
+809, n04263257: soup bowl
+923, n07579787: plate
+925, n07584110: consomme
+pred = 949, n07745940: strawberry
+
+359) cnt mistakes = 65, file = n04037443/ILSVRC2012_val_00012769.JPEG
+target = 751, n04037443: racer, race car, racing car
+multi_labels:
+733, n03976657: pole
+751, n04037443: racer, race car, racing car
+781, n04149813: scoreboard
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+360) cnt mistakes = 65, file = n02089078/ILSVRC2012_val_00009405.JPEG
+target = 165, n02089078: black-and-tan coonhound
+multi_labels:
+165, n02089078: black-and-tan coonhound
+pred = 234, n02106550: Rottweiler
+
+361) cnt mistakes = 65, file = n04505470/ILSVRC2012_val_00000666.JPEG
+target = 878, n04505470: typewriter keyboard
+multi_labels:
+810, n04264628: space bar
+878, n04505470: typewriter keyboard
+pred = 526, n03179701: desk
+
+362) cnt mistakes = 65, file = n04254777/ILSVRC2012_val_00015026.JPEG
+target = 806, n04254777: sock
+multi_labels:
+806, n04254777: sock
+pred = 655, n03770439: miniskirt, mini
+
+363) cnt mistakes = 64, file = n04476259/ILSVRC2012_val_00007594.JPEG
+target = 868, n04476259: tray
+multi_labels:
+868, n04476259: tray
+pred = 960, n07836838: chocolate sauce, chocolate syrup
+
+364) cnt mistakes = 64, file = n03884397/ILSVRC2012_val_00018337.JPEG
+target = 699, n03884397: panpipe, pandean pipe, syrinx
+multi_labels:
+699, n03884397: panpipe, pandean pipe, syrinx
+pred = 558, n03372029: flute, transverse flute
+
+365) cnt mistakes = 64, file = n03131574/ILSVRC2012_val_00009699.JPEG
+target = 520, n03131574: crib, cot
+multi_labels:
+520, n03131574: crib, cot
+905, n04590129: window shade
+pred = 669, n03788365: mosquito net
+
+366) cnt mistakes = 64, file = n04370456/ILSVRC2012_val_00047168.JPEG
+target = 841, n04370456: sweatshirt
+multi_labels:
+841, n04370456: sweatshirt
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+367) cnt mistakes = 63, file = n02099601/ILSVRC2012_val_00009836.JPEG
+target = 207, n02099601: golden retriever
+multi_labels:
+207, n02099601: golden retriever
+pred = 219, n02102318: cocker spaniel, English cocker spaniel, cocker
+
+368) cnt mistakes = 63, file = n02783161/ILSVRC2012_val_00000721.JPEG
+target = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+multi_labels:
+418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+pred = 767, n04116512: rubber eraser, rubber, pencil eraser
+
+369) cnt mistakes = 63, file = n03534580/ILSVRC2012_val_00021696.JPEG
+target = 601, n03534580: hoopskirt, crinoline
+multi_labels:
+562, n03388043: fountain
+578, n03450230: gown
+601, n03534580: hoopskirt, crinoline
+pred = 982, n10148035: groom, bridegroom
+
+371) cnt mistakes = 63, file = n03594945/ILSVRC2012_val_00014841.JPEG
+target = 609, n03594945: jeep, landrover
+multi_labels:
+609, n03594945: jeep, landrover
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 913, n04606251: wreck
+
+373) cnt mistakes = 62, file = n07590611/ILSVRC2012_val_00047564.JPEG
+target = 926, n07590611: hot pot, hotpot
+multi_labels:
+926, n07590611: hot pot, hotpot
+pred = 909, n04596742: wok
+
+374) cnt mistakes = 62, file = n02091635/ILSVRC2012_val_00038554.JPEG
+target = 175, n02091635: otterhound, otter hound
+multi_labels:
+175, n02091635: otterhound, otter hound
+pred = 226, n02105251: briard
+
+375) cnt mistakes = 62, file = n02840245/ILSVRC2012_val_00003451.JPEG
+target = 446, n02840245: binder, ring-binder
+multi_labels:
+446, n02840245: binder, ring-binder
+pred = 893, n04548362: wallet, billfold, notecase, pocketbook
+
+377) cnt mistakes = 62, file = n09229709/ILSVRC2012_val_00039336.JPEG
+target = 971, n09229709: bubble
+multi_labels:
+733, n03976657: pole
+971, n09229709: bubble
+pred = 517, n03126707: crane
+
+378) cnt mistakes = 62, file = n04592741/ILSVRC2012_val_00012979.JPEG
+target = 908, n04592741: wing
+multi_labels:
+908, n04592741: wing
+pred = 895, n04552348: warplane, military plane
+
+379) cnt mistakes = 62, file = n04557648/ILSVRC2012_val_00048464.JPEG
+target = 898, n04557648: water bottle
+multi_labels:
+898, n04557648: water bottle
+890, n04540053: volleyball
+pred = 899, n04560804: water jug
+
+380) cnt mistakes = 62, file = n04599235/ILSVRC2012_val_00014149.JPEG
+target = 911, n04599235: wool, woolen, woollen
+multi_labels:
+911, n04599235: wool, woolen, woollen
+824, n04325704: stole
+pred = 452, n02869837: bonnet, poke bonnet
+
+381) cnt mistakes = 61, file = n02092002/ILSVRC2012_val_00019120.JPEG
+target = 177, n02092002: Scottish deerhound, deerhound
+multi_labels:
+234, n02106550: Rottweiler
+177, n02092002: Scottish deerhound, deerhound
+pred = 214, n02101006: Gordon setter
+
+382) cnt mistakes = 61, file = n04371430/ILSVRC2012_val_00002800.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+pred = 978, n09428293: seashore, coast, seacoast, sea-coast
+
+383) cnt mistakes = 61, file = n03729826/ILSVRC2012_val_00015901.JPEG
+target = 644, n03729826: matchstick
+multi_labels:
+644, n03729826: matchstick
+pred = 470, n02948072: candle, taper, wax light
+
+384) cnt mistakes = 61, file = n02676566/ILSVRC2012_val_00013613.JPEG
+target = 402, n02676566: acoustic guitar
+multi_labels:
+402, n02676566: acoustic guitar
+650, n03759954: microphone, mike
+pred = 819, n04296562: stage
+
+385) cnt mistakes = 60, file = n09332890/ILSVRC2012_val_00020620.JPEG
+target = 975, n09332890: lakeside, lakeshore
+multi_labels:
+976, n09399592: promontory, headland, head, foreland
+970, n09193705: alp
+975, n09332890: lakeside, lakeshore
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+387) cnt mistakes = 60, file = n02233338/ILSVRC2012_val_00010774.JPEG
+target = 314, n02233338: cockroach, roach
+multi_labels:
+314, n02233338: cockroach, roach
+861, n04447861: toilet seat
+pred = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+
+388) cnt mistakes = 60, file = n04090263/ILSVRC2012_val_00046090.JPEG
+target = 764, n04090263: rifle
+multi_labels:
+413, n02749479: assault rifle, assault gun
+764, n04090263: rifle
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 655, n03770439: miniskirt, mini
+
+390) cnt mistakes = 59, file = n04330267/ILSVRC2012_val_00017468.JPEG
+target = 827, n04330267: stove
+multi_labels:
+827, n04330267: stove
+pred = 469, n02939185: caldron, cauldron
+
+392) cnt mistakes = 58, file = n02206856/ILSVRC2012_val_00024531.JPEG
+target = 309, n02206856: bee
+multi_labels:
+309, n02206856: bee
+pred = 599, n03530642: honeycomb
+
+394) cnt mistakes = 58, file = n04532106/ILSVRC2012_val_00008470.JPEG
+target = 887, n04532106: vestment
+multi_labels:
+887, n04532106: vestment
+pred = 689, n03866082: overskirt
+
+395) cnt mistakes = 58, file = n04371430/ILSVRC2012_val_00029540.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+pred = 433, n02807133: bathing cap, swimming cap
+
+396) cnt mistakes = 57, file = n03776460/ILSVRC2012_val_00036003.JPEG
+target = 660, n03776460: mobile home, manufactured home
+multi_labels:
+660, n03776460: mobile home, manufactured home
+839, n04366367: suspension bridge
+pred = 757, n04065272: recreational vehicle, RV, R.V.
+
+397) cnt mistakes = 57, file = n03388549/ILSVRC2012_val_00032201.JPEG
+target = 564, n03388549: four-poster
+multi_labels:
+564, n03388549: four-poster
+721, n03938244: pillow
+pred = 669, n03788365: mosquito net
+
+398) cnt mistakes = 57, file = n04081281/ILSVRC2012_val_00028580.JPEG
+target = 762, n04081281: restaurant, eating house, eating place, eatery
+multi_labels:
+762, n04081281: restaurant, eating house, eating place, eatery
+923, n07579787: plate
+pred = 122, n01983481: American lobster, Northern lobster, Maine lobster, Homarus americanus
+
+399) cnt mistakes = 57, file = n03045698/ILSVRC2012_val_00043446.JPEG
+target = 501, n03045698: cloak
+multi_labels:
+501, n03045698: cloak
+834, n04350905: suit, suit of clothes
+pred = 457, n02883205: bow tie, bow-tie, bowtie
+
+401) cnt mistakes = 57, file = n03085013/ILSVRC2012_val_00001089.JPEG
+target = 508, n03085013: computer keyboard, keypad
+multi_labels:
+508, n03085013: computer keyboard, keypad
+620, n03642806: laptop, laptop computer
+673, n03793489: mouse, computer mouse
+681, n03832673: notebook, notebook computer
+810, n04264628: space bar
+pred = 613, n03602883: joystick
+
+403) cnt mistakes = 56, file = n02834397/ILSVRC2012_val_00023522.JPEG
+target = 443, n02834397: bib
+multi_labels:
+443, n02834397: bib
+pred = 411, n02730930: apron
+
+404) cnt mistakes = 55, file = n02834397/ILSVRC2012_val_00022632.JPEG
+target = 443, n02834397: bib
+multi_labels:
+443, n02834397: bib
+pred = 411, n02730930: apron
+
+405) cnt mistakes = 55, file = n04270147/ILSVRC2012_val_00039871.JPEG
+target = 813, n04270147: spatula
+multi_labels:
+813, n04270147: spatula
+415, n02776631: bakery, bakeshop, bakehouse
+pred = 961, n07860988: dough
+
+406) cnt mistakes = 55, file = n03478589/ILSVRC2012_val_00010856.JPEG
+target = 586, n03478589: half track
+multi_labels:
+586, n03478589: half track
+pred = 864, n04461696: tow truck, tow car, wrecker
+
+407) cnt mistakes = 55, file = n04399382/ILSVRC2012_val_00001186.JPEG
+target = 850, n04399382: teddy, teddy bear
+multi_labels:
+850, n04399382: teddy, teddy bear
+pred = 865, n04462240: toyshop
+
+408) cnt mistakes = 54, file = n07579787/ILSVRC2012_val_00031247.JPEG
+target = 923, n07579787: plate
+multi_labels:
+923, n07579787: plate
+944, n07718747: artichoke, globe artichoke
+pred = 987, n12144580: corn
+
+409) cnt mistakes = 54, file = n03394916/ILSVRC2012_val_00033682.JPEG
+target = 566, n03394916: French horn, horn
+multi_labels:
+566, n03394916: French horn, horn
+875, n04487394: trombone
+pred = 541, n03249569: drum, membranophone, tympan
+
+410) cnt mistakes = 54, file = n04479046/ILSVRC2012_val_00041995.JPEG
+target = 869, n04479046: trench coat
+multi_labels:
+869, n04479046: trench coat
+pred = 834, n04350905: suit, suit of clothes
+
+411) cnt mistakes = 53, file = n02939185/ILSVRC2012_val_00028378.JPEG
+target = 469, n02939185: caldron, cauldron
+multi_labels:
+469, n02939185: caldron, cauldron
+pred = 827, n04330267: stove
+
+412) cnt mistakes = 53, file = n04557648/ILSVRC2012_val_00040514.JPEG
+target = 898, n04557648: water bottle
+multi_labels:
+898, n04557648: water bottle
+pred = 585, n03476991: hair spray
+
+413) cnt mistakes = 53, file = n03372029/ILSVRC2012_val_00008540.JPEG
+target = 558, n03372029: flute, transverse flute
+multi_labels:
+558, n03372029: flute, transverse flute
+pred = 819, n04296562: stage
+
+414) cnt mistakes = 53, file = n04482393/ILSVRC2012_val_00041940.JPEG
+target = 870, n04482393: tricycle, trike, velocipede
+multi_labels:
+870, n04482393: tricycle, trike, velocipede
+pred = 612, n03599486: jinrikisha, ricksha, rickshaw
+
+415) cnt mistakes = 53, file = n04371430/ILSVRC2012_val_00015877.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+445, n02837789: bikini, two-piece
+842, n04371430: swimming trunks, bathing trunks
+977, n09421951: sandbar, sand bar
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 890, n04540053: volleyball
+
+418) cnt mistakes = 52, file = n03450230/ILSVRC2012_val_00018276.JPEG
+target = 578, n03450230: gown
+multi_labels:
+578, n03450230: gown
+703, n03891251: park bench
+pred = 982, n10148035: groom, bridegroom
+
+419) cnt mistakes = 52, file = n04592741/ILSVRC2012_val_00027706.JPEG
+target = 908, n04592741: wing
+multi_labels:
+908, n04592741: wing
+pred = 895, n04552348: warplane, military plane
+
+420) cnt mistakes = 52, file = n04239074/ILSVRC2012_val_00017133.JPEG
+target = 799, n04239074: sliding door
+multi_labels:
+799, n04239074: sliding door
+pred = 905, n04590129: window shade
+
+423) cnt mistakes = 52, file = n04069434/ILSVRC2012_val_00030477.JPEG
+target = 759, n04069434: reflex camera
+multi_labels:
+841, n04370456: sweatshirt
+759, n04069434: reflex camera
+414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+pred = 622, n03657121: lens cap, lens cover
+
+424) cnt mistakes = 52, file = n03476684/ILSVRC2012_val_00030752.JPEG
+target = 584, n03476684: hair slide
+multi_labels:
+584, n03476684: hair slide
+629, n03676483: lipstick, lip rouge
+692, n03871628: packet
+928, n07614500: ice cream, icecream
+pred = 865, n04462240: toyshop
+
+425) cnt mistakes = 51, file = n04380533/ILSVRC2012_val_00025856.JPEG
+target = 846, n04380533: table lamp
+multi_labels:
+619, n03637318: lampshade, lamp shade
+846, n04380533: table lamp
+pred = 883, n04522168: vase
+
+426) cnt mistakes = 51, file = n07579787/ILSVRC2012_val_00043088.JPEG
+target = 923, n07579787: plate
+multi_labels:
+809, n04263257: soup bowl
+923, n07579787: plate
+pred = 987, n12144580: corn
+
+428) cnt mistakes = 51, file = n04447861/ILSVRC2012_val_00003310.JPEG
+target = 861, n04447861: toilet seat
+multi_labels:
+648, n03742115: medicine chest, medicine cabinet
+861, n04447861: toilet seat
+pred = 999, n15075141: toilet tissue, toilet paper, bathroom tissue
+
+430) cnt mistakes = 50, file = n04152593/ILSVRC2012_val_00031893.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+526, n03179701: desk
+782, n04152593: screen, CRT screen
+905, n04590129: window shade
+664, n03782006: monitor
+pred = 799, n04239074: sliding door
+
+432) cnt mistakes = 50, file = n07590611/ILSVRC2012_val_00007171.JPEG
+target = 926, n07590611: hot pot, hotpot
+multi_labels:
+926, n07590611: hot pot, hotpot
+pred = 521, n03133878: Crock Pot
+
+433) cnt mistakes = 50, file = n03594734/ILSVRC2012_val_00031738.JPEG
+target = 608, n03594734: jean, blue jean, denim
+multi_labels:
+608, n03594734: jean, blue jean, denim
+831, n04344873: studio couch, day bed
+899, n04560804: water jug
+pred = 532, n03201208: dining table, board
+
+434) cnt mistakes = 50, file = n09246464/ILSVRC2012_val_00043298.JPEG
+target = 972, n09246464: cliff, drop, drop-off
+multi_labels:
+972, n09246464: cliff, drop, drop-off
+pred = 500, n03042490: cliff dwelling
+
+435) cnt mistakes = 49, file = n03063599/ILSVRC2012_val_00019645.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 809, n04263257: soup bowl
+
+436) cnt mistakes = 49, file = n04086273/ILSVRC2012_val_00032525.JPEG
+target = 763, n04086273: revolver, six-gun, six-shooter
+multi_labels:
+763, n04086273: revolver, six-gun, six-shooter
+pred = 597, n03527444: holster
+
+437) cnt mistakes = 49, file = n03970156/ILSVRC2012_val_00023997.JPEG
+target = 731, n03970156: plunger, plumber's helper
+multi_labels:
+731, n03970156: plunger, plumber's helper
+762, n04081281: restaurant, eating house, eating place, eatery
+pred = 572, n03443371: goblet
+
+438) cnt mistakes = 49, file = n04479046/ILSVRC2012_val_00037129.JPEG
+target = 869, n04479046: trench coat
+multi_labels:
+869, n04479046: trench coat
+834, n04350905: suit, suit of clothes
+pred = 982, n10148035: groom, bridegroom
+
+439) cnt mistakes = 49, file = n03776460/ILSVRC2012_val_00034994.JPEG
+target = 660, n03776460: mobile home, manufactured home
+multi_labels:
+660, n03776460: mobile home, manufactured home
+pred = 757, n04065272: recreational vehicle, RV, R.V.
+
+440) cnt mistakes = 49, file = n02769748/ILSVRC2012_val_00017761.JPEG
+target = 414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+multi_labels:
+414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+608, n03594734: jean, blue jean, denim
+pred = 869, n04479046: trench coat
+
+441) cnt mistakes = 49, file = n04350905/ILSVRC2012_val_00046726.JPEG
+target = 834, n04350905: suit, suit of clothes
+multi_labels:
+834, n04350905: suit, suit of clothes
+pred = 869, n04479046: trench coat
+
+442) cnt mistakes = 49, file = n03045698/ILSVRC2012_val_00021996.JPEG
+target = 501, n03045698: cloak
+multi_labels:
+501, n03045698: cloak
+578, n03450230: gown
+pred = 903, n04584207: wig
+
+445) cnt mistakes = 48, file = n03527444/ILSVRC2012_val_00046300.JPEG
+target = 597, n03527444: holster
+multi_labels:
+597, n03527444: holster
+pred = 777, n04141327: scabbard
+
+446) cnt mistakes = 48, file = n02676566/ILSVRC2012_val_00039326.JPEG
+target = 402, n02676566: acoustic guitar
+multi_labels:
+402, n02676566: acoustic guitar
+546, n03272010: electric guitar
+650, n03759954: microphone, mike
+818, n04286575: spotlight, spot
+819, n04296562: stage
+pred = 776, n04141076: sax, saxophone
+
+448) cnt mistakes = 48, file = n03724870/ILSVRC2012_val_00038076.JPEG
+target = 643, n03724870: mask
+multi_labels:
+643, n03724870: mask
+pred = 570, n03424325: gasmask, respirator, gas helmet
+
+449) cnt mistakes = 48, file = n03000134/ILSVRC2012_val_00030386.JPEG
+target = 489, n03000134: chainlink fence
+multi_labels:
+489, n03000134: chainlink fence
+pred = 981, n09835506: ballplayer, baseball player
+
+451) cnt mistakes = 47, file = n04344873/ILSVRC2012_val_00001811.JPEG
+target = 831, n04344873: studio couch, day bed
+multi_labels:
+831, n04344873: studio couch, day bed
+pred = 905, n04590129: window shade
+
+452) cnt mistakes = 47, file = n04462240/ILSVRC2012_val_00021008.JPEG
+target = 865, n04462240: toyshop
+multi_labels:
+865, n04462240: toyshop
+pred = 850, n04399382: teddy, teddy bear
+
+453) cnt mistakes = 47, file = n03967562/ILSVRC2012_val_00024414.JPEG
+target = 730, n03967562: plow, plough
+multi_labels:
+345, n02403003: ox
+346, n02408429: water buffalo, water ox, Asiatic buffalo, Bubalus bubalis
+730, n03967562: plow, plough
+pred = 690, n03868242: oxcart
+
+454) cnt mistakes = 47, file = n04254120/ILSVRC2012_val_00017584.JPEG
+target = 804, n04254120: soap dispenser
+multi_labels:
+804, n04254120: soap dispenser
+pred = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+
+455) cnt mistakes = 47, file = n04597913/ILSVRC2012_val_00049566.JPEG
+target = 910, n04597913: wooden spoon
+multi_labels:
+910, n04597913: wooden spoon
+pred = 909, n04596742: wok
+
+456) cnt mistakes = 47, file = n03085013/ILSVRC2012_val_00032810.JPEG
+target = 508, n03085013: computer keyboard, keypad
+multi_labels:
+508, n03085013: computer keyboard, keypad
+526, n03179701: desk
+527, n03180011: desktop computer
+673, n03793489: mouse, computer mouse
+810, n04264628: space bar
+pred = 742, n04004767: printer
+
+457) cnt mistakes = 46, file = n04447861/ILSVRC2012_val_00001621.JPEG
+target = 861, n04447861: toilet seat
+multi_labels:
+861, n04447861: toilet seat
+pred = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+
+458) cnt mistakes = 46, file = n03146219/ILSVRC2012_val_00014897.JPEG
+target = 524, n03146219: cuirass
+multi_labels:
+461, n02895154: breastplate, aegis, egis
+524, n03146219: cuirass
+774, n04133789: sandal
+787, n04192698: shield, buckler
+pred = 777, n04141327: scabbard
+
+459) cnt mistakes = 46, file = n02894605/ILSVRC2012_val_00020306.JPEG
+target = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+multi_labels:
+460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+733, n03976657: pole
+pred = 975, n09332890: lakeside, lakeshore
+
+460) cnt mistakes = 46, file = n04200800/ILSVRC2012_val_00004257.JPEG
+target = 788, n04200800: shoe shop, shoe-shop, shoe store
+multi_labels:
+788, n04200800: shoe shop, shoe-shop, shoe store
+pred = 502, n03047690: clog, geta, patten, sabot
+
+461) cnt mistakes = 46, file = n09193705/ILSVRC2012_val_00009451.JPEG
+target = 970, n09193705: alp
+multi_labels:
+970, n09193705: alp
+pred = 795, n04228054: ski
+
+462) cnt mistakes = 46, file = n04033995/ILSVRC2012_val_00012625.JPEG
+target = 750, n04033995: quilt, comforter, comfort, puff
+multi_labels:
+750, n04033995: quilt, comforter, comfort, puff
+894, n04550184: wardrobe, closet, press
+905, n04590129: window shade
+851, n04404412: television, television system
+664, n03782006: monitor
+526, n03179701: desk
+721, n03938244: pillow
+619, n03637318: lampshade, lamp shade
+418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+pred = 598, n03529860: home theater, home theatre
+
+463) cnt mistakes = 46, file = n02699494/ILSVRC2012_val_00005723.JPEG
+target = 406, n02699494: altar
+multi_labels:
+406, n02699494: altar
+pred = 687, n03854065: organ, pipe organ
+
+465) cnt mistakes = 45, file = n02699494/ILSVRC2012_val_00016156.JPEG
+target = 406, n02699494: altar
+multi_labels:
+406, n02699494: altar
+892, n04548280: wall clock
+pred = 857, n04429376: throne
+
+466) cnt mistakes = 45, file = n03534580/ILSVRC2012_val_00012439.JPEG
+target = 601, n03534580: hoopskirt, crinoline
+multi_labels:
+578, n03450230: gown
+601, n03534580: hoopskirt, crinoline
+pred = 982, n10148035: groom, bridegroom
+
+467) cnt mistakes = 44, file = n02808440/ILSVRC2012_val_00016026.JPEG
+target = 435, n02808440: bathtub, bathing tub, bath, tub
+multi_labels:
+435, n02808440: bathtub, bathing tub, bath, tub
+876, n04493381: tub, vat
+pred = 999, n15075141: toilet tissue, toilet paper, bathroom tissue
+
+469) cnt mistakes = 44, file = n03832673/ILSVRC2012_val_00041094.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+681, n03832673: notebook, notebook computer
+620, n03642806: laptop, laptop computer
+608, n03594734: jean, blue jean, denim
+pred = 487, n02992529: cellular telephone, cellular phone, cellphone, cell, mobile phone
+
+470) cnt mistakes = 44, file = n03089624/ILSVRC2012_val_00010089.JPEG
+target = 509, n03089624: confectionery, confectionary, candy store
+multi_labels:
+463, n02909870: bucket, pail
+509, n03089624: confectionery, confectionary, candy store
+692, n03871628: packet
+pred = 720, n03937543: pill bottle
+
+471) cnt mistakes = 44, file = n03933933/ILSVRC2012_val_00000652.JPEG
+target = 718, n03933933: pier
+multi_labels:
+718, n03933933: pier
+919, n06794110: street sign
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+472) cnt mistakes = 44, file = n04591157/ILSVRC2012_val_00009550.JPEG
+target = 906, n04591157: Windsor tie
+multi_labels:
+906, n04591157: Windsor tie
+pred = 834, n04350905: suit, suit of clothes
+
+473) cnt mistakes = 44, file = n02776631/ILSVRC2012_val_00018541.JPEG
+target = 415, n02776631: bakery, bakeshop, bakehouse
+multi_labels:
+415, n02776631: bakery, bakeshop, bakehouse
+pred = 928, n07614500: ice cream, icecream
+
+474) cnt mistakes = 44, file = n04371774/ILSVRC2012_val_00015554.JPEG
+target = 843, n04371774: swing
+multi_labels:
+445, n02837789: bikini, two-piece
+836, n04355933: sunglass
+843, n04371774: swing
+837, n04356056: sunglasses, dark glasses, shades
+pred = 890, n04540053: volleyball
+
+475) cnt mistakes = 44, file = n03933933/ILSVRC2012_val_00018594.JPEG
+target = 718, n03933933: pier
+multi_labels:
+460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+536, n03216828: dock, dockage, docking facility
+718, n03933933: pier
+975, n09332890: lakeside, lakeshore
+pred = 403, n02687172: aircraft carrier, carrier, flattop, attack aircraft carrier
+
+476) cnt mistakes = 44, file = n04229816/ILSVRC2012_val_00015621.JPEG
+target = 796, n04229816: ski mask
+multi_labels:
+518, n03127747: crash helmet
+796, n04229816: ski mask
+pred = 570, n03424325: gasmask, respirator, gas helmet
+
+477) cnt mistakes = 44, file = n04456115/ILSVRC2012_val_00004239.JPEG
+target = 862, n04456115: torch
+multi_labels:
+862, n04456115: torch
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+478) cnt mistakes = 44, file = n04435653/ILSVRC2012_val_00019621.JPEG
+target = 858, n04435653: tile roof
+multi_labels:
+858, n04435653: tile roof
+pred = 497, n03028079: church, church building
+
+479) cnt mistakes = 44, file = n04263257/ILSVRC2012_val_00001790.JPEG
+target = 809, n04263257: soup bowl
+multi_labels:
+809, n04263257: soup bowl
+pred = 968, n07930864: cup
+
+480) cnt mistakes = 44, file = n03133878/ILSVRC2012_val_00000534.JPEG
+target = 521, n03133878: Crock Pot
+multi_labels:
+521, n03133878: Crock Pot
+pred = 926, n07590611: hot pot, hotpot
+
+481) cnt mistakes = 43, file = n02669723/ILSVRC2012_val_00045424.JPEG
+target = 400, n02669723: academic gown, academic robe, judge's robe
+multi_labels:
+400, n02669723: academic gown, academic robe, judge's robe
+834, n04350905: suit, suit of clothes
+906, n04591157: Windsor tie
+pred = 667, n03787032: mortarboard
+
+483) cnt mistakes = 43, file = n03063599/ILSVRC2012_val_00024445.JPEG
+target = 504, n03063599: coffee mug
+multi_labels:
+504, n03063599: coffee mug
+968, n07930864: cup
+pred = 618, n03633091: ladle
+
+484) cnt mistakes = 43, file = n04273569/ILSVRC2012_val_00040212.JPEG
+target = 814, n04273569: speedboat
+multi_labels:
+814, n04273569: speedboat
+pred = 693, n03873416: paddle, boat paddle
+
+487) cnt mistakes = 42, file = n03770439/ILSVRC2012_val_00034072.JPEG
+target = 655, n03770439: miniskirt, mini
+multi_labels:
+487, n02992529: cellular telephone, cellular phone, cellphone, cell, mobile phone
+655, n03770439: miniskirt, mini
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+489) cnt mistakes = 42, file = n03759954/ILSVRC2012_val_00001982.JPEG
+target = 650, n03759954: microphone, mike
+multi_labels:
+546, n03272010: electric guitar
+650, n03759954: microphone, mike
+819, n04296562: stage
+pred = 593, n03494278: harmonica, mouth organ, harp, mouth harp
+
+490) cnt mistakes = 42, file = n02364673/ILSVRC2012_val_00043664.JPEG
+target = 338, n02364673: guinea pig, Cavia cobaya
+multi_labels:
+338, n02364673: guinea pig, Cavia cobaya
+pred = 332, n02328150: Angora, Angora rabbit
+
+491) cnt mistakes = 42, file = n03691459/ILSVRC2012_val_00017612.JPEG
+target = 632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+multi_labels:
+632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+811, n04265275: space heater
+pred = 782, n04152593: screen, CRT screen
+
+492) cnt mistakes = 42, file = n03127747/ILSVRC2012_val_00028382.JPEG
+target = 518, n03127747: crash helmet
+multi_labels:
+518, n03127747: crash helmet
+pred = 691, n03868863: oxygen mask
+
+493) cnt mistakes = 42, file = n02676566/ILSVRC2012_val_00005467.JPEG
+target = 402, n02676566: acoustic guitar
+multi_labels:
+402, n02676566: acoustic guitar
+650, n03759954: microphone, mike
+819, n04296562: stage
+pred = 593, n03494278: harmonica, mouth organ, harp, mouth harp
+
+494) cnt mistakes = 42, file = n04141327/ILSVRC2012_val_00038141.JPEG
+target = 777, n04141327: scabbard
+multi_labels:
+777, n04141327: scabbard
+pred = 597, n03527444: holster
+
+495) cnt mistakes = 41, file = n07584110/ILSVRC2012_val_00021669.JPEG
+target = 925, n07584110: consomme
+multi_labels:
+925, n07584110: consomme
+pred = 659, n03775546: mixing bowl
+
+496) cnt mistakes = 41, file = n03777754/ILSVRC2012_val_00044245.JPEG
+target = 662, n03777754: modem
+multi_labels:
+245, n02108915: French bulldog
+662, n03777754: modem
+pred = 620, n03642806: laptop, laptop computer
+
+497) cnt mistakes = 41, file = n03950228/ILSVRC2012_val_00010264.JPEG
+target = 725, n03950228: pitcher, ewer
+multi_labels:
+725, n03950228: pitcher, ewer
+883, n04522168: vase
+pred = 738, n03991062: pot, flowerpot
+
+499) cnt mistakes = 41, file = n03899768/ILSVRC2012_val_00007577.JPEG
+target = 706, n03899768: patio, terrace
+multi_labels:
+421, n02788148: bannister, banister, balustrade, balusters, handrail
+706, n03899768: patio, terrace
+738, n03991062: pot, flowerpot
+pred = 765, n04099969: rocking chair, rocker
+
+500) cnt mistakes = 41, file = n04041544/ILSVRC2012_val_00047817.JPEG
+target = 754, n04041544: radio, wireless
+multi_labels:
+754, n04041544: radio, wireless
+pred = 632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+
+501) cnt mistakes = 41, file = n03594734/ILSVRC2012_val_00023880.JPEG
+target = 608, n03594734: jean, blue jean, denim
+multi_labels:
+608, n03594734: jean, blue jean, denim
+pred = 515, n03124170: cowboy hat, ten-gallon hat
+
+502) cnt mistakes = 41, file = n02999410/ILSVRC2012_val_00023200.JPEG
+target = 488, n02999410: chain
+multi_labels:
+488, n02999410: chain
+679, n03814906: necklace
+pred = 490, n03000247: chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour
+
+503) cnt mistakes = 41, file = n07579787/ILSVRC2012_val_00020876.JPEG
+target = 923, n07579787: plate
+multi_labels:
+923, n07579787: plate
+pred = 930, n07684084: French loaf
+
+504) cnt mistakes = 41, file = n04592741/ILSVRC2012_val_00031478.JPEG
+target = 908, n04592741: wing
+multi_labels:
+404, n02690373: airliner
+908, n04592741: wing
+pred = 812, n04266014: space shuttle
+
+505) cnt mistakes = 41, file = n02699494/ILSVRC2012_val_00010833.JPEG
+target = 406, n02699494: altar
+multi_labels:
+406, n02699494: altar
+pred = 857, n04429376: throne
+
+508) cnt mistakes = 40, file = n03770439/ILSVRC2012_val_00047629.JPEG
+target = 655, n03770439: miniskirt, mini
+multi_labels:
+655, n03770439: miniskirt, mini
+pred = 836, n04355933: sunglass
+
+509) cnt mistakes = 40, file = n03787032/ILSVRC2012_val_00017035.JPEG
+target = 667, n03787032: mortarboard
+multi_labels:
+667, n03787032: mortarboard
+pred = 400, n02669723: academic gown, academic robe, judge's robe
+
+510) cnt mistakes = 40, file = n03633091/ILSVRC2012_val_00039098.JPEG
+target = 618, n03633091: ladle
+multi_labels:
+618, n03633091: ladle
+pred = 809, n04263257: soup bowl
+
+512) cnt mistakes = 39, file = n03208938/ILSVRC2012_val_00038381.JPEG
+target = 535, n03208938: disk brake, disc brake
+multi_labels:
+535, n03208938: disk brake, disc brake
+670, n03791053: motor scooter, scooter
+pred = 479, n02974003: car wheel
+
+513) cnt mistakes = 39, file = n02104029/ILSVRC2012_val_00022404.JPEG
+target = 222, n02104029: kuvasz
+multi_labels:
+222, n02104029: kuvasz
+pred = 258, n02111889: Samoyed, Samoyede
+
+514) cnt mistakes = 39, file = n04286575/ILSVRC2012_val_00049656.JPEG
+target = 818, n04286575: spotlight, spot
+multi_labels:
+733, n03976657: pole
+818, n04286575: spotlight, spot
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+516) cnt mistakes = 39, file = n04370456/ILSVRC2012_val_00043017.JPEG
+target = 841, n04370456: sweatshirt
+multi_labels:
+841, n04370456: sweatshirt
+pred = 501, n03045698: cloak
+
+517) cnt mistakes = 39, file = n03733281/ILSVRC2012_val_00024639.JPEG
+target = 646, n03733281: maze, labyrinth
+multi_labels:
+646, n03733281: maze, labyrinth
+718, n03933933: pier
+836, n04355933: sunglass
+976, n09399592: promontory, headland, head, foreland
+837, n04356056: sunglasses, dark glasses, shades
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+518) cnt mistakes = 38, file = n03947888/ILSVRC2012_val_00009628.JPEG
+target = 724, n03947888: pirate, pirate ship
+multi_labels:
+724, n03947888: pirate, pirate ship
+pred = 536, n03216828: dock, dockage, docking facility
+
+519) cnt mistakes = 38, file = n02091635/ILSVRC2012_val_00019639.JPEG
+target = 175, n02091635: otterhound, otter hound
+multi_labels:
+175, n02091635: otterhound, otter hound
+pred = 226, n02105251: briard
+
+520) cnt mistakes = 38, file = n02096051/ILSVRC2012_val_00010461.JPEG
+target = 191, n02096051: Airedale, Airedale terrier
+multi_labels:
+750, n04033995: quilt, comforter, comfort, puff
+191, n02096051: Airedale, Airedale terrier
+242, n02108089: boxer
+243, n02108422: bull mastiff
+pred = 831, n04344873: studio couch, day bed
+
+521) cnt mistakes = 38, file = n07579787/ILSVRC2012_val_00007076.JPEG
+target = 923, n07579787: plate
+multi_labels:
+923, n07579787: plate
+809, n04263257: soup bowl
+pred = 618, n03633091: ladle
+
+522) cnt mistakes = 38, file = n04311174/ILSVRC2012_val_00045460.JPEG
+target = 822, n04311174: steel drum
+multi_labels:
+822, n04311174: steel drum
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 842, n04371430: swimming trunks, bathing trunks
+
+523) cnt mistakes = 38, file = n04371430/ILSVRC2012_val_00041734.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+899, n04560804: water jug
+pred = 801, n04251144: snorkel
+
+525) cnt mistakes = 38, file = n04356056/ILSVRC2012_val_00024708.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 655, n03770439: miniskirt, mini
+
+526) cnt mistakes = 38, file = n03400231/ILSVRC2012_val_00000516.JPEG
+target = 567, n03400231: frying pan, frypan, skillet
+multi_labels:
+567, n03400231: frying pan, frypan, skillet
+pred = 813, n04270147: spatula
+
+527) cnt mistakes = 37, file = n03498962/ILSVRC2012_val_00047673.JPEG
+target = 596, n03498962: hatchet
+multi_labels:
+596, n03498962: hatchet
+490, n03000247: chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour
+pred = 587, n03481172: hammer
+
+528) cnt mistakes = 37, file = n04557648/ILSVRC2012_val_00009504.JPEG
+target = 898, n04557648: water bottle
+multi_labels:
+898, n04557648: water bottle
+pred = 899, n04560804: water jug
+
+529) cnt mistakes = 37, file = n04254777/ILSVRC2012_val_00014637.JPEG
+target = 806, n04254777: sock
+multi_labels:
+806, n04254777: sock
+pred = 655, n03770439: miniskirt, mini
+
+530) cnt mistakes = 37, file = n07590611/ILSVRC2012_val_00037664.JPEG
+target = 926, n07590611: hot pot, hotpot
+multi_labels:
+926, n07590611: hot pot, hotpot
+pred = 909, n04596742: wok
+
+531) cnt mistakes = 37, file = n07579787/ILSVRC2012_val_00021811.JPEG
+target = 923, n07579787: plate
+multi_labels:
+923, n07579787: plate
+pred = 942, n07717556: butternut squash
+
+534) cnt mistakes = 37, file = n03207941/ILSVRC2012_val_00011442.JPEG
+target = 534, n03207941: dishwasher, dish washer, dishwashing machine
+multi_labels:
+534, n03207941: dishwasher, dish washer, dishwashing machine
+pred = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+
+535) cnt mistakes = 37, file = n03447447/ILSVRC2012_val_00034216.JPEG
+target = 576, n03447447: gondola
+multi_labels:
+576, n03447447: gondola
+693, n03873416: paddle, boat paddle
+975, n09332890: lakeside, lakeshore
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+537) cnt mistakes = 37, file = n02916936/ILSVRC2012_val_00047056.JPEG
+target = 465, n02916936: bulletproof vest
+multi_labels:
+413, n02749479: assault rifle, assault gun
+465, n02916936: bulletproof vest
+597, n03527444: holster
+764, n04090263: rifle
+pred = 608, n03594734: jean, blue jean, denim
+
+538) cnt mistakes = 37, file = n04525038/ILSVRC2012_val_00004131.JPEG
+target = 885, n04525038: velvet
+multi_labels:
+721, n03938244: pillow
+831, n04344873: studio couch, day bed
+885, n04525038: velvet
+733, n03976657: pole
+pred = 750, n04033995: quilt, comforter, comfort, puff
+
+539) cnt mistakes = 37, file = n02894605/ILSVRC2012_val_00018400.JPEG
+target = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+multi_labels:
+460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+pred = 977, n09421951: sandbar, sand bar
+
+540) cnt mistakes = 37, file = n04404412/ILSVRC2012_val_00042827.JPEG
+target = 851, n04404412: television, television system
+multi_labels:
+851, n04404412: television, television system
+pred = 598, n03529860: home theater, home theatre
+
+541) cnt mistakes = 36, file = n04507155/ILSVRC2012_val_00026690.JPEG
+target = 879, n04507155: umbrella
+multi_labels:
+879, n04507155: umbrella
+pred = 614, n03617480: kimono
+
+542) cnt mistakes = 36, file = n03759954/ILSVRC2012_val_00042490.JPEG
+target = 650, n03759954: microphone, mike
+multi_labels:
+629, n03676483: lipstick, lip rouge
+650, n03759954: microphone, mike
+pred = 558, n03372029: flute, transverse flute
+
+543) cnt mistakes = 36, file = n04090263/ILSVRC2012_val_00000894.JPEG
+target = 764, n04090263: rifle
+multi_labels:
+413, n02749479: assault rifle, assault gun
+764, n04090263: rifle
+pred = 652, n03763968: military uniform
+
+544) cnt mistakes = 36, file = n07873807/ILSVRC2012_val_00045176.JPEG
+target = 963, n07873807: pizza, pizza pie
+multi_labels:
+963, n07873807: pizza, pizza pie
+762, n04081281: restaurant, eating house, eating place, eatery
+pred = 532, n03201208: dining table, board
+
+547) cnt mistakes = 36, file = n04429376/ILSVRC2012_val_00045464.JPEG
+target = 857, n04429376: throne
+multi_labels:
+857, n04429376: throne
+pred = 406, n02699494: altar
+
+548) cnt mistakes = 36, file = n04118776/ILSVRC2012_val_00039429.JPEG
+target = 769, n04118776: rule, ruler
+multi_labels:
+769, n04118776: rule, ruler
+pred = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+
+549) cnt mistakes = 36, file = n02930766/ILSVRC2012_val_00019725.JPEG
+target = 468, n02930766: cab, hack, taxi, taxicab
+multi_labels:
+468, n02930766: cab, hack, taxi, taxicab
+485, n02988304: CD player
+685, n03841143: odometer, hodometer, mileometer, milometer
+754, n04041544: radio, wireless
+pred = 632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+
+550) cnt mistakes = 36, file = n04560804/ILSVRC2012_val_00006573.JPEG
+target = 899, n04560804: water jug
+multi_labels:
+899, n04560804: water jug
+pred = 898, n04557648: water bottle
+
+551) cnt mistakes = 35, file = n02089973/ILSVRC2012_val_00000028.JPEG
+target = 167, n02089973: English foxhound
+multi_labels:
+167, n02089973: English foxhound
+pred = 238, n02107574: Greater Swiss Mountain dog
+
+553) cnt mistakes = 35, file = n04311174/ILSVRC2012_val_00009099.JPEG
+target = 822, n04311174: steel drum
+multi_labels:
+541, n03249569: drum, membranophone, tympan
+562, n03388043: fountain
+819, n04296562: stage
+822, n04311174: steel drum
+pred = 513, n03110669: cornet, horn, trumpet, trump
+
+554) cnt mistakes = 35, file = n03938244/ILSVRC2012_val_00008191.JPEG
+target = 721, n03938244: pillow
+multi_labels:
+721, n03938244: pillow
+831, n04344873: studio couch, day bed
+846, n04380533: table lamp
+905, n04590129: window shade
+pred = 799, n04239074: sliding door
+
+555) cnt mistakes = 35, file = n04330267/ILSVRC2012_val_00010115.JPEG
+target = 827, n04330267: stove
+multi_labels:
+827, n04330267: stove
+pred = 909, n04596742: wok
+
+556) cnt mistakes = 35, file = n12144580/ILSVRC2012_val_00041952.JPEG
+target = 987, n12144580: corn
+multi_labels:
+532, n03201208: dining table, board
+987, n12144580: corn
+998, n13133613: ear, spike, capitulum
+pred = 926, n07590611: hot pot, hotpot
+
+557) cnt mistakes = 35, file = n03710637/ILSVRC2012_val_00004531.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 842, n04371430: swimming trunks, bathing trunks
+
+558) cnt mistakes = 35, file = n03777568/ILSVRC2012_val_00023313.JPEG
+target = 661, n03777568: Model T
+multi_labels:
+479, n02974003: car wheel
+661, n03777568: Model T
+pred = 573, n03444034: go-kart
+
+560) cnt mistakes = 35, file = n04552348/ILSVRC2012_val_00033671.JPEG
+target = 895, n04552348: warplane, military plane
+multi_labels:
+895, n04552348: warplane, military plane
+pred = 908, n04592741: wing
+
+561) cnt mistakes = 35, file = n04371774/ILSVRC2012_val_00023421.JPEG
+target = 843, n04371774: swing
+multi_labels:
+488, n02999410: chain
+608, n03594734: jean, blue jean, denim
+843, n04371774: swing
+pred = 515, n03124170: cowboy hat, ten-gallon hat
+
+562) cnt mistakes = 35, file = n03216828/ILSVRC2012_val_00018083.JPEG
+target = 536, n03216828: dock, dockage, docking facility
+multi_labels:
+536, n03216828: dock, dockage, docking facility
+pred = 510, n03095699: container ship, containership, container vessel
+
+563) cnt mistakes = 35, file = n04296562/ILSVRC2012_val_00040063.JPEG
+target = 819, n04296562: stage
+multi_labels:
+819, n04296562: stage
+pred = 541, n03249569: drum, membranophone, tympan
+
+564) cnt mistakes = 35, file = n03124043/ILSVRC2012_val_00031385.JPEG
+target = 514, n03124043: cowboy boot
+multi_labels:
+514, n03124043: cowboy boot
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 655, n03770439: miniskirt, mini
+
+565) cnt mistakes = 35, file = n04553703/ILSVRC2012_val_00045791.JPEG
+target = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+multi_labels:
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 861, n04447861: toilet seat
+
+566) cnt mistakes = 34, file = n03777568/ILSVRC2012_val_00026352.JPEG
+target = 661, n03777568: Model T
+multi_labels:
+581, n03459775: grille, radiator grille
+661, n03777568: Model T
+511, n03100240: convertible
+pred = 479, n02974003: car wheel
+
+567) cnt mistakes = 34, file = n02099267/ILSVRC2012_val_00033206.JPEG
+target = 205, n02099267: flat-coated retriever
+multi_labels:
+205, n02099267: flat-coated retriever
+pred = 197, n02097130: giant schnauzer
+
+568) cnt mistakes = 34, file = n03095699/ILSVRC2012_val_00003200.JPEG
+target = 510, n03095699: container ship, containership, container vessel
+multi_labels:
+510, n03095699: container ship, containership, container vessel
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 536, n03216828: dock, dockage, docking facility
+
+569) cnt mistakes = 34, file = n02087394/ILSVRC2012_val_00037577.JPEG
+target = 159, n02087394: Rhodesian ridgeback
+multi_labels:
+159, n02087394: Rhodesian ridgeback
+pred = 242, n02108089: boxer
+
+570) cnt mistakes = 34, file = n07590611/ILSVRC2012_val_00024997.JPEG
+target = 926, n07590611: hot pot, hotpot
+multi_labels:
+987, n12144580: corn
+926, n07590611: hot pot, hotpot
+pred = 909, n04596742: wok
+
+571) cnt mistakes = 34, file = n02113186/ILSVRC2012_val_00028146.JPEG
+target = 264, n02113186: Cardigan, Cardigan Welsh corgi
+multi_labels:
+264, n02113186: Cardigan, Cardigan Welsh corgi
+pred = 253, n02110806: basenji
+
+572) cnt mistakes = 34, file = n02791270/ILSVRC2012_val_00018164.JPEG
+target = 424, n02791270: barbershop
+multi_labels:
+424, n02791270: barbershop
+pred = 423, n02791124: barber chair
+
+573) cnt mistakes = 34, file = n02102318/ILSVRC2012_val_00024691.JPEG
+target = 219, n02102318: cocker spaniel, English cocker spaniel, cocker
+multi_labels:
+219, n02102318: cocker spaniel, English cocker spaniel, cocker
+pred = 207, n02099601: golden retriever
+
+574) cnt mistakes = 34, file = n03877472/ILSVRC2012_val_00038546.JPEG
+target = 697, n03877472: pajama, pyjama, pj's, jammies
+multi_labels:
+697, n03877472: pajama, pyjama, pj's, jammies
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+575) cnt mistakes = 34, file = n03866082/ILSVRC2012_val_00017791.JPEG
+target = 689, n03866082: overskirt
+multi_labels:
+601, n03534580: hoopskirt, crinoline
+689, n03866082: overskirt
+885, n04525038: velvet
+pred = 887, n04532106: vestment
+
+576) cnt mistakes = 34, file = n03017168/ILSVRC2012_val_00027888.JPEG
+target = 494, n03017168: chime, bell, gong
+multi_labels:
+494, n03017168: chime, bell, gong
+pred = 442, n02825657: bell cote, bell cot
+
+577) cnt mistakes = 33, file = n02669723/ILSVRC2012_val_00023217.JPEG
+target = 400, n02669723: academic gown, academic robe, judge's robe
+multi_labels:
+400, n02669723: academic gown, academic robe, judge's robe
+pred = 667, n03787032: mortarboard
+
+578) cnt mistakes = 33, file = n03259280/ILSVRC2012_val_00004500.JPEG
+target = 544, n03259280: Dutch oven
+multi_labels:
+544, n03259280: Dutch oven
+pred = 926, n07590611: hot pot, hotpot
+
+579) cnt mistakes = 33, file = n04069434/ILSVRC2012_val_00006160.JPEG
+target = 759, n04069434: reflex camera
+multi_labels:
+759, n04069434: reflex camera
+pred = 622, n03657121: lens cap, lens cover
+
+582) cnt mistakes = 33, file = n04367480/ILSVRC2012_val_00038364.JPEG
+target = 840, n04367480: swab, swob, mop
+multi_labels:
+840, n04367480: swab, swob, mop
+pred = 911, n04599235: wool, woolen, woollen
+
+584) cnt mistakes = 32, file = n07579787/ILSVRC2012_val_00022658.JPEG
+target = 923, n07579787: plate
+multi_labels:
+923, n07579787: plate
+pred = 969, n07932039: eggnog
+
+585) cnt mistakes = 32, file = n03724870/ILSVRC2012_val_00007883.JPEG
+target = 643, n03724870: mask
+multi_labels:
+643, n03724870: mask
+819, n04296562: stage
+pred = 903, n04584207: wig
+
+586) cnt mistakes = 32, file = n04597913/ILSVRC2012_val_00044817.JPEG
+target = 910, n04597913: wooden spoon
+multi_labels:
+813, n04270147: spatula
+910, n04597913: wooden spoon
+pred = 659, n03775546: mixing bowl
+
+587) cnt mistakes = 32, file = n03481172/ILSVRC2012_val_00017991.JPEG
+target = 587, n03481172: hammer
+multi_labels:
+587, n03481172: hammer
+696, n03876231: paintbrush
+pred = 596, n03498962: hatchet
+
+588) cnt mistakes = 32, file = n04525038/ILSVRC2012_val_00003391.JPEG
+target = 885, n04525038: velvet
+multi_labels:
+885, n04525038: velvet
+pred = 501, n03045698: cloak
+
+589) cnt mistakes = 32, file = n03527444/ILSVRC2012_val_00003618.JPEG
+target = 597, n03527444: holster
+multi_labels:
+465, n02916936: bulletproof vest
+597, n03527444: holster
+pred = 652, n03763968: military uniform
+
+590) cnt mistakes = 32, file = n04404412/ILSVRC2012_val_00048910.JPEG
+target = 851, n04404412: television, television system
+multi_labels:
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+851, n04404412: television, television system
+pred = 598, n03529860: home theater, home theatre
+
+591) cnt mistakes = 31, file = n03933933/ILSVRC2012_val_00043955.JPEG
+target = 718, n03933933: pier
+multi_labels:
+718, n03933933: pier
+888, n04532670: viaduct
+pred = 449, n02859443: boathouse
+
+592) cnt mistakes = 31, file = n04067472/ILSVRC2012_val_00018520.JPEG
+target = 758, n04067472: reel
+multi_labels:
+733, n03976657: pole
+758, n04067472: reel
+914, n04612504: yawl
+975, n09332890: lakeside, lakeshore
+780, n04147183: schooner
+pred = 536, n03216828: dock, dockage, docking facility
+
+593) cnt mistakes = 31, file = n04591157/ILSVRC2012_val_00044298.JPEG
+target = 906, n04591157: Windsor tie
+multi_labels:
+906, n04591157: Windsor tie
+968, n07930864: cup
+869, n04479046: trench coat
+pred = 630, n03680355: Loafer
+
+594) cnt mistakes = 31, file = n02999410/ILSVRC2012_val_00047035.JPEG
+target = 488, n02999410: chain
+multi_labels:
+488, n02999410: chain
+pred = 695, n03874599: padlock
+
+595) cnt mistakes = 31, file = n03777754/ILSVRC2012_val_00003373.JPEG
+target = 662, n03777754: modem
+multi_labels:
+527, n03180011: desktop computer
+662, n03777754: modem
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 613, n03602883: joystick
+
+596) cnt mistakes = 31, file = n04141076/ILSVRC2012_val_00032761.JPEG
+target = 776, n04141076: sax, saxophone
+multi_labels:
+776, n04141076: sax, saxophone
+pred = 819, n04296562: stage
+
+597) cnt mistakes = 31, file = n07836838/ILSVRC2012_val_00027881.JPEG
+target = 960, n07836838: chocolate sauce, chocolate syrup
+multi_labels:
+923, n07579787: plate
+960, n07836838: chocolate sauce, chocolate syrup
+pred = 868, n04476259: tray
+
+598) cnt mistakes = 31, file = n02966687/ILSVRC2012_val_00026561.JPEG
+target = 477, n02966687: carpenter's kit, tool kit
+multi_labels:
+477, n02966687: carpenter's kit, tool kit
+767, n04116512: rubber eraser, rubber, pencil eraser
+pred = 709, n03908618: pencil box, pencil case
+
+599) cnt mistakes = 31, file = n04476259/ILSVRC2012_val_00023818.JPEG
+target = 868, n04476259: tray
+multi_labels:
+868, n04476259: tray
+pred = 987, n12144580: corn
+
+600) cnt mistakes = 31, file = n03160309/ILSVRC2012_val_00026549.JPEG
+target = 525, n03160309: dam, dike, dyke
+multi_labels:
+525, n03160309: dam, dike, dyke
+825, n04326547: stone wall
+979, n09468604: valley, vale
+pred = 649, n03743016: megalith, megalithic structure
+
+601) cnt mistakes = 30, file = n03018349/ILSVRC2012_val_00021844.JPEG
+target = 495, n03018349: china cabinet, china closet
+multi_labels:
+495, n03018349: china cabinet, china closet
+532, n03201208: dining table, board
+pred = 762, n04081281: restaurant, eating house, eating place, eatery
+
+602) cnt mistakes = 30, file = n02783161/ILSVRC2012_val_00006972.JPEG
+target = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+multi_labels:
+418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+pred = 767, n04116512: rubber eraser, rubber, pencil eraser
+
+603) cnt mistakes = 30, file = n02106382/ILSVRC2012_val_00032290.JPEG
+target = 233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+multi_labels:
+233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+pred = 197, n02097130: giant schnauzer
+
+604) cnt mistakes = 30, file = n04069434/ILSVRC2012_val_00012650.JPEG
+target = 759, n04069434: reflex camera
+multi_labels:
+759, n04069434: reflex camera
+pred = 622, n03657121: lens cap, lens cover
+
+605) cnt mistakes = 30, file = n04557648/ILSVRC2012_val_00040070.JPEG
+target = 898, n04557648: water bottle
+multi_labels:
+898, n04557648: water bottle
+pred = 585, n03476991: hair spray
+
+606) cnt mistakes = 30, file = n07836838/ILSVRC2012_val_00043225.JPEG
+target = 960, n07836838: chocolate sauce, chocolate syrup
+multi_labels:
+960, n07836838: chocolate sauce, chocolate syrup
+415, n02776631: bakery, bakeshop, bakehouse
+pred = 932, n07695742: pretzel
+
+608) cnt mistakes = 30, file = n03763968/ILSVRC2012_val_00048381.JPEG
+target = 652, n03763968: military uniform
+multi_labels:
+652, n03763968: military uniform
+pred = 465, n02916936: bulletproof vest
+
+609) cnt mistakes = 30, file = n03124043/ILSVRC2012_val_00022123.JPEG
+target = 514, n03124043: cowboy boot
+multi_labels:
+514, n03124043: cowboy boot
+pred = 608, n03594734: jean, blue jean, denim
+
+610) cnt mistakes = 30, file = n03709823/ILSVRC2012_val_00012533.JPEG
+target = 636, n03709823: mailbag, postbag
+multi_labels:
+636, n03709823: mailbag, postbag
+pred = 630, n03680355: Loafer
+
+611) cnt mistakes = 29, file = n03763968/ILSVRC2012_val_00039116.JPEG
+target = 652, n03763968: military uniform
+multi_labels:
+652, n03763968: military uniform
+pred = 715, n03929855: pickelhaube
+
+612) cnt mistakes = 29, file = n02104029/ILSVRC2012_val_00036264.JPEG
+target = 222, n02104029: kuvasz
+multi_labels:
+222, n02104029: kuvasz
+257, n02111500: Great Pyrenees
+pred = 258, n02111889: Samoyed, Samoyede
+
+615) cnt mistakes = 29, file = n04254120/ILSVRC2012_val_00042575.JPEG
+target = 804, n04254120: soap dispenser
+multi_labels:
+804, n04254120: soap dispenser
+pred = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+
+616) cnt mistakes = 29, file = n02106550/ILSVRC2012_val_00045548.JPEG
+target = 234, n02106550: Rottweiler
+multi_labels:
+234, n02106550: Rottweiler
+pred = 165, n02089078: black-and-tan coonhound
+
+617) cnt mistakes = 29, file = n02783161/ILSVRC2012_val_00016131.JPEG
+target = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+multi_labels:
+418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+pred = 709, n03908618: pencil box, pencil case
+
+618) cnt mistakes = 29, file = n03355925/ILSVRC2012_val_00017432.JPEG
+target = 557, n03355925: flagpole, flagstaff
+multi_labels:
+557, n03355925: flagpole, flagstaff
+pred = 718, n03933933: pier
+
+619) cnt mistakes = 29, file = n07693725/ILSVRC2012_val_00007322.JPEG
+target = 931, n07693725: bagel, beigel
+multi_labels:
+923, n07579787: plate
+931, n07693725: bagel, beigel
+pred = 941, n07717410: acorn squash
+
+620) cnt mistakes = 29, file = n04330267/ILSVRC2012_val_00014185.JPEG
+target = 827, n04330267: stove
+multi_labels:
+827, n04330267: stove
+pred = 909, n04596742: wok
+
+621) cnt mistakes = 29, file = n04590129/ILSVRC2012_val_00011378.JPEG
+target = 905, n04590129: window shade
+multi_labels:
+905, n04590129: window shade
+pred = 794, n04209239: shower curtain
+
+624) cnt mistakes = 28, file = n03814639/ILSVRC2012_val_00013194.JPEG
+target = 678, n03814639: neck brace
+multi_labels:
+678, n03814639: neck brace
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 801, n04251144: snorkel
+
+625) cnt mistakes = 28, file = n02655020/ILSVRC2012_val_00010683.JPEG
+target = 397, n02655020: puffer, pufferfish, blowfish, globefish
+multi_labels:
+397, n02655020: puffer, pufferfish, blowfish, globefish
+973, n09256479: coral reef
+pred = 5, n01496331: electric ray, crampfish, numbfish, torpedo
+
+627) cnt mistakes = 28, file = n07720875/ILSVRC2012_val_00007028.JPEG
+target = 945, n07720875: bell pepper
+multi_labels:
+945, n07720875: bell pepper
+pred = 582, n03461385: grocery store, grocery, food market, market
+
+628) cnt mistakes = 28, file = n04357314/ILSVRC2012_val_00011920.JPEG
+target = 838, n04357314: sunscreen, sunblock, sun blocker
+multi_labels:
+529, n03188531: diaper, nappy, napkin
+838, n04357314: sunscreen, sunblock, sun blocker
+pred = 680, n03825788: nipple
+
+629) cnt mistakes = 28, file = n02692877/ILSVRC2012_val_00045146.JPEG
+target = 405, n02692877: airship, dirigible
+multi_labels:
+405, n02692877: airship, dirigible
+409, n02708093: analog clock
+pred = 442, n02825657: bell cote, bell cot
+
+630) cnt mistakes = 28, file = n09399592/ILSVRC2012_val_00042143.JPEG
+target = 976, n09399592: promontory, headland, head, foreland
+multi_labels:
+972, n09246464: cliff, drop, drop-off
+975, n09332890: lakeside, lakeshore
+976, n09399592: promontory, headland, head, foreland
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+632) cnt mistakes = 28, file = n03791053/ILSVRC2012_val_00036916.JPEG
+target = 670, n03791053: motor scooter, scooter
+multi_labels:
+670, n03791053: motor scooter, scooter
+pred = 518, n03127747: crash helmet
+
+633) cnt mistakes = 28, file = n04371430/ILSVRC2012_val_00025439.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+pred = 433, n02807133: bathing cap, swimming cap
+
+634) cnt mistakes = 28, file = n03908618/ILSVRC2012_val_00012016.JPEG
+target = 709, n03908618: pencil box, pencil case
+multi_labels:
+709, n03908618: pencil box, pencil case
+pred = 767, n04116512: rubber eraser, rubber, pencil eraser
+
+636) cnt mistakes = 28, file = n03814639/ILSVRC2012_val_00005600.JPEG
+target = 678, n03814639: neck brace
+multi_labels:
+678, n03814639: neck brace
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 487, n02992529: cellular telephone, cellular phone, cellphone, cell, mobile phone
+
+637) cnt mistakes = 27, file = n04081281/ILSVRC2012_val_00027720.JPEG
+target = 762, n04081281: restaurant, eating house, eating place, eatery
+multi_labels:
+470, n02948072: candle, taper, wax light
+532, n03201208: dining table, board
+572, n03443371: goblet
+762, n04081281: restaurant, eating house, eating place, eatery
+923, n07579787: plate
+pred = 907, n04591713: wine bottle
+
+638) cnt mistakes = 27, file = n04417672/ILSVRC2012_val_00025905.JPEG
+target = 853, n04417672: thatch, thatched roof
+multi_labels:
+853, n04417672: thatch, thatched roof
+706, n03899768: patio, terrace
+858, n04435653: tile roof
+pred = 442, n02825657: bell cote, bell cot
+
+639) cnt mistakes = 27, file = n02669723/ILSVRC2012_val_00043033.JPEG
+target = 400, n02669723: academic gown, academic robe, judge's robe
+multi_labels:
+400, n02669723: academic gown, academic robe, judge's robe
+667, n03787032: mortarboard
+824, n04325704: stole
+pred = 834, n04350905: suit, suit of clothes
+
+641) cnt mistakes = 27, file = n03729826/ILSVRC2012_val_00037724.JPEG
+target = 644, n03729826: matchstick
+multi_labels:
+644, n03729826: matchstick
+pred = 470, n02948072: candle, taper, wax light
+
+642) cnt mistakes = 27, file = n15075141/ILSVRC2012_val_00042643.JPEG
+target = 999, n15075141: toilet tissue, toilet paper, bathroom tissue
+multi_labels:
+999, n15075141: toilet tissue, toilet paper, bathroom tissue
+pred = 804, n04254120: soap dispenser
+
+645) cnt mistakes = 27, file = n03400231/ILSVRC2012_val_00015937.JPEG
+target = 567, n03400231: frying pan, frypan, skillet
+multi_labels:
+567, n03400231: frying pan, frypan, skillet
+827, n04330267: stove
+pred = 813, n04270147: spatula
+
+647) cnt mistakes = 27, file = n03908618/ILSVRC2012_val_00023536.JPEG
+target = 709, n03908618: pencil box, pencil case
+multi_labels:
+709, n03908618: pencil box, pencil case
+pred = 769, n04118776: rule, ruler
+
+648) cnt mistakes = 27, file = n04591713/ILSVRC2012_val_00007320.JPEG
+target = 907, n04591713: wine bottle
+multi_labels:
+907, n04591713: wine bottle
+950, n07747607: orange
+pred = 582, n03461385: grocery store, grocery, food market, market
+
+649) cnt mistakes = 27, file = n03250847/ILSVRC2012_val_00038053.JPEG
+target = 542, n03250847: drumstick
+multi_labels:
+542, n03250847: drumstick
+910, n04597913: wooden spoon
+pred = 567, n03400231: frying pan, frypan, skillet
+
+650) cnt mistakes = 27, file = n03761084/ILSVRC2012_val_00003754.JPEG
+target = 651, n03761084: microwave, microwave oven
+multi_labels:
+608, n03594734: jean, blue jean, denim
+651, n03761084: microwave, microwave oven
+827, n04330267: stove
+897, n04554684: washer, automatic washer, washing machine
+pred = 521, n03133878: Crock Pot
+
+651) cnt mistakes = 27, file = n03742115/ILSVRC2012_val_00016447.JPEG
+target = 648, n03742115: medicine chest, medicine cabinet
+multi_labels:
+648, n03742115: medicine chest, medicine cabinet
+861, n04447861: toilet seat
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 897, n04554684: washer, automatic washer, washing machine
+
+652) cnt mistakes = 27, file = n03045698/ILSVRC2012_val_00003717.JPEG
+target = 501, n03045698: cloak
+multi_labels:
+501, n03045698: cloak
+578, n03450230: gown
+pred = 982, n10148035: groom, bridegroom
+
+653) cnt mistakes = 26, file = n04548362/ILSVRC2012_val_00043035.JPEG
+target = 893, n04548362: wallet, billfold, notecase, pocketbook
+multi_labels:
+748, n04026417: purse
+893, n04548362: wallet, billfold, notecase, pocketbook
+pred = 692, n03871628: packet
+
+655) cnt mistakes = 26, file = n03961711/ILSVRC2012_val_00011608.JPEG
+target = 729, n03961711: plate rack
+multi_labels:
+729, n03961711: plate rack
+pred = 534, n03207941: dishwasher, dish washer, dishwashing machine
+
+656) cnt mistakes = 26, file = n03950228/ILSVRC2012_val_00032249.JPEG
+target = 725, n03950228: pitcher, ewer
+multi_labels:
+725, n03950228: pitcher, ewer
+868, n04476259: tray
+899, n04560804: water jug
+618, n03633091: ladle
+pred = 909, n04596742: wok
+
+657) cnt mistakes = 26, file = n04599235/ILSVRC2012_val_00026827.JPEG
+target = 911, n04599235: wool, woolen, woollen
+multi_labels:
+911, n04599235: wool, woolen, woollen
+pred = 806, n04254777: sock
+
+658) cnt mistakes = 26, file = n02910353/ILSVRC2012_val_00012852.JPEG
+target = 464, n02910353: buckle
+multi_labels:
+464, n02910353: buckle
+pred = 597, n03527444: holster
+
+659) cnt mistakes = 26, file = n03498962/ILSVRC2012_val_00030666.JPEG
+target = 596, n03498962: hatchet
+multi_labels:
+596, n03498962: hatchet
+pred = 587, n03481172: hammer
+
+660) cnt mistakes = 26, file = n03759954/ILSVRC2012_val_00002240.JPEG
+target = 650, n03759954: microphone, mike
+multi_labels:
+541, n03249569: drum, membranophone, tympan
+650, n03759954: microphone, mike
+819, n04296562: stage
+pred = 875, n04487394: trombone
+
+661) cnt mistakes = 26, file = n03400231/ILSVRC2012_val_00025760.JPEG
+target = 567, n03400231: frying pan, frypan, skillet
+multi_labels:
+567, n03400231: frying pan, frypan, skillet
+828, n04332243: strainer
+910, n04597913: wooden spoon
+pred = 937, n07714990: broccoli
+
+662) cnt mistakes = 26, file = n04355933/ILSVRC2012_val_00015836.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 774, n04133789: sandal
+
+663) cnt mistakes = 26, file = n02894605/ILSVRC2012_val_00012548.JPEG
+target = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+multi_labels:
+460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+pred = 977, n09421951: sandbar, sand bar
+
+664) cnt mistakes = 26, file = n01943899/ILSVRC2012_val_00046625.JPEG
+target = 112, n01943899: conch
+multi_labels:
+112, n01943899: conch
+pred = 125, n01986214: hermit crab
+
+665) cnt mistakes = 26, file = n03594734/ILSVRC2012_val_00018771.JPEG
+target = 608, n03594734: jean, blue jean, denim
+multi_labels:
+608, n03594734: jean, blue jean, denim
+pred = 474, n02963159: cardigan
+
+667) cnt mistakes = 25, file = n07579787/ILSVRC2012_val_00016597.JPEG
+target = 923, n07579787: plate
+multi_labels:
+923, n07579787: plate
+pred = 960, n07836838: chocolate sauce, chocolate syrup
+
+668) cnt mistakes = 25, file = n04081281/ILSVRC2012_val_00039132.JPEG
+target = 762, n04081281: restaurant, eating house, eating place, eatery
+multi_labels:
+762, n04081281: restaurant, eating house, eating place, eatery
+pred = 532, n03201208: dining table, board
+
+670) cnt mistakes = 25, file = n03866082/ILSVRC2012_val_00011988.JPEG
+target = 689, n03866082: overskirt
+multi_labels:
+689, n03866082: overskirt
+pred = 982, n10148035: groom, bridegroom
+
+671) cnt mistakes = 25, file = n04330267/ILSVRC2012_val_00039646.JPEG
+target = 827, n04330267: stove
+multi_labels:
+827, n04330267: stove
+pred = 813, n04270147: spatula
+
+672) cnt mistakes = 25, file = n04532106/ILSVRC2012_val_00020537.JPEG
+target = 887, n04532106: vestment
+multi_labels:
+406, n02699494: altar
+887, n04532106: vestment
+pred = 857, n04429376: throne
+
+673) cnt mistakes = 25, file = n07873807/ILSVRC2012_val_00046303.JPEG
+target = 963, n07873807: pizza, pizza pie
+multi_labels:
+923, n07579787: plate
+963, n07873807: pizza, pizza pie
+pred = 937, n07714990: broccoli
+
+674) cnt mistakes = 25, file = n03179701/ILSVRC2012_val_00011003.JPEG
+target = 526, n03179701: desk
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 548, n03290653: entertainment center
+
+675) cnt mistakes = 25, file = n03803284/ILSVRC2012_val_00001515.JPEG
+target = 676, n03803284: muzzle
+multi_labels:
+643, n03724870: mask
+676, n03803284: muzzle
+695, n03874599: padlock
+pred = 488, n02999410: chain
+
+676) cnt mistakes = 25, file = n09332890/ILSVRC2012_val_00049549.JPEG
+target = 975, n09332890: lakeside, lakeshore
+multi_labels:
+460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+975, n09332890: lakeside, lakeshore
+414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+pred = 525, n03160309: dam, dike, dyke
+
+677) cnt mistakes = 25, file = n02690373/ILSVRC2012_val_00033161.JPEG
+target = 404, n02690373: airliner
+multi_labels:
+404, n02690373: airliner
+pred = 908, n04592741: wing
+
+678) cnt mistakes = 25, file = n03938244/ILSVRC2012_val_00001087.JPEG
+target = 721, n03938244: pillow
+multi_labels:
+721, n03938244: pillow
+pred = 750, n04033995: quilt, comforter, comfort, puff
+
+679) cnt mistakes = 25, file = n03529860/ILSVRC2012_val_00011991.JPEG
+target = 598, n03529860: home theater, home theatre
+multi_labels:
+548, n03290653: entertainment center
+598, n03529860: home theater, home theatre
+pred = 851, n04404412: television, television system
+
+682) cnt mistakes = 25, file = n07684084/ILSVRC2012_val_00046190.JPEG
+target = 930, n07684084: French loaf
+multi_labels:
+930, n07684084: French loaf
+pred = 934, n07697537: hotdog, hot dog, red hot
+
+683) cnt mistakes = 25, file = n09193705/ILSVRC2012_val_00023173.JPEG
+target = 970, n09193705: alp
+multi_labels:
+970, n09193705: alp
+975, n09332890: lakeside, lakeshore
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 536, n03216828: dock, dockage, docking facility
+
+684) cnt mistakes = 25, file = n04350905/ILSVRC2012_val_00001133.JPEG
+target = 834, n04350905: suit, suit of clothes
+multi_labels:
+834, n04350905: suit, suit of clothes
+pred = 630, n03680355: Loafer
+
+687) cnt mistakes = 25, file = n03126707/ILSVRC2012_val_00012665.JPEG
+target = 517, n03126707: crane
+multi_labels:
+517, n03126707: crane
+536, n03216828: dock, dockage, docking facility
+pred = 718, n03933933: pier
+
+692) cnt mistakes = 25, file = n02089078/ILSVRC2012_val_00002398.JPEG
+target = 165, n02089078: black-and-tan coonhound
+multi_labels:
+165, n02089078: black-and-tan coonhound
+pred = 234, n02106550: Rottweiler
+
+693) cnt mistakes = 25, file = n03400231/ILSVRC2012_val_00022472.JPEG
+target = 567, n03400231: frying pan, frypan, skillet
+multi_labels:
+567, n03400231: frying pan, frypan, skillet
+pred = 813, n04270147: spatula
+
+694) cnt mistakes = 25, file = n03424325/ILSVRC2012_val_00018874.JPEG
+target = 570, n03424325: gasmask, respirator, gas helmet
+multi_labels:
+570, n03424325: gasmask, respirator, gas helmet
+pred = 643, n03724870: mask
+
+696) cnt mistakes = 25, file = n03691459/ILSVRC2012_val_00004050.JPEG
+target = 632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+multi_labels:
+632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+pred = 598, n03529860: home theater, home theatre
+
+697) cnt mistakes = 24, file = n02321529/ILSVRC2012_val_00019121.JPEG
+target = 329, n02321529: sea cucumber, holothurian
+multi_labels:
+109, n01917289: brain coral
+329, n02321529: sea cucumber, holothurian
+973, n09256479: coral reef
+pred = 390, n02526121: eel
+
+698) cnt mistakes = 24, file = n02834397/ILSVRC2012_val_00041834.JPEG
+target = 443, n02834397: bib
+multi_labels:
+443, n02834397: bib
+pred = 411, n02730930: apron
+
+699) cnt mistakes = 24, file = n04590129/ILSVRC2012_val_00011220.JPEG
+target = 905, n04590129: window shade
+multi_labels:
+281, n02123045: tabby, tabby cat
+905, n04590129: window shade
+pred = 794, n04209239: shower curtain
+
+700) cnt mistakes = 24, file = n03825788/ILSVRC2012_val_00024331.JPEG
+target = 680, n03825788: nipple
+multi_labels:
+680, n03825788: nipple
+pred = 898, n04557648: water bottle
+
+701) cnt mistakes = 24, file = n03793489/ILSVRC2012_val_00043712.JPEG
+target = 673, n03793489: mouse, computer mouse
+multi_labels:
+526, n03179701: desk
+673, n03793489: mouse, computer mouse
+pred = 527, n03180011: desktop computer
+
+702) cnt mistakes = 24, file = n07584110/ILSVRC2012_val_00033921.JPEG
+target = 925, n07584110: consomme
+multi_labels:
+809, n04263257: soup bowl
+925, n07584110: consomme
+pred = 618, n03633091: ladle
+
+703) cnt mistakes = 24, file = n02841315/ILSVRC2012_val_00024139.JPEG
+target = 447, n02841315: binoculars, field glasses, opera glasses
+multi_labels:
+447, n02841315: binoculars, field glasses, opera glasses
+pred = 872, n04485082: tripod
+
+704) cnt mistakes = 24, file = n03179701/ILSVRC2012_val_00026204.JPEG
+target = 526, n03179701: desk
+multi_labels:
+526, n03179701: desk
+620, n03642806: laptop, laptop computer
+664, n03782006: monitor
+905, n04590129: window shade
+681, n03832673: notebook, notebook computer
+782, n04152593: screen, CRT screen
+pred = 799, n04239074: sliding door
+
+706) cnt mistakes = 24, file = n03630383/ILSVRC2012_val_00002627.JPEG
+target = 617, n03630383: lab coat, laboratory coat
+multi_labels:
+617, n03630383: lab coat, laboratory coat
+pred = 438, n02815834: beaker
+
+708) cnt mistakes = 24, file = n03884397/ILSVRC2012_val_00019227.JPEG
+target = 699, n03884397: panpipe, pandean pipe, syrinx
+multi_labels:
+699, n03884397: panpipe, pandean pipe, syrinx
+775, n04136333: sarong
+pred = 558, n03372029: flute, transverse flute
+
+709) cnt mistakes = 24, file = n02948072/ILSVRC2012_val_00038456.JPEG
+target = 470, n02948072: candle, taper, wax light
+multi_labels:
+470, n02948072: candle, taper, wax light
+692, n03871628: packet
+507, n03075370: combination lock
+616, n03627232: knot
+526, n03179701: desk
+pred = 865, n04462240: toyshop
+
+710) cnt mistakes = 24, file = n04404412/ILSVRC2012_val_00027312.JPEG
+target = 851, n04404412: television, television system
+multi_labels:
+782, n04152593: screen, CRT screen
+851, n04404412: television, television system
+664, n03782006: monitor
+pred = 598, n03529860: home theater, home theatre
+
+711) cnt mistakes = 24, file = n03325584/ILSVRC2012_val_00042499.JPEG
+target = 552, n03325584: feather boa, boa
+multi_labels:
+552, n03325584: feather boa, boa
+pred = 903, n04584207: wig
+
+713) cnt mistakes = 23, file = n03483316/ILSVRC2012_val_00011813.JPEG
+target = 589, n03483316: hand blower, blow dryer, blow drier, hair dryer, hair drier
+multi_labels:
+453, n02870880: bookcase
+589, n03483316: hand blower, blow dryer, blow drier, hair dryer, hair drier
+pred = 921, n07248320: book jacket, dust cover, dust jacket, dust wrapper
+
+718) cnt mistakes = 23, file = n04116512/ILSVRC2012_val_00027205.JPEG
+target = 767, n04116512: rubber eraser, rubber, pencil eraser
+multi_labels:
+767, n04116512: rubber eraser, rubber, pencil eraser
+pred = 709, n03908618: pencil box, pencil case
+
+719) cnt mistakes = 23, file = n06596364/ILSVRC2012_val_00014214.JPEG
+target = 917, n06596364: comic book
+multi_labels:
+917, n06596364: comic book
+pred = 454, n02871525: bookshop, bookstore, bookstall
+
+722) cnt mistakes = 23, file = n04554684/ILSVRC2012_val_00005491.JPEG
+target = 897, n04554684: washer, automatic washer, washing machine
+multi_labels:
+897, n04554684: washer, automatic washer, washing machine
+pred = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+
+723) cnt mistakes = 23, file = n04389033/ILSVRC2012_val_00041546.JPEG
+target = 847, n04389033: tank, army tank, armored combat vehicle, armoured combat vehicle
+multi_labels:
+847, n04389033: tank, army tank, armored combat vehicle, armoured combat vehicle
+pred = 471, n02950826: cannon
+
+724) cnt mistakes = 23, file = n03902125/ILSVRC2012_val_00021715.JPEG
+target = 707, n03902125: pay-phone, pay-station
+multi_labels:
+707, n03902125: pay-phone, pay-station
+914, n04612504: yawl
+pred = 536, n03216828: dock, dockage, docking facility
+
+730) cnt mistakes = 22, file = n04149813/ILSVRC2012_val_00013942.JPEG
+target = 781, n04149813: scoreboard
+multi_labels:
+781, n04149813: scoreboard
+pred = 981, n09835506: ballplayer, baseball player
+
+731) cnt mistakes = 22, file = n03874293/ILSVRC2012_val_00004957.JPEG
+target = 694, n03874293: paddlewheel, paddle wheel
+multi_labels:
+694, n03874293: paddlewheel, paddle wheel
+975, n09332890: lakeside, lakeshore
+pred = 525, n03160309: dam, dike, dyke
+
+732) cnt mistakes = 22, file = n07583066/ILSVRC2012_val_00049361.JPEG
+target = 924, n07583066: guacamole
+multi_labels:
+923, n07579787: plate
+924, n07583066: guacamole
+pred = 960, n07836838: chocolate sauce, chocolate syrup
+
+733) cnt mistakes = 22, file = n03983396/ILSVRC2012_val_00044205.JPEG
+target = 737, n03983396: pop bottle, soda bottle
+multi_labels:
+737, n03983396: pop bottle, soda bottle
+pred = 455, n02877765: bottlecap
+
+734) cnt mistakes = 22, file = n03710637/ILSVRC2012_val_00037605.JPEG
+target = 638, n03710637: maillot
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 433, n02807133: bathing cap, swimming cap
+
+735) cnt mistakes = 22, file = n03710721/ILSVRC2012_val_00020057.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 433, n02807133: bathing cap, swimming cap
+
+738) cnt mistakes = 22, file = n09399592/ILSVRC2012_val_00003866.JPEG
+target = 976, n09399592: promontory, headland, head, foreland
+multi_labels:
+976, n09399592: promontory, headland, head, foreland
+978, n09428293: seashore, coast, seacoast, sea-coast
+pred = 913, n04606251: wreck
+
+740) cnt mistakes = 22, file = n03658185/ILSVRC2012_val_00036764.JPEG
+target = 623, n03658185: letter opener, paper knife, paperknife
+multi_labels:
+623, n03658185: letter opener, paper knife, paperknife
+pred = 512, n03109150: corkscrew, bottle screw
+
+741) cnt mistakes = 22, file = n04548362/ILSVRC2012_val_00012462.JPEG
+target = 893, n04548362: wallet, billfold, notecase, pocketbook
+multi_labels:
+893, n04548362: wallet, billfold, notecase, pocketbook
+pred = 446, n02840245: binder, ring-binder
+
+742) cnt mistakes = 22, file = n03126707/ILSVRC2012_val_00042542.JPEG
+target = 517, n03126707: crane
+multi_labels:
+517, n03126707: crane
+733, n03976657: pole
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+744) cnt mistakes = 22, file = n04069434/ILSVRC2012_val_00044493.JPEG
+target = 759, n04069434: reflex camera
+multi_labels:
+759, n04069434: reflex camera
+pred = 622, n03657121: lens cap, lens cover
+
+746) cnt mistakes = 22, file = n03476991/ILSVRC2012_val_00022994.JPEG
+target = 585, n03476991: hair spray
+multi_labels:
+585, n03476991: hair spray
+pred = 898, n04557648: water bottle
+
+747) cnt mistakes = 22, file = n03887697/ILSVRC2012_val_00011365.JPEG
+target = 700, n03887697: paper towel
+multi_labels:
+281, n02123045: tabby, tabby cat
+700, n03887697: paper towel
+pred = 287, n02127052: lynx, catamount
+
+749) cnt mistakes = 21, file = n03028079/ILSVRC2012_val_00035753.JPEG
+target = 497, n03028079: church, church building
+multi_labels:
+406, n02699494: altar
+497, n03028079: church, church building
+pred = 857, n04429376: throne
+
+750) cnt mistakes = 21, file = n03871628/ILSVRC2012_val_00048740.JPEG
+target = 692, n03871628: packet
+multi_labels:
+692, n03871628: packet
+pred = 478, n02971356: carton
+
+751) cnt mistakes = 21, file = n04447861/ILSVRC2012_val_00003415.JPEG
+target = 861, n04447861: toilet seat
+multi_labels:
+861, n04447861: toilet seat
+728, n03958227: plastic bag
+pred = 999, n15075141: toilet tissue, toilet paper, bathroom tissue
+
+752) cnt mistakes = 21, file = n02971356/ILSVRC2012_val_00006303.JPEG
+target = 478, n02971356: carton
+multi_labels:
+478, n02971356: carton
+pred = 692, n03871628: packet
+
+754) cnt mistakes = 21, file = n03388549/ILSVRC2012_val_00004645.JPEG
+target = 564, n03388549: four-poster
+multi_labels:
+564, n03388549: four-poster
+pred = 669, n03788365: mosquito net
+
+756) cnt mistakes = 21, file = n04548362/ILSVRC2012_val_00048305.JPEG
+target = 893, n04548362: wallet, billfold, notecase, pocketbook
+multi_labels:
+893, n04548362: wallet, billfold, notecase, pocketbook
+pred = 446, n02840245: binder, ring-binder
+
+758) cnt mistakes = 21, file = n03179701/ILSVRC2012_val_00032302.JPEG
+target = 526, n03179701: desk
+multi_labels:
+508, n03085013: computer keyboard, keypad
+526, n03179701: desk
+620, n03642806: laptop, laptop computer
+673, n03793489: mouse, computer mouse
+681, n03832673: notebook, notebook computer
+898, n04557648: water bottle
+pred = 613, n03602883: joystick
+
+761) cnt mistakes = 21, file = n02097130/ILSVRC2012_val_00032524.JPEG
+target = 197, n02097130: giant schnauzer
+multi_labels:
+197, n02097130: giant schnauzer
+pred = 233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+
+763) cnt mistakes = 21, file = n02974003/ILSVRC2012_val_00022999.JPEG
+target = 479, n02974003: car wheel
+multi_labels:
+479, n02974003: car wheel
+pred = 581, n03459775: grille, radiator grille
+
+764) cnt mistakes = 21, file = n04525038/ILSVRC2012_val_00023329.JPEG
+target = 885, n04525038: velvet
+multi_labels:
+885, n04525038: velvet
+786, n04179913: sewing machine
+pred = 636, n03709823: mailbag, postbag
+
+765) cnt mistakes = 21, file = n02113186/ILSVRC2012_val_00003931.JPEG
+target = 264, n02113186: Cardigan, Cardigan Welsh corgi
+multi_labels:
+264, n02113186: Cardigan, Cardigan Welsh corgi
+263, n02113023: Pembroke, Pembroke Welsh corgi
+pred = 253, n02110806: basenji
+
+767) cnt mistakes = 20, file = n09332890/ILSVRC2012_val_00033656.JPEG
+target = 975, n09332890: lakeside, lakeshore
+multi_labels:
+975, n09332890: lakeside, lakeshore
+pred = 703, n03891251: park bench
+
+769) cnt mistakes = 20, file = n07836838/ILSVRC2012_val_00043091.JPEG
+target = 960, n07836838: chocolate sauce, chocolate syrup
+multi_labels:
+506, n03065424: coil, spiral, volute, whorl, helix
+960, n07836838: chocolate sauce, chocolate syrup
+pred = 415, n02776631: bakery, bakeshop, bakehouse
+
+770) cnt mistakes = 20, file = n07697313/ILSVRC2012_val_00002226.JPEG
+target = 933, n07697313: cheeseburger
+multi_labels:
+923, n07579787: plate
+933, n07697313: cheeseburger
+pred = 931, n07693725: bagel, beigel
+
+771) cnt mistakes = 20, file = n03983396/ILSVRC2012_val_00011692.JPEG
+target = 737, n03983396: pop bottle, soda bottle
+multi_labels:
+737, n03983396: pop bottle, soda bottle
+pred = 886, n04525305: vending machine
+
+773) cnt mistakes = 20, file = n04286575/ILSVRC2012_val_00018294.JPEG
+target = 818, n04286575: spotlight, spot
+multi_labels:
+818, n04286575: spotlight, spot
+pred = 650, n03759954: microphone, mike
+
+774) cnt mistakes = 20, file = n02606052/ILSVRC2012_val_00038764.JPEG
+target = 392, n02606052: rock beauty, Holocanthus tricolor
+multi_labels:
+392, n02606052: rock beauty, Holocanthus tricolor
+393, n02607072: anemone fish
+pred = 973, n09256479: coral reef
+
+775) cnt mistakes = 20, file = n06794110/ILSVRC2012_val_00001518.JPEG
+target = 919, n06794110: street sign
+multi_labels:
+919, n06794110: street sign
+pred = 920, n06874185: traffic light, traffic signal, stoplight
+
+777) cnt mistakes = 20, file = n07836838/ILSVRC2012_val_00047503.JPEG
+target = 960, n07836838: chocolate sauce, chocolate syrup
+multi_labels:
+960, n07836838: chocolate sauce, chocolate syrup
+pred = 415, n02776631: bakery, bakeshop, bakehouse
+
+778) cnt mistakes = 20, file = n03782006/ILSVRC2012_val_00049772.JPEG
+target = 664, n03782006: monitor
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+742, n04004767: printer
+782, n04152593: screen, CRT screen
+pred = 598, n03529860: home theater, home theatre
+
+779) cnt mistakes = 20, file = n03016953/ILSVRC2012_val_00011727.JPEG
+target = 493, n03016953: chiffonier, commode
+multi_labels:
+493, n03016953: chiffonier, commode
+pred = 492, n03014705: chest
+
+780) cnt mistakes = 20, file = n07930864/ILSVRC2012_val_00028858.JPEG
+target = 968, n07930864: cup
+multi_labels:
+504, n03063599: coffee mug
+762, n04081281: restaurant, eating house, eating place, eatery
+922, n07565083: menu
+968, n07930864: cup
+pred = 868, n04476259: tray
+
+781) cnt mistakes = 20, file = n02089078/ILSVRC2012_val_00029973.JPEG
+target = 165, n02089078: black-and-tan coonhound
+multi_labels:
+165, n02089078: black-and-tan coonhound
+pred = 234, n02106550: Rottweiler
+
+783) cnt mistakes = 20, file = n04147183/ILSVRC2012_val_00038471.JPEG
+target = 780, n04147183: schooner
+multi_labels:
+780, n04147183: schooner
+975, n09332890: lakeside, lakeshore
+pred = 718, n03933933: pier
+
+784) cnt mistakes = 20, file = n04606251/ILSVRC2012_val_00013793.JPEG
+target = 913, n04606251: wreck
+multi_labels:
+913, n04606251: wreck
+975, n09332890: lakeside, lakeshore
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+785) cnt mistakes = 20, file = n04239074/ILSVRC2012_val_00017394.JPEG
+target = 799, n04239074: sliding door
+multi_labels:
+799, n04239074: sliding door
+pred = 706, n03899768: patio, terrace
+
+786) cnt mistakes = 20, file = n04371430/ILSVRC2012_val_00026046.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+pred = 433, n02807133: bathing cap, swimming cap
+
+787) cnt mistakes = 20, file = n04389033/ILSVRC2012_val_00030941.JPEG
+target = 847, n04389033: tank, army tank, armored combat vehicle, armoured combat vehicle
+multi_labels:
+847, n04389033: tank, army tank, armored combat vehicle, armoured combat vehicle
+pred = 471, n02950826: cannon
+
+789) cnt mistakes = 20, file = n04270147/ILSVRC2012_val_00037074.JPEG
+target = 813, n04270147: spatula
+multi_labels:
+813, n04270147: spatula
+pred = 659, n03775546: mixing bowl
+
+790) cnt mistakes = 20, file = n04553703/ILSVRC2012_val_00007994.JPEG
+target = 896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+multi_labels:
+896, n04553703: washbasin, handbasin, washbowl, lavabo, wash-hand basin
+pred = 861, n04447861: toilet seat
+
+791) cnt mistakes = 20, file = n03394916/ILSVRC2012_val_00041242.JPEG
+target = 566, n03394916: French horn, horn
+multi_labels:
+566, n03394916: French horn, horn
+875, n04487394: trombone
+pred = 541, n03249569: drum, membranophone, tympan
+
+795) cnt mistakes = 20, file = n02364673/ILSVRC2012_val_00006685.JPEG
+target = 338, n02364673: guinea pig, Cavia cobaya
+multi_labels:
+338, n02364673: guinea pig, Cavia cobaya
+pred = 332, n02328150: Angora, Angora rabbit
+
+796) cnt mistakes = 19, file = n04355933/ILSVRC2012_val_00000413.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+608, n03594734: jean, blue jean, denim
+421, n02788148: bannister, banister, balustrade, balusters, handrail
+733, n03976657: pole
+464, n02910353: buckle
+pred = 801, n04251144: snorkel
+
+797) cnt mistakes = 19, file = n09428293/ILSVRC2012_val_00032534.JPEG
+target = 978, n09428293: seashore, coast, seacoast, sea-coast
+multi_labels:
+978, n09428293: seashore, coast, seacoast, sea-coast
+977, n09421951: sandbar, sand bar
+pred = 814, n04273569: speedboat
+
+798) cnt mistakes = 19, file = n04026417/ILSVRC2012_val_00042987.JPEG
+target = 748, n04026417: purse
+multi_labels:
+748, n04026417: purse
+893, n04548362: wallet, billfold, notecase, pocketbook
+pred = 446, n02840245: binder, ring-binder
+
+799) cnt mistakes = 19, file = n03868863/ILSVRC2012_val_00036136.JPEG
+target = 691, n03868863: oxygen mask
+multi_labels:
+570, n03424325: gasmask, respirator, gas helmet
+691, n03868863: oxygen mask
+pred = 643, n03724870: mask
+
+800) cnt mistakes = 19, file = n02906734/ILSVRC2012_val_00047904.JPEG
+target = 462, n02906734: broom
+multi_labels:
+462, n02906734: broom
+601, n03534580: hoopskirt, crinoline
+655, n03770439: miniskirt, mini
+689, n03866082: overskirt
+pred = 819, n04296562: stage
+
+802) cnt mistakes = 19, file = n03100240/ILSVRC2012_val_00022130.JPEG
+target = 511, n03100240: convertible
+multi_labels:
+511, n03100240: convertible
+pred = 581, n03459775: grille, radiator grille
+
+804) cnt mistakes = 19, file = n04590129/ILSVRC2012_val_00030793.JPEG
+target = 905, n04590129: window shade
+multi_labels:
+905, n04590129: window shade
+pred = 799, n04239074: sliding door
+
+806) cnt mistakes = 19, file = n04251144/ILSVRC2012_val_00036895.JPEG
+target = 801, n04251144: snorkel
+multi_labels:
+801, n04251144: snorkel
+pred = 983, n10565667: scuba diver
+
+807) cnt mistakes = 19, file = n02791270/ILSVRC2012_val_00049816.JPEG
+target = 424, n02791270: barbershop
+multi_labels:
+905, n04590129: window shade
+423, n02791124: barber chair
+424, n02791270: barbershop
+pred = 799, n04239074: sliding door
+
+809) cnt mistakes = 19, file = n03623198/ILSVRC2012_val_00020647.JPEG
+target = 615, n03623198: knee pad
+multi_labels:
+615, n03623198: knee pad
+pred = 465, n02916936: bulletproof vest
+
+810) cnt mistakes = 19, file = n04392985/ILSVRC2012_val_00009201.JPEG
+target = 848, n04392985: tape player
+multi_labels:
+482, n02979186: cassette player
+848, n04392985: tape player
+754, n04041544: radio, wireless
+pred = 481, n02978881: cassette
+
+811) cnt mistakes = 19, file = n03970156/ILSVRC2012_val_00032246.JPEG
+target = 731, n03970156: plunger, plumber's helper
+multi_labels:
+731, n03970156: plunger, plumber's helper
+861, n04447861: toilet seat
+999, n15075141: toilet tissue, toilet paper, bathroom tissue
+pred = 648, n03742115: medicine chest, medicine cabinet
+
+812) cnt mistakes = 19, file = n03895866/ILSVRC2012_val_00038339.JPEG
+target = 705, n03895866: passenger car, coach, carriage
+multi_labels:
+979, n09468604: valley, vale
+733, n03976657: pole
+705, n03895866: passenger car, coach, carriage
+888, n04532670: viaduct
+970, n09193705: alp
+pred = 449, n02859443: boathouse
+
+813) cnt mistakes = 19, file = n03866082/ILSVRC2012_val_00033995.JPEG
+target = 689, n03866082: overskirt
+multi_labels:
+689, n03866082: overskirt
+pred = 887, n04532106: vestment
+
+815) cnt mistakes = 19, file = n03160309/ILSVRC2012_val_00025103.JPEG
+target = 525, n03160309: dam, dike, dyke
+multi_labels:
+525, n03160309: dam, dike, dyke
+975, n09332890: lakeside, lakeshore
+pred = 449, n02859443: boathouse
+
+817) cnt mistakes = 18, file = n03657121/ILSVRC2012_val_00029193.JPEG
+target = 622, n03657121: lens cap, lens cover
+multi_labels:
+622, n03657121: lens cap, lens cover
+759, n04069434: reflex camera
+pred = 872, n04485082: tripod
+
+819) cnt mistakes = 18, file = n04229816/ILSVRC2012_val_00009290.JPEG
+target = 796, n04229816: ski mask
+multi_labels:
+703, n03891251: park bench
+796, n04229816: ski mask
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 801, n04251144: snorkel
+
+820) cnt mistakes = 18, file = n02791270/ILSVRC2012_val_00001520.JPEG
+target = 424, n02791270: barbershop
+multi_labels:
+424, n02791270: barbershop
+610, n03595614: jersey, T-shirt, tee shirt
+pred = 464, n02910353: buckle
+
+821) cnt mistakes = 18, file = n03967562/ILSVRC2012_val_00040821.JPEG
+target = 730, n03967562: plow, plough
+multi_labels:
+345, n02403003: ox
+730, n03967562: plow, plough
+pred = 690, n03868242: oxcart
+
+822) cnt mistakes = 18, file = n02106382/ILSVRC2012_val_00018331.JPEG
+target = 233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+multi_labels:
+233, n02106382: Bouvier des Flandres, Bouviers des Flandres
+pred = 197, n02097130: giant schnauzer
+
+824) cnt mistakes = 18, file = n04254120/ILSVRC2012_val_00030691.JPEG
+target = 804, n04254120: soap dispenser
+multi_labels:
+804, n04254120: soap dispenser
+pred = 648, n03742115: medicine chest, medicine cabinet
+
+825) cnt mistakes = 18, file = n03832673/ILSVRC2012_val_00042612.JPEG
+target = 681, n03832673: notebook, notebook computer
+multi_labels:
+681, n03832673: notebook, notebook computer
+761, n04074963: remote control, remote
+620, n03642806: laptop, laptop computer
+pred = 662, n03777754: modem
+
+826) cnt mistakes = 18, file = n03924679/ILSVRC2012_val_00033129.JPEG
+target = 713, n03924679: photocopier
+multi_labels:
+713, n03924679: photocopier
+742, n04004767: printer
+pred = 681, n03832673: notebook, notebook computer
+
+827) cnt mistakes = 18, file = n02123045/ILSVRC2012_val_00007006.JPEG
+target = 281, n02123045: tabby, tabby cat
+multi_labels:
+281, n02123045: tabby, tabby cat
+pred = 287, n02127052: lynx, catamount
+
+828) cnt mistakes = 18, file = n04251144/ILSVRC2012_val_00003639.JPEG
+target = 801, n04251144: snorkel
+multi_labels:
+801, n04251144: snorkel
+327, n02317335: starfish, sea star
+pred = 983, n10565667: scuba diver
+
+830) cnt mistakes = 18, file = n03920288/ILSVRC2012_val_00002704.JPEG
+target = 712, n03920288: Petri dish
+multi_labels:
+712, n03920288: Petri dish
+729, n03961711: plate rack
+pred = 495, n03018349: china cabinet, china closet
+
+831) cnt mistakes = 18, file = n04209239/ILSVRC2012_val_00031860.JPEG
+target = 794, n04209239: shower curtain
+multi_labels:
+794, n04209239: shower curtain
+pred = 999, n15075141: toilet tissue, toilet paper, bathroom tissue
+
+832) cnt mistakes = 18, file = n02510455/ILSVRC2012_val_00017598.JPEG
+target = 388, n02510455: giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+multi_labels:
+388, n02510455: giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+872, n04485082: tripod
+pred = 447, n02841315: binoculars, field glasses, opera glasses
+
+833) cnt mistakes = 18, file = n03481172/ILSVRC2012_val_00025034.JPEG
+target = 587, n03481172: hammer
+multi_labels:
+587, n03481172: hammer
+pred = 596, n03498962: hatchet
+
+834) cnt mistakes = 18, file = n02364673/ILSVRC2012_val_00006354.JPEG
+target = 338, n02364673: guinea pig, Cavia cobaya
+multi_labels:
+338, n02364673: guinea pig, Cavia cobaya
+pred = 332, n02328150: Angora, Angora rabbit
+
+835) cnt mistakes = 18, file = n03661043/ILSVRC2012_val_00018698.JPEG
+target = 624, n03661043: library
+multi_labels:
+624, n03661043: library
+pred = 453, n02870880: bookcase
+
+837) cnt mistakes = 18, file = n03483316/ILSVRC2012_val_00022014.JPEG
+target = 589, n03483316: hand blower, blow dryer, blow drier, hair dryer, hair drier
+multi_labels:
+589, n03483316: hand blower, blow dryer, blow drier, hair dryer, hair drier
+pred = 424, n02791270: barbershop
+
+838) cnt mistakes = 17, file = n01990800/ILSVRC2012_val_00009213.JPEG
+target = 126, n01990800: isopod
+multi_labels:
+126, n01990800: isopod
+pred = 124, n01985128: crayfish, crawfish, crawdad, crawdaddy
+
+839) cnt mistakes = 17, file = n02676566/ILSVRC2012_val_00047316.JPEG
+target = 402, n02676566: acoustic guitar
+multi_labels:
+402, n02676566: acoustic guitar
+pred = 819, n04296562: stage
+
+840) cnt mistakes = 17, file = n07873807/ILSVRC2012_val_00047524.JPEG
+target = 963, n07873807: pizza, pizza pie
+multi_labels:
+945, n07720875: bell pepper
+963, n07873807: pizza, pizza pie
+pred = 943, n07718472: cucumber, cuke
+
+842) cnt mistakes = 17, file = n02823428/ILSVRC2012_val_00006248.JPEG
+target = 440, n02823428: beer bottle
+multi_labels:
+440, n02823428: beer bottle
+455, n02877765: bottlecap
+pred = 968, n07930864: cup
+
+843) cnt mistakes = 17, file = n02894605/ILSVRC2012_val_00025334.JPEG
+target = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+multi_labels:
+437, n02814860: beacon, lighthouse, beacon light, pharos
+460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+pred = 718, n03933933: pier
+
+844) cnt mistakes = 17, file = n04023962/ILSVRC2012_val_00003025.JPEG
+target = 747, n04023962: punching bag, punch bag, punching ball, punchball
+multi_labels:
+747, n04023962: punching bag, punch bag, punching ball, punchball
+488, n02999410: chain
+pred = 902, n04579432: whistle
+
+845) cnt mistakes = 17, file = n03249569/ILSVRC2012_val_00012704.JPEG
+target = 541, n03249569: drum, membranophone, tympan
+multi_labels:
+541, n03249569: drum, membranophone, tympan
+pred = 542, n03250847: drumstick
+
+847) cnt mistakes = 17, file = n03721384/ILSVRC2012_val_00019692.JPEG
+target = 642, n03721384: marimba, xylophone
+multi_labels:
+642, n03721384: marimba, xylophone
+808, n04259630: sombrero
+pred = 542, n03250847: drumstick
+
+848) cnt mistakes = 17, file = n04273569/ILSVRC2012_val_00022760.JPEG
+target = 814, n04273569: speedboat
+multi_labels:
+814, n04273569: speedboat
+pred = 693, n03873416: paddle, boat paddle
+
+851) cnt mistakes = 17, file = n02101006/ILSVRC2012_val_00026797.JPEG
+target = 214, n02101006: Gordon setter
+multi_labels:
+214, n02101006: Gordon setter
+pred = 234, n02106550: Rottweiler
+
+852) cnt mistakes = 17, file = n04370456/ILSVRC2012_val_00039686.JPEG
+target = 841, n04370456: sweatshirt
+multi_labels:
+841, n04370456: sweatshirt
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+853) cnt mistakes = 17, file = n02841315/ILSVRC2012_val_00040975.JPEG
+target = 447, n02841315: binoculars, field glasses, opera glasses
+multi_labels:
+447, n02841315: binoculars, field glasses, opera glasses
+pred = 872, n04485082: tripod
+
+854) cnt mistakes = 17, file = n02690373/ILSVRC2012_val_00043242.JPEG
+target = 404, n02690373: airliner
+multi_labels:
+404, n02690373: airliner
+pred = 403, n02687172: aircraft carrier, carrier, flattop, attack aircraft carrier
+
+855) cnt mistakes = 17, file = n07836838/ILSVRC2012_val_00001078.JPEG
+target = 960, n07836838: chocolate sauce, chocolate syrup
+multi_labels:
+960, n07836838: chocolate sauce, chocolate syrup
+pred = 504, n03063599: coffee mug
+
+856) cnt mistakes = 17, file = n04286575/ILSVRC2012_val_00006882.JPEG
+target = 818, n04286575: spotlight, spot
+multi_labels:
+619, n03637318: lampshade, lamp shade
+818, n04286575: spotlight, spot
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 650, n03759954: microphone, mike
+
+859) cnt mistakes = 17, file = n02093991/ILSVRC2012_val_00039452.JPEG
+target = 184, n02093991: Irish terrier
+multi_labels:
+184, n02093991: Irish terrier
+pred = 226, n02105251: briard
+
+860) cnt mistakes = 17, file = n04367480/ILSVRC2012_val_00001845.JPEG
+target = 840, n04367480: swab, swob, mop
+multi_labels:
+840, n04367480: swab, swob, mop
+pred = 463, n02909870: bucket, pail
+
+861) cnt mistakes = 17, file = n02110806/ILSVRC2012_val_00009810.JPEG
+target = 253, n02110806: basenji
+multi_labels:
+253, n02110806: basenji
+pred = 151, n02085620: Chihuahua
+
+862) cnt mistakes = 17, file = n03950228/ILSVRC2012_val_00009107.JPEG
+target = 725, n03950228: pitcher, ewer
+multi_labels:
+725, n03950228: pitcher, ewer
+883, n04522168: vase
+pred = 619, n03637318: lampshade, lamp shade
+
+863) cnt mistakes = 17, file = n02089078/ILSVRC2012_val_00031040.JPEG
+target = 165, n02089078: black-and-tan coonhound
+multi_labels:
+165, n02089078: black-and-tan coonhound
+pred = 234, n02106550: Rottweiler
+
+864) cnt mistakes = 17, file = n02087046/ILSVRC2012_val_00038974.JPEG
+target = 158, n02087046: toy terrier
+multi_labels:
+158, n02087046: toy terrier
+pred = 253, n02110806: basenji
+
+865) cnt mistakes = 17, file = n03047690/ILSVRC2012_val_00025530.JPEG
+target = 502, n03047690: clog, geta, patten, sabot
+multi_labels:
+502, n03047690: clog, geta, patten, sabot
+689, n03866082: overskirt
+pred = 887, n04532106: vestment
+
+866) cnt mistakes = 17, file = n03770439/ILSVRC2012_val_00002702.JPEG
+target = 655, n03770439: miniskirt, mini
+multi_labels:
+608, n03594734: jean, blue jean, denim
+655, n03770439: miniskirt, mini
+pred = 514, n03124043: cowboy boot
+
+867) cnt mistakes = 17, file = n02988304/ILSVRC2012_val_00014972.JPEG
+target = 485, n02988304: CD player
+multi_labels:
+485, n02988304: CD player
+pred = 592, n03492542: hard disc, hard disk, fixed disk
+
+869) cnt mistakes = 16, file = n03637318/ILSVRC2012_val_00010971.JPEG
+target = 619, n03637318: lampshade, lamp shade
+multi_labels:
+619, n03637318: lampshade, lamp shade
+pred = 905, n04590129: window shade
+
+870) cnt mistakes = 16, file = n02749479/ILSVRC2012_val_00012724.JPEG
+target = 413, n02749479: assault rifle, assault gun
+multi_labels:
+413, n02749479: assault rifle, assault gun
+764, n04090263: rifle
+pred = 597, n03527444: holster
+
+871) cnt mistakes = 16, file = n02783161/ILSVRC2012_val_00007888.JPEG
+target = 418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+multi_labels:
+418, n02783161: ballpoint, ballpoint pen, ballpen, Biro
+pred = 767, n04116512: rubber eraser, rubber, pencil eraser
+
+873) cnt mistakes = 16, file = n03530642/ILSVRC2012_val_00004681.JPEG
+target = 599, n03530642: honeycomb
+multi_labels:
+582, n03461385: grocery store, grocery, food market, market
+599, n03530642: honeycomb
+pred = 692, n03871628: packet
+
+874) cnt mistakes = 16, file = n06794110/ILSVRC2012_val_00049982.JPEG
+target = 919, n06794110: street sign
+multi_labels:
+919, n06794110: street sign
+pred = 733, n03976657: pole
+
+875) cnt mistakes = 16, file = n02730930/ILSVRC2012_val_00009021.JPEG
+target = 411, n02730930: apron
+multi_labels:
+411, n02730930: apron
+464, n02910353: buckle
+pred = 597, n03527444: holster
+
+876) cnt mistakes = 16, file = n03400231/ILSVRC2012_val_00014088.JPEG
+target = 567, n03400231: frying pan, frypan, skillet
+multi_labels:
+567, n03400231: frying pan, frypan, skillet
+pred = 813, n04270147: spatula
+
+877) cnt mistakes = 16, file = n03691459/ILSVRC2012_val_00022310.JPEG
+target = 632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+multi_labels:
+482, n02979186: cassette player
+485, n02988304: CD player
+632, n03691459: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+848, n04392985: tape player
+pred = 548, n03290653: entertainment center
+
+878) cnt mistakes = 16, file = n03063689/ILSVRC2012_val_00019271.JPEG
+target = 505, n03063689: coffeepot
+multi_labels:
+505, n03063689: coffeepot
+pred = 550, n03297495: espresso maker
+
+879) cnt mistakes = 16, file = n02910353/ILSVRC2012_val_00026105.JPEG
+target = 464, n02910353: buckle
+multi_labels:
+464, n02910353: buckle
+610, n03595614: jersey, T-shirt, tee shirt
+pred = 841, n04370456: sweatshirt
+
+880) cnt mistakes = 16, file = n04209239/ILSVRC2012_val_00035393.JPEG
+target = 794, n04209239: shower curtain
+multi_labels:
+794, n04209239: shower curtain
+pred = 905, n04590129: window shade
+
+881) cnt mistakes = 16, file = n09332890/ILSVRC2012_val_00010179.JPEG
+target = 975, n09332890: lakeside, lakeshore
+multi_labels:
+975, n09332890: lakeside, lakeshore
+pred = 460, n02894605: breakwater, groin, groyne, mole, bulwark, seawall, jetty
+
+882) cnt mistakes = 16, file = n04344873/ILSVRC2012_val_00049662.JPEG
+target = 831, n04344873: studio couch, day bed
+multi_labels:
+831, n04344873: studio couch, day bed
+pred = 655, n03770439: miniskirt, mini
+
+883) cnt mistakes = 16, file = n02123045/ILSVRC2012_val_00035163.JPEG
+target = 281, n02123045: tabby, tabby cat
+multi_labels:
+281, n02123045: tabby, tabby cat
+282, n02123159: tiger cat
+728, n03958227: plastic bag
+pred = 700, n03887697: paper towel
+
+885) cnt mistakes = 16, file = n04371430/ILSVRC2012_val_00023648.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+pred = 693, n03873416: paddle, boat paddle
+
+886) cnt mistakes = 16, file = n03017168/ILSVRC2012_val_00018917.JPEG
+target = 494, n03017168: chime, bell, gong
+multi_labels:
+494, n03017168: chime, bell, gong
+pred = 442, n02825657: bell cote, bell cot
+
+887) cnt mistakes = 16, file = n03942813/ILSVRC2012_val_00014523.JPEG
+target = 722, n03942813: ping-pong ball
+multi_labels:
+722, n03942813: ping-pong ball
+868, n04476259: tray
+876, n04493381: tub, vat
+435, n02808440: bathtub, bathing tub, bath, tub
+pred = 968, n07930864: cup
+
+888) cnt mistakes = 16, file = n04254120/ILSVRC2012_val_00047496.JPEG
+target = 804, n04254120: soap dispenser
+multi_labels:
+804, n04254120: soap dispenser
+pred = 861, n04447861: toilet seat
+
+890) cnt mistakes = 16, file = n03866082/ILSVRC2012_val_00009424.JPEG
+target = 689, n03866082: overskirt
+multi_labels:
+601, n03534580: hoopskirt, crinoline
+689, n03866082: overskirt
+pred = 885, n04525038: velvet
+
+892) cnt mistakes = 16, file = n03125729/ILSVRC2012_val_00021829.JPEG
+target = 516, n03125729: cradle
+multi_labels:
+425, n02793495: barn
+516, n03125729: cradle
+958, n07802026: hay
+pred = 856, n04428191: thresher, thrasher, threshing machine
+
+893) cnt mistakes = 16, file = n03388043/ILSVRC2012_val_00016406.JPEG
+target = 562, n03388043: fountain
+multi_labels:
+562, n03388043: fountain
+733, n03976657: pole
+884, n04523525: vault
+pred = 687, n03854065: organ, pipe organ
+
+896) cnt mistakes = 16, file = n02877765/ILSVRC2012_val_00032877.JPEG
+target = 455, n02877765: bottlecap
+multi_labels:
+455, n02877765: bottlecap
+721, n03938244: pillow
+831, n04344873: studio couch, day bed
+pred = 697, n03877472: pajama, pyjama, pj's, jammies
+
+898) cnt mistakes = 15, file = n04332243/ILSVRC2012_val_00048376.JPEG
+target = 828, n04332243: strainer
+multi_labels:
+828, n04332243: strainer
+pred = 618, n03633091: ladle
+
+899) cnt mistakes = 15, file = n04330267/ILSVRC2012_val_00049251.JPEG
+target = 827, n04330267: stove
+multi_labels:
+827, n04330267: stove
+pred = 469, n02939185: caldron, cauldron
+
+900) cnt mistakes = 15, file = n04591157/ILSVRC2012_val_00045273.JPEG
+target = 906, n04591157: Windsor tie
+multi_labels:
+893, n04548362: wallet, billfold, notecase, pocketbook
+906, n04591157: Windsor tie
+pred = 630, n03680355: Loafer
+
+901) cnt mistakes = 15, file = n02727426/ILSVRC2012_val_00042797.JPEG
+target = 410, n02727426: apiary, bee house
+multi_labels:
+410, n02727426: apiary, bee house
+834, n04350905: suit, suit of clothes
+pred = 982, n10148035: groom, bridegroom
+
+902) cnt mistakes = 15, file = n02687172/ILSVRC2012_val_00009801.JPEG
+target = 403, n02687172: aircraft carrier, carrier, flattop, attack aircraft carrier
+multi_labels:
+403, n02687172: aircraft carrier, carrier, flattop, attack aircraft carrier
+pred = 536, n03216828: dock, dockage, docking facility
+
+903) cnt mistakes = 15, file = n04008634/ILSVRC2012_val_00032572.JPEG
+target = 744, n04008634: projectile, missile
+multi_labels:
+657, n03773504: missile
+744, n04008634: projectile, missile
+pred = 908, n04592741: wing
+
+904) cnt mistakes = 15, file = n04133789/ILSVRC2012_val_00049173.JPEG
+target = 774, n04133789: sandal
+multi_labels:
+774, n04133789: sandal
+pred = 788, n04200800: shoe shop, shoe-shop, shoe store
+
+905) cnt mistakes = 15, file = n04336792/ILSVRC2012_val_00037415.JPEG
+target = 830, n04336792: stretcher
+multi_labels:
+830, n04336792: stretcher
+837, n04356056: sunglasses, dark glasses, shades
+836, n04355933: sunglass
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+906) cnt mistakes = 15, file = n04296562/ILSVRC2012_val_00040086.JPEG
+target = 819, n04296562: stage
+multi_labels:
+819, n04296562: stage
+pred = 650, n03759954: microphone, mike
+
+907) cnt mistakes = 15, file = n03216828/ILSVRC2012_val_00001983.JPEG
+target = 536, n03216828: dock, dockage, docking facility
+multi_labels:
+489, n03000134: chainlink fence
+421, n02788148: bannister, banister, balustrade, balusters, handrail
+536, n03216828: dock, dockage, docking facility
+576, n03447447: gondola
+706, n03899768: patio, terrace
+pred = 975, n09332890: lakeside, lakeshore
+
+911) cnt mistakes = 15, file = n03775546/ILSVRC2012_val_00029554.JPEG
+target = 659, n03775546: mixing bowl
+multi_labels:
+659, n03775546: mixing bowl
+809, n04263257: soup bowl
+pred = 968, n07930864: cup
+
+913) cnt mistakes = 15, file = n02840245/ILSVRC2012_val_00049094.JPEG
+target = 446, n02840245: binder, ring-binder
+multi_labels:
+446, n02840245: binder, ring-binder
+pred = 893, n04548362: wallet, billfold, notecase, pocketbook
+
+915) cnt mistakes = 15, file = n01943899/ILSVRC2012_val_00019461.JPEG
+target = 112, n01943899: conch
+multi_labels:
+112, n01943899: conch
+pred = 125, n01986214: hermit crab
+
+916) cnt mistakes = 15, file = n03201208/ILSVRC2012_val_00006493.JPEG
+target = 532, n03201208: dining table, board
+multi_labels:
+532, n03201208: dining table, board
+pred = 762, n04081281: restaurant, eating house, eating place, eatery
+
+918) cnt mistakes = 15, file = n07590611/ILSVRC2012_val_00010841.JPEG
+target = 926, n07590611: hot pot, hotpot
+multi_labels:
+926, n07590611: hot pot, hotpot
+pred = 521, n03133878: Crock Pot
+
+921) cnt mistakes = 15, file = n03929660/ILSVRC2012_val_00022149.JPEG
+target = 714, n03929660: pick, plectrum, plectron
+multi_labels:
+679, n03814906: necklace
+714, n03929660: pick, plectrum, plectron
+pred = 455, n02877765: bottlecap
+
+922) cnt mistakes = 15, file = n03804744/ILSVRC2012_val_00005756.JPEG
+target = 677, n03804744: nail
+multi_labels:
+677, n03804744: nail
+pred = 784, n04154565: screwdriver
+
+923) cnt mistakes = 15, file = n04523525/ILSVRC2012_val_00009995.JPEG
+target = 884, n04523525: vault
+multi_labels:
+884, n04523525: vault
+pred = 857, n04429376: throne
+
+926) cnt mistakes = 15, file = n06794110/ILSVRC2012_val_00012162.JPEG
+target = 919, n06794110: street sign
+multi_labels:
+919, n06794110: street sign
+pred = 860, n04443257: tobacco shop, tobacconist shop, tobacconist
+
+927) cnt mistakes = 15, file = n04356056/ILSVRC2012_val_00044858.JPEG
+target = 837, n04356056: sunglasses, dark glasses, shades
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+970, n09193705: alp
+pred = 795, n04228054: ski
+
+928) cnt mistakes = 15, file = n03843555/ILSVRC2012_val_00039328.JPEG
+target = 686, n03843555: oil filter
+multi_labels:
+479, n02974003: car wheel
+686, n03843555: oil filter
+545, n03271574: electric fan, blower
+pred = 573, n03444034: go-kart
+
+929) cnt mistakes = 15, file = n10565667/ILSVRC2012_val_00017929.JPEG
+target = 983, n10565667: scuba diver
+multi_labels:
+983, n10565667: scuba diver
+pred = 801, n04251144: snorkel
+
+931) cnt mistakes = 15, file = n04552348/ILSVRC2012_val_00034713.JPEG
+target = 895, n04552348: warplane, military plane
+multi_labels:
+895, n04552348: warplane, military plane
+pred = 403, n02687172: aircraft carrier, carrier, flattop, attack aircraft carrier
+
+932) cnt mistakes = 15, file = n03903868/ILSVRC2012_val_00010985.JPEG
+target = 708, n03903868: pedestal, plinth, footstall
+multi_labels:
+706, n03899768: patio, terrace
+708, n03903868: pedestal, plinth, footstall
+pred = 799, n04239074: sliding door
+
+933) cnt mistakes = 15, file = n04552348/ILSVRC2012_val_00018638.JPEG
+target = 895, n04552348: warplane, military plane
+multi_labels:
+895, n04552348: warplane, military plane
+908, n04592741: wing
+pred = 744, n04008634: projectile, missile
+
+934) cnt mistakes = 15, file = n03141823/ILSVRC2012_val_00008131.JPEG
+target = 523, n03141823: crutch
+multi_labels:
+523, n03141823: crutch
+608, n03594734: jean, blue jean, denim
+pred = 636, n03709823: mailbag, postbag
+
+936) cnt mistakes = 15, file = n06874185/ILSVRC2012_val_00047101.JPEG
+target = 920, n06874185: traffic light, traffic signal, stoplight
+multi_labels:
+920, n06874185: traffic light, traffic signal, stoplight
+pred = 919, n06794110: street sign
+
+937) cnt mistakes = 15, file = n03929660/ILSVRC2012_val_00023178.JPEG
+target = 714, n03929660: pick, plectrum, plectron
+multi_labels:
+679, n03814906: necklace
+714, n03929660: pick, plectrum, plectron
+pred = 455, n02877765: bottlecap
+
+938) cnt mistakes = 15, file = n04310018/ILSVRC2012_val_00008744.JPEG
+target = 820, n04310018: steam locomotive
+multi_labels:
+565, n03393912: freight car
+733, n03976657: pole
+820, n04310018: steam locomotive
+pred = 517, n03126707: crane
+
+939) cnt mistakes = 15, file = n04476259/ILSVRC2012_val_00049432.JPEG
+target = 868, n04476259: tray
+multi_labels:
+868, n04476259: tray
+pred = 960, n07836838: chocolate sauce, chocolate syrup
+
+940) cnt mistakes = 15, file = n02807133/ILSVRC2012_val_00014229.JPEG
+target = 433, n02807133: bathing cap, swimming cap
+multi_labels:
+433, n02807133: bathing cap, swimming cap
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 655, n03770439: miniskirt, mini
+
+944) cnt mistakes = 14, file = n02769748/ILSVRC2012_val_00029320.JPEG
+target = 414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+multi_labels:
+414, n02769748: backpack, back pack, knapsack, packsack, rucksack, haversack
+pred = 608, n03594734: jean, blue jean, denim
+
+945) cnt mistakes = 14, file = n02871525/ILSVRC2012_val_00039023.JPEG
+target = 454, n02871525: bookshop, bookstore, bookstall
+multi_labels:
+454, n02871525: bookshop, bookstore, bookstall
+pred = 453, n02870880: bookcase
+
+946) cnt mistakes = 14, file = n04275548/ILSVRC2012_val_00040594.JPEG
+target = 815, n04275548: spider web, spider's web
+multi_labels:
+815, n04275548: spider web, spider's web
+pred = 73, n01773549: barn spider, Araneus cavaticus
+
+947) cnt mistakes = 14, file = n02123045/ILSVRC2012_val_00030706.JPEG
+target = 281, n02123045: tabby, tabby cat
+multi_labels:
+281, n02123045: tabby, tabby cat
+pred = 287, n02127052: lynx, catamount
+
+948) cnt mistakes = 14, file = n04067472/ILSVRC2012_val_00010458.JPEG
+target = 758, n04067472: reel
+multi_labels:
+718, n03933933: pier
+758, n04067472: reel
+pred = 733, n03976657: pole
+
+949) cnt mistakes = 14, file = n03063689/ILSVRC2012_val_00007862.JPEG
+target = 505, n03063689: coffeepot
+multi_labels:
+505, n03063689: coffeepot
+pred = 550, n03297495: espresso maker
+
+950) cnt mistakes = 14, file = n02871525/ILSVRC2012_val_00018114.JPEG
+target = 454, n02871525: bookshop, bookstore, bookstall
+multi_labels:
+454, n02871525: bookshop, bookstore, bookstall
+pred = 481, n02978881: cassette
+
+951) cnt mistakes = 14, file = n02104029/ILSVRC2012_val_00000507.JPEG
+target = 222, n02104029: kuvasz
+multi_labels:
+222, n02104029: kuvasz
+pred = 258, n02111889: Samoyed, Samoyede
+
+952) cnt mistakes = 14, file = n02110806/ILSVRC2012_val_00013318.JPEG
+target = 253, n02110806: basenji
+multi_labels:
+253, n02110806: basenji
+pred = 158, n02087046: toy terrier
+
+955) cnt mistakes = 14, file = n04456115/ILSVRC2012_val_00038629.JPEG
+target = 862, n04456115: torch
+multi_labels:
+862, n04456115: torch
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+956) cnt mistakes = 14, file = n03721384/ILSVRC2012_val_00038298.JPEG
+target = 642, n03721384: marimba, xylophone
+multi_labels:
+642, n03721384: marimba, xylophone
+643, n03724870: mask
+pred = 903, n04584207: wig
+
+958) cnt mistakes = 14, file = n02988304/ILSVRC2012_val_00016465.JPEG
+target = 485, n02988304: CD player
+multi_labels:
+485, n02988304: CD player
+664, n03782006: monitor
+754, n04041544: radio, wireless
+782, n04152593: screen, CRT screen
+pred = 685, n03841143: odometer, hodometer, mileometer, milometer
+
+959) cnt mistakes = 14, file = n03272010/ILSVRC2012_val_00032755.JPEG
+target = 546, n03272010: electric guitar
+multi_labels:
+546, n03272010: electric guitar
+819, n04296562: stage
+pred = 401, n02672831: accordion, piano accordion, squeeze box
+
+960) cnt mistakes = 14, file = n02097130/ILSVRC2012_val_00045760.JPEG
+target = 197, n02097130: giant schnauzer
+multi_labels:
+197, n02097130: giant schnauzer
+pred = 205, n02099267: flat-coated retriever
+
+962) cnt mistakes = 14, file = n03792972/ILSVRC2012_val_00013478.JPEG
+target = 672, n03792972: mountain tent
+multi_labels:
+672, n03792972: mountain tent
+pred = 797, n04235860: sleeping bag
+
+963) cnt mistakes = 14, file = n04389033/ILSVRC2012_val_00040332.JPEG
+target = 847, n04389033: tank, army tank, armored combat vehicle, armoured combat vehicle
+multi_labels:
+847, n04389033: tank, army tank, armored combat vehicle, armoured combat vehicle
+pred = 471, n02950826: cannon
+
+964) cnt mistakes = 14, file = n02992529/ILSVRC2012_val_00028501.JPEG
+target = 487, n02992529: cellular telephone, cellular phone, cellphone, cell, mobile phone
+multi_labels:
+487, n02992529: cellular telephone, cellular phone, cellphone, cell, mobile phone
+834, n04350905: suit, suit of clothes
+pred = 869, n04479046: trench coat
+
+966) cnt mistakes = 14, file = n03376595/ILSVRC2012_val_00014479.JPEG
+target = 559, n03376595: folding chair
+multi_labels:
+559, n03376595: folding chair
+pred = 706, n03899768: patio, terrace
+
+967) cnt mistakes = 14, file = n03692522/ILSVRC2012_val_00036273.JPEG
+target = 633, n03692522: loupe, jeweler's loupe
+multi_labels:
+526, n03179701: desk
+527, n03180011: desktop computer
+633, n03692522: loupe, jeweler's loupe
+664, n03782006: monitor
+782, n04152593: screen, CRT screen
+pred = 613, n03602883: joystick
+
+968) cnt mistakes = 14, file = n07614500/ILSVRC2012_val_00035076.JPEG
+target = 928, n07614500: ice cream, icecream
+multi_labels:
+928, n07614500: ice cream, icecream
+923, n07579787: plate
+pred = 949, n07745940: strawberry
+
+970) cnt mistakes = 14, file = n03804744/ILSVRC2012_val_00015196.JPEG
+target = 677, n03804744: nail
+multi_labels:
+677, n03804744: nail
+pred = 587, n03481172: hammer
+
+972) cnt mistakes = 14, file = n04152593/ILSVRC2012_val_00019442.JPEG
+target = 782, n04152593: screen, CRT screen
+multi_labels:
+508, n03085013: computer keyboard, keypad
+526, n03179701: desk
+527, n03180011: desktop computer
+664, n03782006: monitor
+673, n03793489: mouse, computer mouse
+782, n04152593: screen, CRT screen
+pred = 742, n04004767: printer
+
+973) cnt mistakes = 14, file = n02948072/ILSVRC2012_val_00023314.JPEG
+target = 470, n02948072: candle, taper, wax light
+multi_labels:
+470, n02948072: candle, taper, wax light
+pred = 644, n03729826: matchstick
+
+974) cnt mistakes = 14, file = n04590129/ILSVRC2012_val_00011450.JPEG
+target = 905, n04590129: window shade
+multi_labels:
+905, n04590129: window shade
+pred = 619, n03637318: lampshade, lamp shade
+
+975) cnt mistakes = 14, file = n02089078/ILSVRC2012_val_00025466.JPEG
+target = 165, n02089078: black-and-tan coonhound
+multi_labels:
+165, n02089078: black-and-tan coonhound
+pred = 234, n02106550: Rottweiler
+
+976) cnt mistakes = 14, file = n02823750/ILSVRC2012_val_00014305.JPEG
+target = 441, n02823750: beer glass
+multi_labels:
+441, n02823750: beer glass
+pred = 440, n02823428: beer bottle
+
+978) cnt mistakes = 13, file = n04209239/ILSVRC2012_val_00003017.JPEG
+target = 794, n04209239: shower curtain
+multi_labels:
+794, n04209239: shower curtain
+973, n09256479: coral reef
+pred = 393, n02607072: anemone fish
+
+979) cnt mistakes = 13, file = n04371430/ILSVRC2012_val_00021706.JPEG
+target = 842, n04371430: swimming trunks, bathing trunks
+multi_labels:
+842, n04371430: swimming trunks, bathing trunks
+pred = 977, n09421951: sandbar, sand bar
+
+981) cnt mistakes = 13, file = n03124170/ILSVRC2012_val_00009695.JPEG
+target = 515, n03124170: cowboy hat, ten-gallon hat
+multi_labels:
+515, n03124170: cowboy hat, ten-gallon hat
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+982) cnt mistakes = 13, file = n04192698/ILSVRC2012_val_00047613.JPEG
+target = 787, n04192698: shield, buckler
+multi_labels:
+787, n04192698: shield, buckler
+pred = 777, n04141327: scabbard
+
+983) cnt mistakes = 13, file = n04596742/ILSVRC2012_val_00020778.JPEG
+target = 909, n04596742: wok
+multi_labels:
+909, n04596742: wok
+pred = 926, n07590611: hot pot, hotpot
+
+984) cnt mistakes = 13, file = n09332890/ILSVRC2012_val_00018915.JPEG
+target = 975, n09332890: lakeside, lakeshore
+multi_labels:
+975, n09332890: lakeside, lakeshore
+pred = 449, n02859443: boathouse
+
+985) cnt mistakes = 13, file = n02749479/ILSVRC2012_val_00000790.JPEG
+target = 413, n02749479: assault rifle, assault gun
+multi_labels:
+413, n02749479: assault rifle, assault gun
+pred = 465, n02916936: bulletproof vest
+
+986) cnt mistakes = 13, file = n04355933/ILSVRC2012_val_00021396.JPEG
+target = 836, n04355933: sunglass
+multi_labels:
+836, n04355933: sunglass
+837, n04356056: sunglasses, dark glasses, shades
+pred = 610, n03595614: jersey, T-shirt, tee shirt
+
+989) cnt mistakes = 13, file = n04264628/ILSVRC2012_val_00006598.JPEG
+target = 810, n04264628: space bar
+multi_labels:
+527, n03180011: desktop computer
+810, n04264628: space bar
+pred = 742, n04004767: printer
+
+991) cnt mistakes = 13, file = n03637318/ILSVRC2012_val_00012801.JPEG
+target = 619, n03637318: lampshade, lamp shade
+multi_labels:
+619, n03637318: lampshade, lamp shade
+846, n04380533: table lamp
+pred = 664, n03782006: monitor
+
+992) cnt mistakes = 13, file = n03710721/ILSVRC2012_val_00034525.JPEG
+target = 639, n03710721: maillot, tank suit
+multi_labels:
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 655, n03770439: miniskirt, mini
+
+993) cnt mistakes = 13, file = n04296562/ILSVRC2012_val_00049294.JPEG
+target = 819, n04296562: stage
+multi_labels:
+818, n04286575: spotlight, spot
+819, n04296562: stage
+854, n04418357: theater curtain, theatre curtain
+pred = 486, n02992211: cello, violoncello
+
+994) cnt mistakes = 13, file = n03124043/ILSVRC2012_val_00003024.JPEG
+target = 514, n03124043: cowboy boot
+multi_labels:
+514, n03124043: cowboy boot
+pred = 608, n03594734: jean, blue jean, denim
+
+995) cnt mistakes = 13, file = n02869837/ILSVRC2012_val_00033052.JPEG
+target = 452, n02869837: bonnet, poke bonnet
+multi_labels:
+452, n02869837: bonnet, poke bonnet
+pred = 911, n04599235: wool, woolen, woollen
+
+996) cnt mistakes = 13, file = n02807133/ILSVRC2012_val_00011741.JPEG
+target = 433, n02807133: bathing cap, swimming cap
+multi_labels:
+433, n02807133: bathing cap, swimming cap
+638, n03710637: maillot
+639, n03710721: maillot, tank suit
+pred = 801, n04251144: snorkel
+
+997) cnt mistakes = 13, file = n04418357/ILSVRC2012_val_00007909.JPEG
+target = 854, n04418357: theater curtain, theatre curtain
+multi_labels:
+854, n04418357: theater curtain, theatre curtain
+pred = 794, n04209239: shower curtain
+
+998) cnt mistakes = 13, file = n07930864/ILSVRC2012_val_00031831.JPEG
+target = 968, n07930864: cup
+multi_labels:
+809, n04263257: soup bowl
+923, n07579787: plate
+968, n07930864: cup
+pred = 961, n07860988: dough
+
+1000) cnt mistakes = 13, file = n07579787/ILSVRC2012_val_00027644.JPEG
+target = 923, n07579787: plate
+multi_labels:
+923, n07579787: plate
+pred = 122, n01983481: American lobster, Northern lobster, Maine lobster, Homarus americanus
+

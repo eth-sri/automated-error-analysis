@@ -1,0 +1,3 @@
+[submodule "imagenet-mistakes"]
+	path = imagenet-mistakes
+	url = https://github.com/google-research/imagenet-mistakes
