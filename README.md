@@ -86,7 +86,7 @@ the summaries of the analyses are written in the [stats-imagenet](stats-imagenet
 
 To speed up the process, allowing you to skip the two steps above,
 we also provide archives with the error analysis for each model in the
-[artefacts](artefacts) folder. More concretely, we analyse the prediction of
+`artefacts` folder. More concretely, we analyse the prediction of
 each model on every sample from the validation sets.
 
 ```bash
