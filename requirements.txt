@@ -3,7 +3,7 @@ ipywidgets==8.0.6
 jupyter==1.0.0
 loguru==0.7.0
 matplotlib==3.7.1
-nltk==3.8.1
+nltk==3.9.1
 notebook==6.5.4
 pandas==2.0.2
 regex==2023.5.5
